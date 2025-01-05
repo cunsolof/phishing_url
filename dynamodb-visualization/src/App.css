@@ -1,0 +1,107 @@
+/* Style principal pour l'application */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px; /* Espacement autour du contenu */
+  background-color: #f4f4f9; /* Couleur de fond légère */
+  margin: 0 auto;
+  max-width: 1200px; /* Limite la largeur maximale de l'application */
+}
+
+h1 {
+  color: #4CAF50;
+  margin-bottom: 20px; /* Espacement sous le titre */
+  font-size: 2rem; /* Taille plus grande pour le titre */
+}
+
+h2 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Style pour les tableaux */
+table {
+  width: 100%; /* Le tableau prend toute la largeur disponible */
+  max-width: 1000px; /* Limite la largeur du tableau */
+  margin: 20px auto; /* Centre le tableau */
+  border-collapse: collapse; /* Fusionne les bordures du tableau */
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Légère ombre autour du tableau */
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 12px; /* Espacement autour des données */
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style spécifique pour le graphique */
+canvas {
+  width: 100% !important; /* Force le graphique à utiliser toute la largeur disponible */
+  height: auto;
+  max-width: 1000px; /* Limite la largeur maximale du graphique */
+  margin: 0 auto;
+}
+
+/* Formulaire de sélection de date */
+input[type="date"] {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Conteneur pour les graphiques, centré et bien espacé */
+.graph-container {
+  width: 100%;
+  max-width: 1000px; /* Limite la largeur des graphiques */
+  margin: 30px auto;
+}
+
+/* Ajuste la taille des graphiques et garantit qu'ils sont responsives */
+.graph-container canvas {
+  width: 100% !important; /* Force le graphique à utiliser 100% de la largeur du conteneur */
+  height: 400px; /* Définit une hauteur raisonnable */
+  max-height: 600px; /* Limite la hauteur maximale */
+}
+
+/* Centrage du contenu avec un peu d'espace */
+.data-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.chart-container {
+  width: 80%;  /* Ajuster la largeur */
+  margin: 20px auto; /* Centrer le graphique */
+  max-width: 800px; /* Limiter la largeur pour éviter un graphique trop large sur des écrans larges */
+  height: 400px;  /* Hauteur du graphique pour éviter qu'il ne devienne trop grand */
+}
