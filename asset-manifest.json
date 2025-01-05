@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phishing_url/dynamodb-visualization/static/css/main.3e71e8c2.css",
+    "main.js": "/phishing_url/dynamodb-visualization/static/js/main.8c0a77c7.js",
+    "static/js/453.f880856b.chunk.js": "/phishing_url/dynamodb-visualization/static/js/453.f880856b.chunk.js",
+    "index.html": "/phishing_url/dynamodb-visualization/index.html",
+    "main.3e71e8c2.css.map": "/phishing_url/dynamodb-visualization/static/css/main.3e71e8c2.css.map",
+    "main.8c0a77c7.js.map": "/phishing_url/dynamodb-visualization/static/js/main.8c0a77c7.js.map",
+    "453.f880856b.chunk.js.map": "/phishing_url/dynamodb-visualization/static/js/453.f880856b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e71e8c2.css",
+    "static/js/main.8c0a77c7.js"
+  ]
+}
