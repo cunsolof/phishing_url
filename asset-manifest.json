@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phishing_url/static/css/main.3e71e8c2.css",
-    "main.js": "/phishing_url/static/js/main.523bdd44.js",
+    "main.js": "/phishing_url/static/js/main.6a1ecc32.js",
     "static/js/453.f880856b.chunk.js": "/phishing_url/static/js/453.f880856b.chunk.js",
     "index.html": "/phishing_url/index.html",
     "main.3e71e8c2.css.map": "/phishing_url/static/css/main.3e71e8c2.css.map",
-    "main.523bdd44.js.map": "/phishing_url/static/js/main.523bdd44.js.map",
+    "main.6a1ecc32.js.map": "/phishing_url/static/js/main.6a1ecc32.js.map",
     "453.f880856b.chunk.js.map": "/phishing_url/static/js/453.f880856b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e71e8c2.css",
-    "static/js/main.523bdd44.js"
+    "static/js/main.6a1ecc32.js"
   ]
 }
