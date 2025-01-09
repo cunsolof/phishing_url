@@ -116,16 +116,18 @@ function App() {
   };
 
   const last50Entries = data
-    .sort((a, b) => new Date(b.date) - new Date(a.date)) // Trie les données par date descendante
-    .slice(0, 50)
-    .filter(entry => !showMaliciousOnly || entry.is_safe === false); // Filtre selon la case à cocher
+  .sort((a, b) => new Date(b.date) - new Date(a.date)) // Trie les données par date descendante
+  .slice(0, 50);
+
+  // Appliquer le filtrage `showMaliciousOnly` uniquement aux 50 dernières entrées
+  const filteredLast50Entries = last50Entries.filter(entry => !showMaliciousOnly || entry.is_safe === false);
 
   return (
     <div className="App">
       <h1>Visualisation des données</h1>
-  
+
       {error && <p style={{ color: 'red' }}>{error}</p>}
-  
+
       <div className="data-container">
         {/* Conteneur flex pour les deux graphiques */}
         <div className="charts-row">
@@ -183,14 +185,13 @@ function App() {
               </tr>
             </thead>
             <tbody>
-              {last50Entries
-                .filter((entry) => (showMaliciousOnly ? entry.is_safe === false : true)) // Filtrer par is_safe
+              {filteredLast50Entries
                 .map((entry, index) => (
                   <tr key={index}>
                     <td>{index + 1}</td>
                     <td>{entry.source}</td>
                     <td>
-                      <a href={entry.url} target="_blank" rel="noopener noreferrer">
+                      <a href={entry.source === 'CRAWLER' && !entry.url.startsWith('https://') ? 'https://' + entry.url : entry.url} target="_blank" rel="noopener noreferrer">
                         {entry.url}
                       </a>
                     </td>
