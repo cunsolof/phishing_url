@@ -1,48 +1,12 @@
 [
     {
-        "id": "089cc5a1-265c-4c61-af2f-bd8e786d4416",
-        "date": "2024-12-31T14:13:53",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/DataHoarder/wiki/index).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "145b7fd7-2e34-4a40-b5a4-68a11fba9627",
-        "date": "2024-11-21T21:14:18",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtu.be/wv0GyjiBynY?feature=shared&t=11m25s)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "8ac6ea8b-d517-43b4-87bf-a462b81ef01c",
-        "date": "2024-12-17T00:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/AdoptMeTrading/comments/1h9lvzu/mod_post_est_weekends_are_being_removed/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "33ec6ec3-0dff-4e58-9755-79c60a94223e",
-        "date": "2025-01-07T08:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/YPgjxRX8rg).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
         "id": "23f7c62f-cc73-440b-ba7b-66a6e97dd9ff",
         "date": "2025-01-08T16:13:50",
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/rFV6GTyPxm",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": false
     },
     {
         "id": "aeffd935-312b-4295-b396-b5e8c0b66bf3",
@@ -51,7 +15,7 @@
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/AsOneAfterInfidelity/wiki/index)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": false
     },
     {
         "id": "c98d642f-d10e-4ede-ba73-a29cbae9293a",
@@ -60,7 +24,7 @@
         "source_name": "reddit",
         "url": "https://discord.gg/An4MkSw6aQ",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": false
     },
     {
         "id": "babe9157-aa82-40e1-8bbf-1fb4c66e2bea",
@@ -69,7 +33,7 @@
         "source_name": "reddit",
         "url": "https://discord.gg/redditmgo",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "5c3f858e-0440-418b-8381-b2eb49b704da",
@@ -78,7 +42,7 @@
         "source_name": "reddit",
         "url": "https://www.meta.com/appreferrals/xiTzDaviid/2603836099654226/](https://www.meta.com/appreferrals/xiTzDaviid/2603836099654226/)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "849ba4dc-9a2c-4546-9b93-430c694913c4",
@@ -87,7 +51,7 @@
         "source_name": "reddit",
         "url": "https://only.exchange/dasan)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "f9ec325b-5945-4971-b5f9-58b005765c21",
@@ -96,7 +60,7 @@
         "source_name": "reddit",
         "url": "https://discord.gg/M2YNP8H)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b6dc94d2-b84e-4cce-a53e-af9aaf557351",
@@ -105,7 +69,7 @@
         "source_name": "reddit",
         "url": "https://preview.redd.it/puaejr895n5e1.jpg?width=2407&format=pjpg&auto=webp&s=82cb3b21e7816a4aa550d4046dc1e260c4c97072",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "f7007783-e576-4d1a-8747-fb428c95ab2b",
@@ -114,7 +78,7 @@
         "source_name": "reddit",
         "url": "https://i.imgur.com/i3qOPay.jpg)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "cab1c1e6-ea50-4446-a754-a8344389c8db",
@@ -123,7 +87,7 @@
         "source_name": "reddit",
         "url": "https://preview.redd.it/mjlgyv4bbd6e1.png?width=1920&format=png&auto=webp&s=1743856ecd32fb92034e042e996f7dd2d62be92c",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "46c8be58-5f93-4722-bff1-0f1d9698af8c",
@@ -132,7 +96,7 @@
         "source_name": "reddit",
         "url": "https://discord.gg/Hb4ZXYzybJ",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "e702e4af-7b4d-4a84-b695-113010b08783",
@@ -141,7 +105,7 @@
         "source_name": "reddit",
         "url": "https://www.discord.gg/BO6Zombies)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "f28de859-61cc-476f-bde4-4b6ddbf7234d",
@@ -150,7 +114,7 @@
         "source_name": "reddit",
         "url": "https://www.youtube.com/watch?v=nZd6tjdiSdU)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "79c00b94-38a6-42ae-b1c5-ccb5cbd99269",
@@ -159,7 +123,7 @@
         "source_name": "reddit",
         "url": "https://www.reddit.com/message/compose/?to=AHMessengerBot&subject=Subscribe&message=!subscribe)**.",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "10f2cbe8-1f74-4c8c-aadf-beb2001713d4",
@@ -168,7 +132,7 @@
         "source_name": "reddit",
         "url": "https://gofund.me/aad087cd",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "aed9fc4b-be47-42ac-8f20-da9fe7fedcda",
@@ -177,7 +141,7 @@
         "source_name": "reddit",
         "url": "https://forms.gle/R6qgiBPQi7c3pcdq6",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "05b27c77-2a49-41d2-a2f6-0b574c9bf3f2",
@@ -186,7 +150,7 @@
         "source_name": "reddit",
         "url": "http://pearl-obeymen.blogspot.com/)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "a0f6d6d5-3696-41db-872b-c45439dde412",
@@ -195,7 +159,7 @@
         "source_name": "reddit",
         "url": "https://shop1621999129.v.weidian.com/",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "7eaa0061-7929-4cca-bee1-e86f6baf0a8d",
@@ -204,7 +168,7 @@
         "source_name": "reddit",
         "url": "https://discord.gg/vFkQt4P)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "d6d753a2-e82b-41fa-b72f-8daaa645a49c",
@@ -213,7 +177,7 @@
         "source_name": "reddit",
         "url": "https://www.reddit.com/message/compose?to=%2Fr%2Fdating_advice)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "0a747b4a-c87d-41d5-bcdf-8339ad868d81",
@@ -222,7 +186,7 @@
         "source_name": "reddit",
         "url": "https://www.geoguessr.com/user/555a28e99ff17334181de426)",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b9bf25f5-16cf-4033-8130-d8ed8955cd8b",
@@ -2436,7 +2400,7 @@
         "source_name": "URL_Crawler",
         "url": "allegroloklne-prz24.blog",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "bc7a4bbe-b6f2-4f51-8aa1-5a5ded944ca0",
@@ -29445,7 +29409,7 @@
         "source_name": "url_crawler",
         "url": "https://456.fr",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "04136bb5-ffec-4557-8459-b17006f839f4",
@@ -35385,7 +35349,7 @@
         "source_name": "url_crawler",
         "url": "http://123.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "ee7b2601-d011-46e8-8dc2-e42097a004d5",
@@ -41433,7 +41397,7 @@
         "source_name": "url_crawler",
         "url": "http://123.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "fe38dc15-a56f-4293-9b7c-177eb8a46ddb",
@@ -42855,7 +42819,7 @@
         "source_name": "url_crawler",
         "url": "http://11121314.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "0ac37df7-c3d6-46af-a263-e0ec583f1f6c",
@@ -57021,7 +56985,7 @@
         "source_name": "url_crawler",
         "url": "https://456.fr",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b9b84c4a-5e4d-44ba-b766-4a3d0108d482",
@@ -57956,6 +57920,42 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/dpdr/comments/zdydex/quick_tips_if_youre_experiencing_an_episode_or/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "52156bcc-dd3a-443f-b56f-69fa371db6eb",
+        "date": "2024-12-24T07:13:43",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.meta.com/referrals/link/tserof/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7b89ac5e-ef54-45ba-9395-92eb49e062bd",
+        "date": "2024-12-01T15:14:07",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.fanatical.com/en/pick-and-mix/build-your-own-infinity-vr-collection",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3d84adf3-b39a-4961-8760-c62e83c5f0f9",
+        "date": "2024-12-24T02:16:15",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.oculus.com/appreferrals/wolfpup64/5566073043488552/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d2e76683-50ef-4d22-9de7-11ad1626462c",
+        "date": "2025-01-09T16:13:40",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://notlesenglish.carrd.co](https://notlesenglish.carrd.co/)",
         "screenshot": null,
         "is_safe": null
     }
