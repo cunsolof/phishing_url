@@ -20,6 +20,7 @@ jobs:
 
       - name: Build project
         run: |
+          cd dynamodb-visualization/
           npm install
           npm run build  # ou d'autres commandes de build selon ton projet
 
