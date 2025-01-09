@@ -10,15 +10,17 @@ function App() {
   const [error, setError] = useState(null);
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
+  const [showMaliciousOnly, setShowMaliciousOnly] = useState(false);
 
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/data.json');
+        const response = await fetch('https://github.com/cunsolof/phishing_url/tree/main/dynamodb-visualization/public');
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const jsonData = await response.json();
+        console.log(jsonData)
         setData(jsonData);
         setError(null);
       } catch (e) {
@@ -113,6 +115,11 @@ function App() {
     height: 400, // Taille personnalisée pour le graphique
   };
 
+  const last50Entries = data
+    .sort((a, b) => new Date(b.date) - new Date(a.date)) // Trie les données par date descendante
+    .slice(0, 50)
+    .filter(entry => !showMaliciousOnly || entry.is_safe === false); // Filtre selon la case à cocher
+
   return (
     <div className="App">
       <h1>Visualisation des données</h1>
@@ -120,35 +127,88 @@ function App() {
       {error && <p style={{ color: 'red' }}>{error}</p>}
   
       <div className="data-container">
-        <h2>Nombre total de liens malicieux par source</h2>
-        
-        {/* Container du graphique */}
-        <div className="chart-container">
-          <Pie data={pieData} options={pieOptions} />
+        {/* Conteneur flex pour les deux graphiques */}
+        <div className="charts-row">
+          <div className="chart-container">
+            <h3>Nombre total de liens malicieux par source</h3>
+            <Pie data={pieData} options={pieOptions} />
+          </div>
+          <div className="chart-container">
+            <h3>Nombre de liens malicieux par source et par date</h3>
+
+            {/* Sélecteurs de dates intégrés au deuxième graphique */}
+            <div className="date-picker-container">
+              <label htmlFor="start-date">Date de début:</label>
+              <input
+                type="date"
+                id="start-date"
+                value={startDate}
+                onChange={handleStartDateChange}
+              />
+
+              <label htmlFor="end-date">Date de fin:</label>
+              <input
+                type="date"
+                id="end-date"
+                value={endDate}
+                onChange={handleEndDateChange}
+              />
+            </div>
+            <Bar data={barData} options={barOptions} />
+          </div>
         </div>
-  
-        <h2>Nombre liens malicieux par source et par date</h2>
-        
-        <div className="date-picker-container">
-          <label htmlFor="start-date">Date de début:</label>
-          <input
-            type="date"
-            id="start-date"
-            value={startDate}
-            onChange={handleStartDateChange}
-          />
-          
-          <label htmlFor="end-date">Date de fin:</label>
-          <input
-            type="date"
-            id="end-date"
-            value={endDate}
-            onChange={handleEndDateChange}
-          />
-        </div>
-  
-        <div className="chart-container">
-          <Bar data={barData} options={barOptions} />
+
+        {/* Section des 50 dernières données */}
+        <div className="last-entries-container">
+          <div className="header-with-checkbox">
+            <h3>Les 50 derniers liens les plus récents</h3>
+            <label style={{ marginLeft: '20px' }}>
+              <input
+                type="checkbox"
+                checked={showMaliciousOnly}
+                onChange={(e) => setShowMaliciousOnly(e.target.checked)}
+              />
+              Malicieux uniquement
+            </label>
+          </div>
+          <table className="last-entries-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Source</th>
+                <th>URL</th>
+                <th>Date</th>
+                <th>is_safe</th>
+                <th>Screenshot</th>
+              </tr>
+            </thead>
+            <tbody>
+              {last50Entries
+                .filter((entry) => (showMaliciousOnly ? entry.is_safe === false : true)) // Filtrer par is_safe
+                .map((entry, index) => (
+                  <tr key={index}>
+                    <td>{index + 1}</td>
+                    <td>{entry.source}</td>
+                    <td>
+                      <a href={entry.url} target="_blank" rel="noopener noreferrer">
+                        {entry.url}
+                      </a>
+                    </td>
+                    <td>{entry.date}</td>
+                    <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td> {/* Afficher 'null' si is_safe est null */}
+                    <td>
+                      {entry.screenshot ? (
+                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
+                          Voir
+                        </a>
+                      ) : (
+                        'null'
+                      )}
+                    </td>
+                  </tr>
+                ))}
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

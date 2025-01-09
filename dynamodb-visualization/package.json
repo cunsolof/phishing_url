@@ -2,7 +2,7 @@
   "name": "dynamodb-visualization",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/cunsolof/phishing_url/dynamodb-visualization",
+  "homepage": "https://cunsolof.github.io/phishing_url",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
