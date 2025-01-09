@@ -2430,6 +2430,15 @@
         "is_safe": null
     },
     {
+        "id": "75bbd24d-03f0-4036-b766-557abfda50d2",
+        "date": "2025-01-09T17:31:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allegroloklne-prz24.blog",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "bc7a4bbe-b6f2-4f51-8aa1-5a5ded944ca0",
         "date": "2024-12-17T10:13:47",
         "source": "API",
@@ -8402,6 +8411,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://courze.org/marketing-strategy-excellence-for-best-marketing-mix-plan/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "056f97ad-3af0-4090-a647-5a37efbf1ce7",
+        "date": "2025-01-09T16:13:40",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://discord.gg/WA2ya4jUrv",
         "screenshot": null,
         "is_safe": null
     },
@@ -28089,6 +28107,15 @@
         "is_safe": null
     },
     {
+        "id": "1164e187-0dfe-479c-bbb9-c58ab0ca5973",
+        "date": "2025-01-09T16:13:40",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://preview.redd.it/zlwwd1s1tzbe1.png?width=1050&format=png&auto=webp&s=8123996d45e4ed8a74608129831a1f7587135e86",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4469253a-76e7-40b8-89e8-b15bd4cf0d0f",
         "date": "2024-11-20T18:13:38",
         "source": "API",
@@ -29709,6 +29736,15 @@
         "is_safe": null
     },
     {
+        "id": "746bd919-a487-4957-8079-9aa507789092",
+        "date": "2025-01-09T17:13:45",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.patreon.com/TheDeprogram)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8e586333-5016-4736-9467-844f5ce8dad8",
         "date": "2025-01-09T06:13:39",
         "source": "API",
@@ -31235,6 +31271,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/watchexchange/wiki/confirmations/Tutmoses1)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "83719cf7-7fab-4618-a02d-5358eafe15ee",
+        "date": "2025-01-09T16:13:40",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.reddit.com/r/MakeNewFriendsHere/about/rules/).",
         "screenshot": null,
         "is_safe": null
     },
@@ -35978,6 +36023,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/YM9sSDbsBh",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b6b41fb1-1bac-433b-a504-82f223035bcb",
+        "date": "2025-01-09T16:13:40",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://www.reddit.com/report).",
         "screenshot": null,
         "is_safe": null
     },
@@ -43934,6 +43988,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://design.ui.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9cb5304c-2cf2-40db-8c65-28f061403743",
+        "date": "2025-01-09T17:13:45",
+        "source": "API",
+        "source_name": "reddit",
+        "url": "https://redd.it/1anoje0)",
         "screenshot": null,
         "is_safe": null
     },
@@ -57893,69 +57956,6 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/dpdr/comments/zdydex/quick_tips_if_youre_experiencing_an_episode_or/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "52156bcc-dd3a-443f-b56f-69fa371db6eb",
-        "date": "2024-12-24T07:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/referrals/link/tserof/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "7b89ac5e-ef54-45ba-9395-92eb49e062bd",
-        "date": "2024-12-01T15:14:07",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.fanatical.com/en/pick-and-mix/build-your-own-infinity-vr-collection",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "3d84adf3-b39a-4961-8760-c62e83c5f0f9",
-        "date": "2024-12-24T02:16:15",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.oculus.com/appreferrals/wolfpup64/5566073043488552/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "6a5d54f1-6b30-4420-b47d-dfdc048ca38f",
-        "date": "2024-12-12T07:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.tiktok.com/t/ZTYH9vTSa/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "feb2d19f-5762-4c93-8777-f43ad17b6995",
-        "date": "2024-12-04T01:13:47",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.com/invite/pokemon-go).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e3c1c3a9-6795-49e6-8797-f7dc6cf05eb6",
-        "date": "2024-12-24T13:13:48",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/referrals/link/tserof/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9d231060-b42f-4497-aa35-02a70e45e36e",
-        "date": "2024-11-28T02:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/femboy/wiki/index/)!",
         "screenshot": null,
         "is_safe": null
     }
