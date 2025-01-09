@@ -1,0 +1,40 @@
+name: Update JSON File
+
+on:
+  schedule:
+    # Cette configuration exécute le workflow tous les 2 jours
+    - cron: "0 0 */2 * *" # Exécuter à minuit tous les 2 jours
+  push:
+    branches:
+      - main
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install boto3  # Installer toute autre dépendance nécessaire
+
+    - name: Run Python script
+      run: |
+        cd dynamodb-visualization/src  # Navigue vers le répertoire contenant web.py
+        python web.py  # Exécute ton script web.py
+
+    - name: Commit and push updated JSON
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add data.json
+        git commit -m "Update data.json"
+        git push
+
