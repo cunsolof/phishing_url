@@ -20,7 +20,6 @@ function App() {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const jsonData = await response.json();
-        console.log(jsonData)
         setData(jsonData);
         setError(null);
       } catch (e) {
@@ -185,18 +184,24 @@ function App() {
               </tr>
             </thead>
             <tbody>
-              {filteredLast50Entries
-                .map((entry, index) => (
+              {filteredLast50Entries.map((entry, index) => {
+                // Si la source est "CRAWLER" et l'URL ne commence pas par "http", on ajoute "https://"
+                const modifiedUrl = entry.source === 'CRAWLER' && !entry.url.startsWith('http') ? 'https://' + entry.url : entry.url;
+                return (
                   <tr key={index}>
                     <td>{index + 1}</td>
                     <td>{entry.source}</td>
                     <td>
-                      <a href={entry.source === 'CRAWLER' && !entry.url.startsWith('https://') ? 'https://' + entry.url : entry.url} target="_blank" rel="noopener noreferrer">
-                        {entry.url}
+                      <a
+                        href={modifiedUrl}  // Utiliser l'URL modifiée ici pour le lien
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {modifiedUrl}  {/* Afficher l'URL modifiée dans la cellule du tableau */}
                       </a>
                     </td>
                     <td>{entry.date}</td>
-                    <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td> {/* Afficher 'null' si is_safe est null */}
+                    <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td>
                     <td>
                       {entry.screenshot ? (
                         <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
@@ -207,7 +212,8 @@ function App() {
                       )}
                     </td>
                   </tr>
-                ))}
+                );
+              })}
             </tbody>
           </table>
         </div>
