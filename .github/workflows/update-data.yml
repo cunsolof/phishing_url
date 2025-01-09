@@ -25,6 +25,10 @@ jobs:
       run: |
         pip install boto3  # Installer toute autre dépendance nécessaire
 
+    - name: Pull latest changes
+      run: |
+        git pull origin main
+
     - name: Run Python script
       run: |
         cd dynamodb-visualization/src  # Navigue vers le répertoire contenant web.py
