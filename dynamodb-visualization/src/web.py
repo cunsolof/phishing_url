@@ -21,18 +21,29 @@ dynamodb_client = boto3.client(
     region_name=region
 )
 
-try:
-    response = dynamodb_client.scan(TableName="CollectedSites")
+table_name = "CollectedSites"
+collected_sites = []
+response = {}
+
+while True:
+    # Si LastEvaluatedKey existe, inclure dans la demande
+    if 'LastEvaluatedKey' in response:
+        response = dynamodb_client.scan(
+            TableName=table_name,
+            ExclusiveStartKey=response['LastEvaluatedKey']
+        )
+    else:
+        response = dynamodb_client.scan(TableName=table_name)
+
+    # Traiter les éléments récupérés
     items = response.get('Items', [])
-
-    collected_sites = []
-
     for item in items:
         collected_site = CollectedSite.from_dynamodb_item(item)
         collected_sites.append(to_serializable_dict(collected_site))
 
-    with open('../public/data.json', 'w') as json_file:
-        json.dump(collected_sites, json_file, indent=4)
+    # Sortir de la boucle si aucune autre page n'est disponible
+    if 'LastEvaluatedKey' not in response:
+        break
 
-except Exception as e:
-    print("Erreur lors du scan de la table :", e)
+with open('../public/data.json', 'w') as json_file:
+    json.dump(collected_sites, json_file, indent=4)

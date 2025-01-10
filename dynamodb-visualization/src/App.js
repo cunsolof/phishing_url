@@ -113,8 +113,7 @@ function App() {
   };
 
   const last50Entries = filteredData
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 50);
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   return (
     <div className="App">
@@ -163,9 +162,7 @@ function App() {
           </div>
         </div>
 
-        {/* Table des 50 dernières données */}
         <div className="last-entries-container">
-          <h3>Les 50 derniers liens les plus récents</h3>
           <table className="last-entries-table">
             <thead>
               <tr>
@@ -191,7 +188,13 @@ function App() {
                     <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td>
                     <td>
                       {entry.screenshot ? (
-                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">Voir</a>
+                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
+                          <img 
+                            src={entry.screenshot} 
+                            alt="Screenshot" 
+                            style={{ width: '50px', height: '50px', objectFit: 'cover', cursor: 'pointer' }} 
+                          />
+                        </a>
                       ) : 'null'}
                     </td>
                   </tr>
