@@ -31,25 +31,27 @@ function App() {
     loadData();
   }, []);
 
-  // Calcul de la date du jour au format YYYY-MM-DD
   useEffect(() => {
     const today = new Date();
-    const formattedDate = today.toISOString().split('T')[0];  // Format : YYYY-MM-DD
-    setStartDate(formattedDate); // Initialiser la date de début
-    setEndDate(formattedDate);   // Initialiser la date de fin
+    const formattedDate = today.toISOString().split('T')[0];
+    setStartDate(formattedDate);
+    setEndDate(formattedDate);
   }, []);
 
-  const getSourceCount = () => {
-    const counts = data.reduce((acc, item) => {
+  const filterData = () => {
+    return showMaliciousOnly ? data.filter(item => item.is_safe === false) : data;
+  };
+
+  const getSourceCount = (filteredData) => {
+    const counts = filteredData.reduce((acc, item) => {
       acc[item.source] = (acc[item.source] || 0) + 1;
       return acc;
     }, {});
     return counts;
   };
 
-  // Fonction pour filtrer les données en fonction de la période sélectionnée
-  const filterDataByDate = () => {
-    return data.filter(item => {
+  const filterDataByDate = (filteredData) => {
+    return filteredData.filter(item => {
       const date = item.date.split('T')[0];
       return date >= startDate && date <= endDate;
     });
@@ -63,12 +65,10 @@ function App() {
     setEndDate(event.target.value);
   };
 
-  // Appliquer le filtrage de données avant de calculer les valeurs pour le graphique à barres
-  const filteredData = filterDataByDate(); // Applique le filtrage des données
+  const filteredData = filterData(); // Applique le filtrage selon le bouton
+  const dataForCharts = filterDataByDate(filteredData); // Filtre les données selon les dates
 
-  // Regrouper les données par source pour chaque jour et compter le nombre de liens malicieux par source
-  const groupedBySource = filteredData.reduce((acc, item) => {
-    const date = item.date.split('T')[0]; // Extraire la date sans l'heure
+  const groupedBySource = dataForCharts.reduce((acc, item) => {
     if (!acc[item.source]) {
       acc[item.source] = 0;
     }
@@ -77,67 +77,72 @@ function App() {
   }, {});
 
   const pieData = {
-    labels: Object.keys(getSourceCount()),
+    labels: Object.keys(getSourceCount(filteredData)),
     datasets: [{
-      data: Object.values(getSourceCount()),
+      data: Object.values(getSourceCount(filteredData)),
       backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0'],
     }],
   };
-  
+
   const pieOptions = {
-    responsive: true,  // Permet au graphique de s'adapter à la taille de l'écran
-    maintainAspectRatio: false, // Désactive le ratio d'aspect pour contrôler la taille du graphique
+    responsive: true,
+    maintainAspectRatio: false,
     plugins: {
       legend: {
-        position: 'top', // Position des légendes
+        position: 'top',
         labels: {
-          boxWidth: 20, // Taille des cases de la légende
+          boxWidth: 20,
           padding: 15,
         }
       }
     },
-    aspectRatio: 1, // Cette option permet de forcer un graphique circulaire avec un ratio 1:1
   };
 
   const barData = {
     labels: Object.keys(groupedBySource),
     datasets: [{
-      label: 'Nombre total de liens malicieux par source',
+      label: 'Nombre total de liens par source',
       data: Object.values(groupedBySource),
       backgroundColor: '#36A2EB',
     }],
   };
-  
+
   const barOptions = {
-    responsive: true, // Pour que le graphique soit responsive
-    maintainAspectRatio: false, // Permet de contrôler la taille
-    height: 400, // Taille personnalisée pour le graphique
+    responsive: true,
+    maintainAspectRatio: false,
   };
 
-  const last50Entries = data
-  .sort((a, b) => new Date(b.date) - new Date(a.date)) // Trie les données par date descendante
-  .slice(0, 50);
-
-  // Appliquer le filtrage `showMaliciousOnly` uniquement aux 50 dernières entrées
-  const filteredLast50Entries = last50Entries.filter(entry => !showMaliciousOnly || entry.is_safe === false);
+  const last50Entries = filteredData
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 50);
 
   return (
     <div className="App">
-      <h1>Visualisation des données</h1>
+      <h1>Projet Phishing URL - Visualisation des données</h1>
 
       {error && <p style={{ color: 'red' }}>{error}</p>}
 
+      {/* Bouton Malicieux uniquement */}
+      <div className="checkbox-container">
+        <label>
+          <input
+            type="checkbox"
+            checked={showMaliciousOnly}
+            onChange={(e) => setShowMaliciousOnly(e.target.checked)}
+          />
+          Malicieux uniquement
+        </label>
+      </div>
+
       <div className="data-container">
-        {/* Conteneur flex pour les deux graphiques */}
+        {/* Graphiques */}
         <div className="charts-row">
           <div className="chart-container">
-            <h3>Nombre total de liens malicieux par source</h3>
+            <h3>Nombre total de liens par source</h3>
             <Pie data={pieData} options={pieOptions} />
           </div>
           <div className="chart-container">
-            <h3>Nombre de liens malicieux par source et par date</h3>
-
-            {/* Sélecteurs de dates intégrés au deuxième graphique */}
+            <h3>Nombre de liens par source et par date</h3>
             <div className="date-picker-container">
               <label htmlFor="start-date">Date de début:</label>
               <input
@@ -146,7 +151,6 @@ function App() {
                 value={startDate}
                 onChange={handleStartDateChange}
               />
-
               <label htmlFor="end-date">Date de fin:</label>
               <input
                 type="date"
@@ -159,19 +163,9 @@ function App() {
           </div>
         </div>
 
-        {/* Section des 50 dernières données */}
+        {/* Table des 50 dernières données */}
         <div className="last-entries-container">
-          <div className="header-with-checkbox">
-            <h3>Les 50 derniers liens les plus récents</h3>
-            <label style={{ marginLeft: '20px' }}>
-              <input
-                type="checkbox"
-                checked={showMaliciousOnly}
-                onChange={(e) => setShowMaliciousOnly(e.target.checked)}
-              />
-              Malicieux uniquement
-            </label>
-          </div>
+          <h3>Les 50 derniers liens les plus récents</h3>
           <table className="last-entries-table">
             <thead>
               <tr>
@@ -184,32 +178,21 @@ function App() {
               </tr>
             </thead>
             <tbody>
-              {filteredLast50Entries.map((entry, index) => {
-                // Si la source est "CRAWLER" et l'URL ne commence pas par "http", on ajoute "https://"
+              {last50Entries.map((entry, index) => {
                 const modifiedUrl = entry.source === 'CRAWLER' && !entry.url.startsWith('http') ? 'https://' + entry.url : entry.url;
                 return (
                   <tr key={index}>
                     <td>{index + 1}</td>
                     <td>{entry.source}</td>
                     <td>
-                      <a
-                        href={modifiedUrl}  // Utiliser l'URL modifiée ici pour le lien
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        {modifiedUrl}  {/* Afficher l'URL modifiée dans la cellule du tableau */}
-                      </a>
+                      <a href={modifiedUrl} target="_blank" rel="noopener noreferrer">{modifiedUrl}</a>
                     </td>
                     <td>{entry.date}</td>
                     <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td>
                     <td>
                       {entry.screenshot ? (
-                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
-                          Voir
-                        </a>
-                      ) : (
-                        'null'
-                      )}
+                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">Voir</a>
+                      ) : 'null'}
                     </td>
                   </tr>
                 );
