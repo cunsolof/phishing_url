@@ -3429,6 +3429,15 @@
         "is_safe": null
     },
     {
+        "id": "050da17a-b3c9-432a-bcb1-57d978beb2f6",
+        "date": "2025-01-10T07:56:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "lesswain.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "805eec1f-46d9-42b2-9960-454b49039db3",
         "date": "2025-01-09T14:13:44",
         "source": "API",
@@ -11732,6 +11741,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/hZqWV2kQtq)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "169d89b1-140d-4668-8c23-1e7f13451de6",
+        "date": "2025-01-10T07:55:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "lesswain.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -58199,24 +58217,6 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://collegedunia.com/write-review/temp?referral_code=84587B5",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f13178a7-1a4b-4f41-ad8a-e22e17d9035c",
-        "date": "2024-12-20T08:13:52",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/redditmgo",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "0c1b6e02-269b-4abc-b35e-561c7adcdae0",
-        "date": "2024-12-20T05:14:18",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/appreferrals/acthechamp/6565887093433499/](https://www.meta.com/appreferrals/acthechamp/6565887093433499/)",
         "screenshot": null,
         "is_safe": null
     }
