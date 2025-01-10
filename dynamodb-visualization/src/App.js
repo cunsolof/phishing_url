@@ -11,6 +11,7 @@ function App() {
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [showMaliciousOnly, setShowMaliciousOnly] = useState(false);
+  const [loading, setLoading] = useState(true); // Variable pour gérer le chargement
 
   useEffect(() => {
     const loadData = async () => {
@@ -22,8 +23,10 @@ function App() {
         const jsonData = await response.json();
         setData(jsonData);
         setError(null);
+        setLoading(false); // Données chargées, on désactive le loader
       } catch (e) {
         setError("Erreur lors du chargement du fichier.");
+        setLoading(false); // Si erreur, on désactive aussi le loader
         console.error(e);
       }
     };
@@ -65,8 +68,8 @@ function App() {
     setEndDate(event.target.value);
   };
 
-  const filteredData = filterData(); // Applique le filtrage selon le bouton
-  const dataForCharts = filterDataByDate(filteredData); // Filtre les données selon les dates
+  const filteredData = filterData();
+  const dataForCharts = filterDataByDate(filteredData);
 
   const groupedBySource = dataForCharts.reduce((acc, item) => {
     if (!acc[item.source]) {
@@ -121,89 +124,98 @@ function App() {
 
       {error && <p style={{ color: 'red' }}>{error}</p>}
 
-      {/* Bouton Malicieux uniquement */}
-      <div className="checkbox-container">
-        <label>
-          <input
-            type="checkbox"
-            checked={showMaliciousOnly}
-            onChange={(e) => setShowMaliciousOnly(e.target.checked)}
-          />
-          Malicieux uniquement
-        </label>
-      </div>
-
-      <div className="data-container">
-        {/* Graphiques */}
-        <div className="charts-row">
-          <div className="chart-container">
-            <h3>Nombre total de liens par source</h3>
-            <Pie data={pieData} options={pieOptions} />
+      {/* Rond de chargement */}
+      {loading ? (
+        <div className="loading-container">
+          <div className="loader"></div>
+        </div>
+      ) : (
+        <>
+          {/* Bouton Malicieux uniquement */}
+          <div className="checkbox-container">
+            <label>
+              <input
+                type="checkbox"
+                checked={showMaliciousOnly}
+                onChange={(e) => setShowMaliciousOnly(e.target.checked)}
+              />
+              Malicieux uniquement
+            </label>
           </div>
-          <div className="chart-container">
-            <h3>Nombre de liens par source et par date</h3>
-            <div className="date-picker-container">
-              <label htmlFor="start-date">Date de début:</label>
-              <input
-                type="date"
-                id="start-date"
-                value={startDate}
-                onChange={handleStartDateChange}
-              />
-              <label htmlFor="end-date">Date de fin:</label>
-              <input
-                type="date"
-                id="end-date"
-                value={endDate}
-                onChange={handleEndDateChange}
-              />
+
+          <div className="data-container">
+            {/* Graphiques */}
+            <div className="charts-row">
+              <div className="chart-container">
+                <h3>Nombre total de liens par source</h3>
+                <Pie data={pieData} options={pieOptions} />
+              </div>
+              <div className="chart-container">
+                <h3>Nombre de liens par source et par date</h3>
+                <div className="date-picker-container">
+                  <label htmlFor="start-date">Date de début:</label>
+                  <input
+                    type="date"
+                    id="start-date"
+                    value={startDate}
+                    onChange={handleStartDateChange}
+                  />
+                  <label htmlFor="end-date">Date de fin:</label>
+                  <input
+                    type="date"
+                    id="end-date"
+                    value={endDate}
+                    onChange={handleEndDateChange}
+                  />
+                </div>
+                <Bar data={barData} options={barOptions} />
+              </div>
             </div>
-            <Bar data={barData} options={barOptions} />
-          </div>
-        </div>
 
-        <div className="last-entries-container">
-          <table className="last-entries-table">
-            <thead>
-              <tr>
-                <th>#</th>
-                <th>Source</th>
-                <th>URL</th>
-                <th>Date</th>
-                <th>is_safe</th>
-                <th>Screenshot</th>
-              </tr>
-            </thead>
-            <tbody>
-              {last50Entries.map((entry, index) => {
-                const modifiedUrl = entry.source === 'CRAWLER' && !entry.url.startsWith('http') ? 'https://' + entry.url : entry.url;
-                return (
-                  <tr key={index}>
-                    <td>{index + 1}</td>
-                    <td>{entry.source}</td>
-                    <td>
-                      <a href={modifiedUrl} target="_blank" rel="noopener noreferrer">{modifiedUrl}</a>
-                    </td>
-                    <td>{entry.date}</td>
-                    <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td>
-                    <td>
-                      {entry.screenshot ? (
-                        <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
-                          <img 
-                            src={entry.screenshot} 
-                            alt="Screenshot" 
-                            style={{ width: '50px', height: '50px', objectFit: 'cover', cursor: 'pointer' }} 
-                          />
-                        </a>
-                      ) : 'null'}
-                    </td>
+            <div className="last-entries-container">
+              <table className="last-entries-table">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Source</th>
+                    <th>URL</th>
+                    <th>Date</th>
+                    <th>is_safe</th>
+                    <th>Screenshot</th>
                   </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
-      </div>
+                </thead>
+                <tbody>
+                  {last50Entries.map((entry, index) => {
+                    const modifiedUrl = entry.source === 'CRAWLER' && !entry.url.startsWith('http') ? 'https://' + entry.url : entry.url;
+                    return (
+                      <tr key={index}>
+                        <td>{index + 1}</td>
+                        <td>{entry.source}</td>
+                        <td>
+                          <a href={modifiedUrl} target="_blank" rel="noopener noreferrer">{modifiedUrl}</a>
+                        </td>
+                        <td>{entry.date}</td>
+                        <td>{entry.is_safe !== null ? entry.is_safe.toString() : 'Not yet checked'}</td>
+                        <td>
+                          {entry.screenshot ? (
+                            <a href={entry.screenshot} target="_blank" rel="noopener noreferrer">
+                              <img 
+                                src={entry.screenshot} 
+                                alt="Screenshot" 
+                                style={{ width: '50px', height: '50px', objectFit: 'cover', cursor: 'pointer' }} 
+                              />
+                            </a>
+                          ) : 'null'}
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </>
+      )}
     </div>
   );
 }
