@@ -306,6 +306,15 @@
         "is_safe": null
     },
     {
+        "id": "874ecfb9-8cca-404d-a90d-d01ecdb59234",
+        "date": "2025-01-10T02:06:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-my.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "cc049b77-fe15-4acb-ae05-6fd812711c86",
         "date": "2024-11-27T17:13:41",
         "source": "API",
@@ -662,6 +671,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f3578e55-a470-4069-b880-2b1facfdabf9",
+        "date": "2025-01-09T23:38:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagramgrowthandsales.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -1260,6 +1278,15 @@
         "is_safe": null
     },
     {
+        "id": "939dd91e-991c-4888-b365-ea9c448f93cc",
+        "date": "2025-01-10T00:24:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "19872-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7afefc81-40ee-4eff-8261-a45c945c4179",
         "date": "2024-12-15T08:13:40",
         "source": "API",
@@ -1746,6 +1773,15 @@
         "is_safe": null
     },
     {
+        "id": "102c2df5-ae97-447a-8d4d-0a80cacbf108",
+        "date": "2025-01-10T06:40:57",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "graph.instagram.com.vless.zapnet.my.id",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6f13ae32-46af-48e9-87a8-db3b35201c37",
         "date": "2024-12-13T09:13:41",
         "source": "API",
@@ -2219,6 +2255,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://wikipedia.org/wiki/List_of_polysubstance_combinations),",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7d29722f-b6c0-4ef1-b044-5014adfffbba",
+        "date": "2025-01-10T02:57:41",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.google-adwords.com.cn",
         "screenshot": null,
         "is_safe": null
     },
@@ -2889,6 +2934,15 @@
         "is_safe": null
     },
     {
+        "id": "9654d668-a03d-4d2b-b174-ea1e7215b1b9",
+        "date": "2025-01-10T07:21:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "rencontres-actionnariat-gouvernance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a6a56af3-cfde-409e-9486-e6aef29b3e59",
         "date": "2025-01-02T06:13:41",
         "source": "API",
@@ -3065,6 +3119,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.tiktok.com/t/ZTYu57eML/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "827d23fe-79d4-46e8-b142-f44ec3208a0f",
+        "date": "2025-01-10T06:39:37",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "moncompte.solphyr.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -3731,6 +3794,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9c3f2ba9-3908-480c-856a-2e4a8dae9e1c",
+        "date": "2025-01-10T02:01:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10667-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -4842,6 +4914,15 @@
         "is_safe": null
     },
     {
+        "id": "1c571aef-49bf-40aa-a1c6-87357cb8dada",
+        "date": "2025-01-09T23:41:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ticket-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5aa64e14-efe9-4580-a042-377d65a5d01a",
         "date": "2024-12-17T12:14:00",
         "source": "API",
@@ -4982,6 +5063,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://onelink.shein.com/6/4bisrpi7y2k9",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d2650d20-2290-4112-a29f-f6f358aed21b",
+        "date": "2025-01-09T23:23:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.flexhealthandfitness.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -5135,6 +5225,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.com/invite/pokemon-go).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7e9439a1-760b-4029-bec4-2a77a5ae8228",
+        "date": "2025-01-10T05:29:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "artiestenmarktplaats.nl",
         "screenshot": null,
         "is_safe": null
     },
@@ -5454,6 +5553,15 @@
         "is_safe": null
     },
     {
+        "id": "c8a1ee60-2d83-4d2d-9545-2446f1b5ee7e",
+        "date": "2025-01-10T02:25:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parceltracklivepro.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a89eaebe-87b3-495d-b3a8-2fec238ed264",
         "date": "2024-12-21T08:13:39",
         "source": "API",
@@ -5675,6 +5783,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/rw62ipb90z6e1.jpg?width=3200&format=pjpg&auto=webp&s=6f34318f4067d103b8efb91b586537ccec107036",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c22079e3-37a0-492c-953a-535ff516ebd8",
+        "date": "2025-01-10T06:49:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jasonwaters.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -6152,6 +6269,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.gagaoolala.com/en/videos/4435/ossans-love-returns-2024)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e4488e88-ebd0-4289-9107-ea5da43ed366",
+        "date": "2025-01-10T06:56:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ninoskamendezpiano.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -6975,6 +7101,15 @@
         "is_safe": null
     },
     {
+        "id": "f218d07c-ae0f-41f1-a547-a3a54f224565",
+        "date": "2025-01-10T06:15:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "avisos-deutschebank.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c5a2055a-7e16-46cc-a726-fda5821c5178",
         "date": "2024-11-21T21:14:18",
         "source": "API",
@@ -7335,6 +7470,15 @@
         "is_safe": null
     },
     {
+        "id": "4eccc77a-bcb9-4e6a-b696-6facdb69ba59",
+        "date": "2025-01-10T02:31:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "baliparcel.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9936b1db-59c9-44b4-b7d0-37e01342802c",
         "date": "2024-11-23T06:13:40",
         "source": "API",
@@ -7421,6 +7565,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/morocco/wiki/rules)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "dd1adc98-74ca-4d5c-9194-8dc6ae02bd8e",
+        "date": "2025-01-10T05:47:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allocation-kaminofinance.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -8100,6 +8253,15 @@
         "is_safe": null
     },
     {
+        "id": "c94113be-3f26-490c-ba99-781763618d2f",
+        "date": "2025-01-10T05:07:41",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-posizione.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9fe39c10-a6c6-4e77-8e96-f7f9b6a27562",
         "date": "2025-01-01T12:13:39",
         "source": "API",
@@ -8514,6 +8676,15 @@
         "is_safe": null
     },
     {
+        "id": "f7b76631-d22a-436a-80d6-74a02f7a1d1d",
+        "date": "2025-01-10T02:11:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "livraison.maison-grenier.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e68cf762-6a25-4c83-a8f2-1e3ba6246f34",
         "date": "2024-12-15T10:13:37",
         "source": "API",
@@ -8753,6 +8924,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/PowerScaling/wiki/community-rules)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "935e4194-18f0-4696-a8d1-d509e3563b9f",
+        "date": "2025-01-10T04:54:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "applecarerepair.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -10098,6 +10278,15 @@
         "is_safe": null
     },
     {
+        "id": "ffab8ff1-ed0a-4e60-b7d8-ae726a3db495",
+        "date": "2025-01-09T23:40:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "valhie-sport-sante.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "912b18a1-b14a-4d1a-a0ce-6e105c87ffc4",
         "date": "2025-01-07T12:13:36",
         "source": "API",
@@ -10710,6 +10899,15 @@
         "is_safe": null
     },
     {
+        "id": "38d013ad-82f7-4fbe-92db-ea6315b7edb6",
+        "date": "2025-01-10T01:41:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ticket-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4c2a7e01-4512-4221-a1b5-e82bf438d1e2",
         "date": "2024-12-01T23:13:41",
         "source": "API",
@@ -10953,6 +11151,15 @@
         "is_safe": null
     },
     {
+        "id": "b9b74af5-b24a-4b09-a3ed-2d96ccc27919",
+        "date": "2025-01-09T23:49:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compte.lestudionote.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d3de4ad8-e1ed-4cdd-afcf-529ad17b64f1",
         "date": "2025-01-09T05:13:41",
         "source": "API",
@@ -11183,6 +11390,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/anime/wiki/legal_streams)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "2d0f1d85-9819-43e1-8081-ce28a59d4f80",
+        "date": "2025-01-09T23:07:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "access-ups.sbs",
         "screenshot": null,
         "is_safe": null
     },
@@ -11561,6 +11777,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/GlowUps/about/rules)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "cd40806e-e844-433c-8049-9dae2ed2a035",
+        "date": "2025-01-10T05:40:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mgmailer-binance.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -12303,6 +12528,15 @@
         "is_safe": null
     },
     {
+        "id": "a885e120-2b52-44cd-b44c-5386cba1f83a",
+        "date": "2025-01-10T07:38:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "insure-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "332d2b10-5b73-4536-b869-97e1fbb34f75",
         "date": "2024-12-15T05:13:53",
         "source": "API",
@@ -12825,6 +13059,15 @@
         "is_safe": null
     },
     {
+        "id": "f2c52f4c-5b89-4656-95b0-ffbc3ca8b367",
+        "date": "2025-01-10T00:40:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adamschwartz.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "eaf40b2b-feef-4add-be2a-146e60fd4e0c",
         "date": "2024-11-26T17:14:19",
         "source": "API",
@@ -12947,6 +13190,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://topcashback.com/ref/yoreoyster).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5738b195-8bf8-4ae2-a68f-e7aa25836a8e",
+        "date": "2025-01-10T03:54:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-embed.tignear.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -13082,6 +13334,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/NWE6JS5rh9)!",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "95d806a0-25f1-44be-8ca2-e90a9ab2c450",
+        "date": "2025-01-10T00:54:09",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "amazon-careers.live",
         "screenshot": null,
         "is_safe": null
     },
@@ -13379,6 +13640,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/BanPitBulls/s/zbldU5S0Ac",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a9685556-697b-40c5-802c-e87a6e99bcd5",
+        "date": "2025-01-10T02:48:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.rbcbioscience.com.tw",
         "screenshot": null,
         "is_safe": null
     },
@@ -13815,6 +14085,15 @@
         "is_safe": null
     },
     {
+        "id": "4f481ba0-760a-4f3c-9fd2-dac9a3ee2861",
+        "date": "2025-01-10T01:51:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "newstyle-windows.co.uk",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "feab67c7-8626-4288-9d72-86bf75f5a3a3",
         "date": "2024-12-21T22:14:01",
         "source": "API",
@@ -13932,6 +14211,15 @@
         "is_safe": null
     },
     {
+        "id": "f9b96bf1-f4bf-43e0-ae8d-2a9450e14380",
+        "date": "2025-01-10T07:03:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "us04web-windows.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5c8dbd66-1f7f-47a4-9399-2aab1a30e222",
         "date": "2024-12-07T04:13:41",
         "source": "API",
@@ -13946,6 +14234,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/qxjyhryw119e1.png?width=1990&format=png&auto=webp&s=3e3c6658e825c213092d1c1d83fadf5211f12f65",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8d6aea42-fc20-42e5-8241-4f5366bb69c9",
+        "date": "2025-01-10T02:18:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "int.axaselect.axa-im.ie",
         "screenshot": null,
         "is_safe": null
     },
@@ -15534,6 +15831,15 @@
         "is_safe": null
     },
     {
+        "id": "3f3126ae-2d6c-4bcb-bf3c-28afc8af3f9a",
+        "date": "2025-01-10T07:36:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "commcloud.dev-aagl-adidas-pt.cc-ecdn.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7adf8316-6326-4154-a7b5-edac1d7a4a8f",
         "date": "2024-12-21T18:13:34",
         "source": "API",
@@ -15633,6 +15939,15 @@
         "is_safe": null
     },
     {
+        "id": "e747f5e8-cbec-4f75-8872-a833760c4f08",
+        "date": "2025-01-10T00:18:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "https-ifacebookk-instagram-bussinesmeta2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f70edd00-8bc1-4bbf-8ad3-964503d99137",
         "date": "2025-01-06T00:13:37",
         "source": "API",
@@ -15719,6 +16034,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://georgeclanton.bandcamp.com/album/fauxllennium)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "82b39f65-6158-4558-bf32-f80bd5a73ef6",
+        "date": "2025-01-10T00:19:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment.run",
         "screenshot": null,
         "is_safe": null
     },
@@ -16785,6 +17109,15 @@
         "is_safe": null
     },
     {
+        "id": "30126164-a40b-41e7-93a5-c050a422f709",
+        "date": "2025-01-10T00:03:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.trade.coinbase-inc.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "feafc833-0ab9-4760-a224-7e4af3f149d5",
         "date": "2024-12-02T10:13:39",
         "source": "API",
@@ -16893,6 +17226,15 @@
         "is_safe": null
     },
     {
+        "id": "2e158052-4940-4339-9c1c-f9f9c3d8bb27",
+        "date": "2025-01-10T04:38:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "849383-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5e24f505-673b-40ef-8b99-b4edb22873a6",
         "date": "2024-12-23T22:13:36",
         "source": "API",
@@ -16997,6 +17339,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/SwimsuitOutdoor)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "359fe4dc-c4c2-4961-9cab-43e2b5f39b03",
+        "date": "2025-01-10T01:07:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bigleague-connexion.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -18009,6 +18360,15 @@
         "is_safe": null
     },
     {
+        "id": "a55f529c-64e7-4e3a-aec5-2aea39ca3162",
+        "date": "2025-01-10T01:19:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-933.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6cbc4163-cef2-4e06-b25f-8bb32803c15b",
         "date": "2024-12-05T08:13:39",
         "source": "API",
@@ -18333,6 +18693,15 @@
         "is_safe": null
     },
     {
+        "id": "54caa775-f424-4ab6-a6e5-f8cf2510ef3e",
+        "date": "2025-01-10T05:58:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "verfiy-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ee1b0edb-312f-48ba-a616-7406224c706a",
         "date": "2024-12-13T07:13:46",
         "source": "API",
@@ -18522,6 +18891,15 @@
         "is_safe": null
     },
     {
+        "id": "46f2505e-a4da-4251-9788-d7b1adb5ced9",
+        "date": "2025-01-09T23:05:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "connexion.kontable.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "cee05097-1ea2-4497-8b91-1b3361961742",
         "date": "2024-12-03T00:13:57",
         "source": "API",
@@ -18680,6 +19058,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://redditsave.com/info?url=https://www.reddit.com/r/whenthe/comments/1hm81ga/blemmyes_and_cynocephali_elves_and_orcs/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "94dadede-8b79-4557-aa28-e792b50b6a74",
+        "date": "2025-01-10T02:45:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.rbcbioscienceusa.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -19323,6 +19710,15 @@
         "is_safe": null
     },
     {
+        "id": "7b0b20a4-729d-4c7e-8f8c-0c4d06549dfb",
+        "date": "2025-01-10T01:04:42",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allegrogrowth.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "156f915f-424c-4f22-9151-2858b40c5c01",
         "date": "2024-12-22T04:13:36",
         "source": "API",
@@ -19625,6 +20021,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://githubtracker.com](https://githubtracker.com).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "814aedfb-c75c-44a0-98ee-441d2f9bc35e",
+        "date": "2025-01-09T23:23:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.scotiabank.appventory.com.co",
         "screenshot": null,
         "is_safe": null
     },
@@ -20097,6 +20502,15 @@
         "is_safe": null
     },
     {
+        "id": "4a46e457-c1f3-4c24-a413-546875a77073",
+        "date": "2025-01-10T00:09:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jamesswain.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fbacca4a-f689-49c8-a59e-aa8b84a95095",
         "date": "2025-01-07T00:13:55",
         "source": "API",
@@ -20493,6 +20907,15 @@
         "is_safe": null
     },
     {
+        "id": "7d2d28d4-907a-43e3-8e73-8e71ef14b504",
+        "date": "2025-01-10T00:18:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "https-ifacebookk-instagram-bussinesmeta2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "210db32b-4b8f-443e-a581-e9073a79f465",
         "date": "2024-12-25T15:13:37",
         "source": "API",
@@ -20664,6 +21087,15 @@
         "is_safe": null
     },
     {
+        "id": "3d841d54-6b9b-4c34-b6a0-3f7c10e87f2d",
+        "date": "2025-01-10T01:00:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment.run",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d3a94b27-104e-4dd8-893d-d6ab7cf36305",
         "date": "2024-12-04T07:13:59",
         "source": "API",
@@ -20687,6 +21119,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/islam/about/rules/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e0462bc3-9407-49f0-aa68-ce4face0c88b",
+        "date": "2025-01-10T04:02:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.www.www.www.www.www.wwwwwwfacebook-make-hex-32332e39352e3231352e313735-rr.make-hex-32332e39302e3231332e313232-rr.1u.ms",
         "screenshot": null,
         "is_safe": null
     },
@@ -20799,6 +21240,15 @@
         "is_safe": null
     },
     {
+        "id": "ba189f0a-f577-452d-9714-5503051dd21b",
+        "date": "2025-01-10T01:56:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "purecrackcocaineoutlet.uk",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "bcfaa5df-fc30-4d26-a81c-3db4bc7e701e",
         "date": "2024-12-27T16:13:46",
         "source": "API",
@@ -20885,6 +21335,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/GeForceNOW/wiki/index/technical/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f83af289-3936-47a5-879a-8229b92cdc2a",
+        "date": "2025-01-10T01:20:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-933.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -21483,6 +21942,15 @@
         "is_safe": null
     },
     {
+        "id": "d1dadd58-f368-4301-b11b-e74c6e12663f",
+        "date": "2025-01-10T06:19:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ministeredestransportsvc-gouv.cd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3402a6ef-c9df-45c6-8e96-28a1314a6a01",
         "date": "2024-12-20T01:14:01",
         "source": "API",
@@ -21875,6 +22343,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/Gg3EfSWsUx)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e0ebbca9-efcc-43d6-8586-bdd77f28460f",
+        "date": "2025-01-10T00:29:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.www.www.www.wwwapp.wwwfacebook-make-hex-32332e39352e3231352e313735-rr.make-hex-32332e39302e3231332e313232-rr.1u.ms",
         "screenshot": null,
         "is_safe": null
     },
@@ -22779,6 +23256,15 @@
         "is_safe": null
     },
     {
+        "id": "8567f0be-0344-4df5-8b4b-bf59fc61a7f1",
+        "date": "2025-01-10T00:43:09",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.canvatemplates.ameliaww.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "19c2a03a-d973-419c-835c-f759a866bc97",
         "date": "2024-12-02T09:13:39",
         "source": "API",
@@ -22811,6 +23297,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/neography/s/PR5YF5vEtX)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5739b243-dc8e-4afd-86b5-ed4039414c3a",
+        "date": "2025-01-09T23:36:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "goparcellane.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -23184,6 +23679,15 @@
         "is_safe": null
     },
     {
+        "id": "bd020a94-717f-4692-b133-2b6aef5f6fe7",
+        "date": "2025-01-10T06:39:37",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "moncompte.solphyr.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a2a383b0-514b-48d2-939a-78af14bbb49c",
         "date": "2024-11-25T10:13:37",
         "source": "API",
@@ -23261,6 +23765,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://boost.earnin.link/iAgn",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f03f0954-4e8c-4f12-89a9-996288e2a6d7",
+        "date": "2025-01-10T05:20:06",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parcelpace.in",
         "screenshot": null,
         "is_safe": null
     },
@@ -23904,11 +24417,29 @@
         "is_safe": null
     },
     {
+        "id": "bc6e2f4d-c064-4bc6-9b85-b433d58e78a0",
+        "date": "2025-01-10T01:06:35",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "coinbasesecurityprotection.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7c4cd353-9a74-4077-80c8-e3c42967e598",
         "date": "2024-12-31T02:13:36",
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/n41pog5ze3ae1.png?width=1698&format=png&auto=webp&s=a5f359b2fb377f44d51b76e968ad4bf12b192647",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "04b58f9c-3200-4860-80b1-d84c4a09cb7f",
+        "date": "2025-01-10T07:41:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "validator-coinbase.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -25272,6 +25803,15 @@
         "is_safe": null
     },
     {
+        "id": "dd26b22f-aeb2-4d2d-988e-973f41ce63fa",
+        "date": "2025-01-10T04:37:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "849383-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "839dae23-98ff-48c3-b794-569028f6d751",
         "date": "2025-01-09T06:13:39",
         "source": "API",
@@ -25376,6 +25916,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/perchance/),",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f619334f-9853-4368-a89c-7ba4c2a12f6c",
+        "date": "2025-01-10T02:49:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dusk-allocation.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -25709,6 +26258,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/chuunhpqsU",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c076fc89-cf13-4d8b-99f0-801e866480d9",
+        "date": "2025-01-10T01:43:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compte.e-techworld.fr",
         "screenshot": null,
         "is_safe": null
     },
@@ -26087,6 +26645,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "http://discord.gg/pokemonswordshield)!",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "083b8750-5549-456d-a9f8-d5421dee8ed5",
+        "date": "2025-01-10T06:58:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "davidwalterlandwehr.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -26523,6 +27090,15 @@
         "is_safe": null
     },
     {
+        "id": "3e9a01d2-e9fe-4e16-8dc4-e46ab5df5eec",
+        "date": "2025-01-10T01:12:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pricing.coliseumstrength.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6da639c1-8945-4ca8-8e09-7222156725c9",
         "date": "2024-12-01T18:13:43",
         "source": "API",
@@ -26681,6 +27257,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://paidtabs.com/search/pvHSkgBZYzk",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e26cf30d-4d60-4d1d-aef4-746370b2da95",
+        "date": "2025-01-10T06:30:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "c.paypal-web.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -27360,6 +27945,15 @@
         "is_safe": null
     },
     {
+        "id": "2e718b12-d71f-4a91-9ab4-04660dc3fb9d",
+        "date": "2025-01-10T02:05:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "img.email.nsiabanque.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "84aba227-0212-4227-9a09-4dd0a1f97411",
         "date": "2025-01-01T01:13:35",
         "source": "API",
@@ -27819,6 +28413,15 @@
         "is_safe": null
     },
     {
+        "id": "d8e97d35-ec0e-433d-8139-f1090ff321f7",
+        "date": "2025-01-10T07:36:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-activity-client-p9v.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "dc53e9d0-14e6-4be5-becb-b62ec288c69d",
         "date": "2025-01-02T23:13:46",
         "source": "API",
@@ -27842,6 +28445,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://store.steampowered.com/sub/869050/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d286738f-48a4-45c0-87c7-ede6de63f556",
+        "date": "2025-01-10T02:20:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "kencoury.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -28503,6 +29115,15 @@
         "is_safe": null
     },
     {
+        "id": "ce3c34e9-8794-4708-bf47-d3a8c655600d",
+        "date": "2025-01-10T05:20:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mercadolibre650.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ea27062d-39e8-47a8-a203-8cc3adebb7a7",
         "date": "2024-11-28T07:13:34",
         "source": "API",
@@ -28917,6 +29538,15 @@
         "is_safe": null
     },
     {
+        "id": "e334680f-081c-4a02-9500-ae3a65631a0a",
+        "date": "2025-01-10T04:04:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.kermitisabrokeretard.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7f78f740-423c-4edc-8e34-25b1de2a8fcd",
         "date": "2024-12-31T20:14:53",
         "source": "API",
@@ -29210,6 +29840,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/TxDEmg7)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "473c709c-3fdd-45a7-b330-b596dbee8208",
+        "date": "2025-01-10T01:12:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "michaelbond.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -29556,6 +30195,15 @@
         "is_safe": null
     },
     {
+        "id": "450df2d2-2391-4b96-9e59-16f075e72a98",
+        "date": "2025-01-09T23:26:49",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bravoprogram-santegidio.org",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6397c835-b5dc-484b-a682-6fe67c3a7dff",
         "date": "2024-12-09T00:14:20",
         "source": "API",
@@ -29669,6 +30317,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/6thForm/wiki/ucas-information)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "92799105-cd5d-4adc-becf-ed799cb128d0",
+        "date": "2025-01-10T01:19:41",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.achete-un-colis.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -29952,6 +30609,15 @@
         "is_safe": null
     },
     {
+        "id": "54806658-57de-45cc-a1dd-1c9d31415f5f",
+        "date": "2025-01-10T06:08:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.allocationswine.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8870357c-bcd3-4697-8f51-67bc334807bd",
         "date": "2024-12-27T04:13:36",
         "source": "API",
@@ -29993,6 +30659,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://imgur.com/a/ZNsngB9)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "162186e7-4b0c-4bc0-9231-43cbcba18378",
+        "date": "2025-01-10T01:01:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "comprar-notebook-parcelado-brazil.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -30164,6 +30839,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "http://platforms.In)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8be17317-f238-40ea-838a-12ee1f2e5caf",
+        "date": "2025-01-10T02:05:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "img.email.nsiabanque.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -30560,6 +31244,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/Market76/wiki/couriers)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7d3bcce3-2759-4e88-9e7b-da8d6dfe25e4",
+        "date": "2025-01-10T00:18:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "momma-caf.opt-in-sms.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -31014,6 +31707,15 @@
         "is_safe": null
     },
     {
+        "id": "54a4a0a0-5653-43f1-a39d-26112e19a24a",
+        "date": "2025-01-10T06:33:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mercadolibre656.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d3b07b57-7c96-4042-99fb-7afcb379292b",
         "date": "2024-11-28T19:13:47",
         "source": "API",
@@ -31082,6 +31784,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/message/compose/?to=AHMessengerBot&subject=Subscribe&message=!subscribe)**.",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d605a063-5dcb-4abc-9fc7-3dbdd48d7d1c",
+        "date": "2025-01-09T23:57:57",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mgmailer-binance.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -31644,6 +32355,15 @@
         "is_safe": null
     },
     {
+        "id": "31d9fdf4-6b65-49e9-8e14-24b259890af2",
+        "date": "2025-01-09T23:57:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adamwhitson.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "05f19aa1-9d8c-4bd1-a126-ac9893aa224c",
         "date": "2024-12-26T13:13:37",
         "source": "API",
@@ -32058,6 +32778,15 @@
         "is_safe": null
     },
     {
+        "id": "498fa8e5-4eeb-46c4-8db2-8ffe921a458d",
+        "date": "2025-01-10T06:33:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "wwr.paypal-web.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a3dc4c15-3a31-4d94-a77f-b5cbe88a87cb",
         "date": "2024-12-09T15:13:50",
         "source": "API",
@@ -32337,6 +33066,15 @@
         "is_safe": null
     },
     {
+        "id": "064ff636-e7ea-40d2-bd43-85b14ccb895f",
+        "date": "2025-01-10T04:17:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "tbanque.tech",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5e2be201-908e-4825-9123-fa52226542f7",
         "date": "2024-12-09T11:13:39",
         "source": "API",
@@ -32553,6 +33291,15 @@
         "is_safe": null
     },
     {
+        "id": "d83a12a2-adc1-4cd1-a7f6-37f542486914",
+        "date": "2025-01-10T07:12:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-clone-by-pritam.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d02b59a8-2a33-4a52-bda4-54bd0fdbae24",
         "date": "2024-11-26T16:15:53",
         "source": "API",
@@ -32603,6 +33350,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://tracklock.gg/players/855666586)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b172fea7-8955-4be7-9384-bcaa6dd05c78",
+        "date": "2025-01-10T00:48:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "chronopot-livraison-system.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -32720,6 +33476,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.meta.com/referrals/link/tserof/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "0f6322df-a76b-4e17-b7cc-71fdd740fc09",
+        "date": "2025-01-10T06:28:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gptverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -33948,11 +34713,29 @@
         "is_safe": null
     },
     {
+        "id": "c331be57-b7e3-4675-9850-100db1f196fc",
+        "date": "2025-01-10T02:57:41",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-adwords.com.cn",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "97332cea-47be-43f5-b957-5b60a9268654",
         "date": "2024-12-17T23:13:45",
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/SafeTemuSheinTrades/wiki/tradingoverview),",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f5418a28-5f71-42e1-b6b7-3e11a03942d9",
+        "date": "2025-01-10T04:04:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "suivis-colissimo-sav.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -34785,6 +35568,15 @@
         "is_safe": null
     },
     {
+        "id": "334c0c82-d5f6-4dd0-b0ab-cf9dd8b82285",
+        "date": "2025-01-10T06:03:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "vinted-ord.icu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "77be802b-727a-4bf7-a7d8-c4c2a0d24cec",
         "date": "2025-01-08T06:13:36",
         "source": "API",
@@ -35460,6 +36252,15 @@
         "is_safe": null
     },
     {
+        "id": "a500b59f-b398-4553-a046-76f5653c1a66",
+        "date": "2025-01-10T05:02:35",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-login-photos.app",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "70bb78ac-64f3-4f32-a41d-1bb0cf35c673",
         "date": "2025-01-06T16:13:39",
         "source": "API",
@@ -35690,6 +36491,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://cwsports.link/sleeper)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "2b253b6f-f1cf-41e6-8da9-4861c6e25812",
+        "date": "2025-01-10T05:55:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ma-sante.net",
         "screenshot": null,
         "is_safe": null
     },
@@ -35996,6 +36806,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/report).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "db3d8d5b-b33b-4b4b-ba85-dae663afa8a3",
+        "date": "2025-01-10T02:30:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.baliparcel.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -36747,6 +37566,15 @@
         "is_safe": null
     },
     {
+        "id": "4e59924c-0e5f-4cdc-bac7-3c8b39ca7ef2",
+        "date": "2025-01-10T05:19:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "server1.tccwest.www2.pull-ups.ie",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "bb9afe82-d1c3-4a0f-a77d-1aa2fc2ab033",
         "date": "2024-12-30T04:13:35",
         "source": "API",
@@ -36761,6 +37589,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/mlf4ww98oq7e1.png?width=507&format=png&auto=webp&s=d69ba30c887705621ebca99ef832b86a99b8253d",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3ae245e8-1592-4c20-bfad-cd4431438e5c",
+        "date": "2025-01-10T00:50:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mondialcolis-relay.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -39294,6 +40131,15 @@
         "is_safe": null
     },
     {
+        "id": "d4faf9b3-0f2c-4f7d-bc13-7637eafa2284",
+        "date": "2025-01-10T00:20:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.typography.ameliaww.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "28844529-2021-4536-a603-8a46c8c0c9ad",
         "date": "2024-12-20T17:13:48",
         "source": "API",
@@ -39686,6 +40532,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.signal-spam.fr/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6f177623-b4fb-40a6-a065-d99ef935476c",
+        "date": "2025-01-10T07:19:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-fl.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -40208,6 +41063,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://chat.reddit.com/room/!KK_F_LNgSjijiFyG-zgSdA:reddit.com)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c58234b4-6688-439b-97a9-8eed41de42b7",
+        "date": "2025-01-10T00:45:05",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliausa.store",
         "screenshot": null,
         "is_safe": null
     },
@@ -42048,6 +42912,24 @@
         "is_safe": null
     },
     {
+        "id": "bf8f9121-b3f9-4a5b-b321-d3e6c69d5e1f",
+        "date": "2025-01-10T07:18:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-fl.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e5f0e2b5-01da-4ff2-87c9-fd1371069b47",
+        "date": "2025-01-10T06:08:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipments-armbarn.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3850cfee-8e32-47bf-85d3-c7b5379418a4",
         "date": "2024-12-12T08:13:40",
         "source": "API",
@@ -42444,6 +43326,15 @@
         "is_safe": null
     },
     {
+        "id": "f5973a76-cd1f-40db-ac8d-688617732327",
+        "date": "2025-01-09T23:21:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.flexhealthandfitness.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1ac3673a-8309-40bd-9982-748e498df18e",
         "date": "2024-12-18T20:13:40",
         "source": "API",
@@ -42548,6 +43439,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.blueletterbible.org/search/preSearch.cfm?Criteria=1Cor.+4.1&t=CSB)).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d049ea74-86b0-45ec-8f15-7c59eaea10f8",
+        "date": "2025-01-09T23:05:43",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "coinbase-center.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -42683,6 +43583,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/qs7wHYZzRs).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7975b520-06e2-4baa-b702-bc69991bbe58",
+        "date": "2025-01-10T05:15:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.faithconnexion.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -43169,6 +44078,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.meta.com/appreferrals/acthechamp/5096918017089406/](https://www.meta.com/appreferrals/acthechamp/5096918017089406/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral&utm_content=copy)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1e3e26a1-f738-4884-9403-32766f9c1094",
+        "date": "2025-01-10T00:29:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "windows-replacement-jobs-qro7u6cj71203.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -43776,6 +44694,15 @@
         "is_safe": null
     },
     {
+        "id": "aa243e80-8f5a-4096-972a-e3fadff43bc8",
+        "date": "2025-01-09T23:47:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "playgoogle-tgp.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "58e62300-38e5-49c9-8544-a25bcc3e942b",
         "date": "2024-12-17T03:13:40",
         "source": "API",
@@ -44037,6 +44964,15 @@
         "is_safe": null
     },
     {
+        "id": "cbc2634d-72b8-46a2-810a-3ad36ec7b6fd",
+        "date": "2025-01-10T01:23:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pin-ups-india.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6481a147-2ed3-44bd-93d2-8265f91c5600",
         "date": "2024-11-28T04:13:37",
         "source": "API",
@@ -44276,6 +45212,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://viddit.red/?url=https://www.reddit.com/r/IndianDankMemes/comments/1hb6q9k/nice_try_diddy/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "2f255a4e-e2ae-43cb-a50c-a2b33f7cde04",
+        "date": "2025-01-10T03:23:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "recruiting-windows-replacement.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -45144,6 +46089,15 @@
         "is_safe": null
     },
     {
+        "id": "d6dde38e-cc76-479e-98c2-e6baf8081014",
+        "date": "2025-01-10T06:32:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "t.paypal-web.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3c4d8122-8642-4517-b983-bf6473803ba7",
         "date": "2024-11-23T09:13:52",
         "source": "API",
@@ -45405,6 +46359,15 @@
         "is_safe": null
     },
     {
+        "id": "c637631d-9041-4bbb-9807-f8686378355c",
+        "date": "2025-01-10T00:37:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "asker-google.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5c919b80-9061-4dd6-8fc5-f6ed2a3cb209",
         "date": "2024-11-20T18:13:38",
         "source": "API",
@@ -45531,6 +46494,15 @@
         "is_safe": null
     },
     {
+        "id": "9f593114-9a2c-463a-8116-324c9e853d01",
+        "date": "2025-01-10T05:21:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "stg-stylesuperiorwindows-staging.kinsta.cloud",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d3db0d8a-d6f7-4267-9272-94ef5fe54d07",
         "date": "2024-12-28T05:13:47",
         "source": "API",
@@ -45590,6 +46562,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/ta5pxapj6gbe1.jpg?width=3777&format=pjpg&auto=webp&s=43b9196a441716456c686ba8867b8e7884195ea3",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c142a1ee-b63d-44af-82de-49a2e6c92fb9",
+        "date": "2025-01-10T06:33:35",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "giodelcastillo.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -46134,6 +47115,15 @@
         "is_safe": null
     },
     {
+        "id": "5ea9b91b-bea4-4503-9f7a-542bf7ce7794",
+        "date": "2025-01-10T00:12:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.api.worldpostallocations.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4ae29749-0985-4c1d-98ec-93c05e791a56",
         "date": "2024-11-30T17:13:44",
         "source": "API",
@@ -46427,6 +47417,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/s9dttrbdbl7e1.png?width=940&format=png&auto=webp&s=98c4c4a463102236cf07b3f3afd61f3bc2efaabf",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3c456bf8-83d0-4fbb-b7ef-7a17f23033ac",
+        "date": "2025-01-10T01:51:48",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-app-findmy.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -47187,6 +48186,15 @@
         "is_safe": null
     },
     {
+        "id": "807cee0b-9313-4bdc-bf9e-19b28fabfb89",
+        "date": "2025-01-10T00:03:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-tokenchecker.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ce753916-1799-44e0-a7ca-f36ba2054486",
         "date": "2025-01-06T00:13:37",
         "source": "API",
@@ -47304,6 +48312,15 @@
         "is_safe": null
     },
     {
+        "id": "f6734f41-61d1-4f28-9a6c-fcdda55ec14f",
+        "date": "2025-01-10T00:20:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "typography.ameliaww.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3133ab61-91dc-4477-ae7a-de7dbd8bf96d",
         "date": "2024-11-22T15:13:38",
         "source": "API",
@@ -47327,6 +48344,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://reddit.com/user/Available-Can-2000/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "38b0519e-3b51-4e5f-b051-36f2c9f37e7f",
+        "date": "2025-01-10T04:41:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "download.rbcbioscience.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -47754,6 +48780,15 @@
         "is_safe": null
     },
     {
+        "id": "aa4d8f5f-9b29-41b3-a397-0575f793c6bd",
+        "date": "2025-01-10T04:36:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mgmailer-binance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e533e698-cdcb-4926-bcba-e2d821581f49",
         "date": "2024-12-24T07:13:43",
         "source": "API",
@@ -47795,6 +48830,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.cardboardgold.com/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "09352bbb-99d4-4258-8cf7-5eb8a19ab074",
+        "date": "2025-01-10T03:44:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "deviseetcompte.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -48200,6 +49244,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.meta.com/appreferrals/xiTzDaviid/1906871599408213/](https://www.meta.com/appreferrals/xiTzDaviid/1906871599408213/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e9734639-912a-4125-9953-fddb6d7866c0",
+        "date": "2025-01-10T00:40:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www-bbva-es-app.online",
         "screenshot": null,
         "is_safe": null
     },
@@ -48627,6 +49680,15 @@
         "is_safe": null
     },
     {
+        "id": "9e627c17-eb75-4efa-a212-749bdd994581",
+        "date": "2025-01-10T00:18:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "binancexchange.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9e8da48e-30ce-45b9-86ed-6fefaa264c29",
         "date": "2024-12-10T07:13:47",
         "source": "API",
@@ -48884,6 +49946,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.meta.com/referrals/link/lemenestrel/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "deb4743c-7134-407f-820d-d891f41bb3ab",
+        "date": "2025-01-09T23:36:48",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "snapchathaber.com.tr",
         "screenshot": null,
         "is_safe": null
     },
@@ -49239,6 +50310,15 @@
         "is_safe": null
     },
     {
+        "id": "39464c75-d5e3-4480-b114-e454b18e9bc9",
+        "date": "2025-01-10T06:19:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "1142891-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fb87bbc1-1133-4a77-803b-c9ac611f7ffb",
         "date": "2024-12-15T23:13:34",
         "source": "API",
@@ -49410,6 +50490,15 @@
         "is_safe": null
     },
     {
+        "id": "c2d55664-a2b0-4b90-bfa3-7210471fc4eb",
+        "date": "2025-01-10T02:49:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dusk-allocation.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "04155aa5-6e96-418d-80b5-99a714a0d186",
         "date": "2024-12-30T15:14:07",
         "source": "API",
@@ -49433,6 +50522,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.hotpeachpages.net/).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ec096540-0bb4-40af-9b96-ffd681fc9a85",
+        "date": "2025-01-10T00:38:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "asker-google.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -49604,6 +50702,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/5czbmKD",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "df8dacda-a0f5-44df-a8b4-747d00c08b00",
+        "date": "2025-01-10T00:41:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www-bbva-es-app.online",
         "screenshot": null,
         "is_safe": null
     },
@@ -49959,6 +51066,15 @@
         "is_safe": null
     },
     {
+        "id": "fa401f0a-bb3a-4839-8a22-89fa47889df6",
+        "date": "2025-01-09T23:18:06",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "https-ifacebookk-instagram-bussinesmeta2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "148d0275-1af9-490c-96a7-bcc5b044e699",
         "date": "2024-12-14T09:13:47",
         "source": "API",
@@ -50000,6 +51116,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://ikno.io/understanding-the-presidential-pardon-power/",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9e49f3e8-f979-4da6-aa3a-4bb62b5f761d",
+        "date": "2025-01-10T00:18:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "movilcaixabank.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -50553,6 +51678,15 @@
         "is_safe": null
     },
     {
+        "id": "25580f64-7c0a-4c18-8a3e-850015e65d05",
+        "date": "2025-01-10T02:43:11",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "comptesclients.mademoisellescolorees.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8463c85c-c990-43eb-a7a5-567147223ad1",
         "date": "2024-12-25T17:13:42",
         "source": "API",
@@ -50882,6 +52016,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d0c19058-19e3-4525-ad7b-800a784f1f6c",
+        "date": "2025-01-10T03:36:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-8qw.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -51678,6 +52821,15 @@
         "is_safe": null
     },
     {
+        "id": "390cd127-126c-4115-9105-e5adac49e56d",
+        "date": "2025-01-10T02:58:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliaweberhall.fractalsoup.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "95cd9370-bbec-4f71-ae8b-1555267947c7",
         "date": "2025-01-09T13:13:42",
         "source": "API",
@@ -52245,6 +53397,15 @@
         "is_safe": null
     },
     {
+        "id": "1e3f0590-a9c1-4243-9c1e-e499af752886",
+        "date": "2025-01-10T03:02:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pin-ups-cl.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "0400d0a0-d836-4879-bb2b-9d0e75d16538",
         "date": "2024-11-23T13:13:39",
         "source": "API",
@@ -52322,6 +53483,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://media.discordapp.net/attachments/699171697869193217/1326794861852233809/Screenshot_20250108-165859-373.png?ex=6780b981&is=677f6801&hm=baab953003bf83d56df87adcec2dc33e4e8e13cfdbdda9b51c25c3c57440fad1&",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a751fba4-0119-4e33-b511-40e8b50ea897",
+        "date": "2025-01-09T23:56:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "moncompte.newdesiign.store",
         "screenshot": null,
         "is_safe": null
     },
@@ -53379,6 +54549,15 @@
         "is_safe": null
     },
     {
+        "id": "6fa357c4-e4cf-4f7c-8004-3f93de241037",
+        "date": "2025-01-10T00:50:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gnawl9w1qx13t9by.www.wwwwww.www.www.facebook-make-hex-32332e39352e3231352e313735-rr.make-hex-32332e39302e3231332e313232-rr.1u.ms",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9c4dace7-aa77-4d0d-8c44-c607e15dc5ed",
         "date": "2025-01-06T11:13:39",
         "source": "API",
@@ -53910,6 +55089,15 @@
         "is_safe": null
     },
     {
+        "id": "2d584409-b90b-413c-a563-5f435a56674a",
+        "date": "2025-01-10T00:18:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment.run",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "96159075-3b11-4229-b7c9-30e77920c673",
         "date": "2025-01-08T09:14:22",
         "source": "API",
@@ -54108,6 +55296,24 @@
         "is_safe": null
     },
     {
+        "id": "495a828a-d4c0-4f4c-aea1-57b5096e146e",
+        "date": "2025-01-10T06:40:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "barclays-apply-service.flybreeze.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "da76ade0-703b-4c9c-8792-3ecd020b62bb",
+        "date": "2025-01-10T02:46:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "download.rbcbioscience.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "67195b29-9b3e-487d-a5a8-a4712ada81ee",
         "date": "2024-12-12T13:13:39",
         "source": "API",
@@ -54261,11 +55467,29 @@
         "is_safe": null
     },
     {
+        "id": "3dfc3b4b-fb14-499a-8cb1-825f2d3cca5a",
+        "date": "2025-01-10T07:01:43",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.hotflushheroines.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "31de4962-b5b4-45b1-a1e6-35a4c7bed5af",
         "date": "2025-01-08T05:13:39",
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/7m4p3gcaepbe1.png?width=785&format=png&auto=webp&s=22c6ee78f368b4fe036f71737e392a3b1efc672d",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e58526dd-8ded-4e62-a956-a37259ed1692",
+        "date": "2025-01-09T23:33:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mensaje-caixabank.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -54419,6 +55643,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "636ec091-a05f-4b95-a495-e73014310abd",
+        "date": "2025-01-09T23:52:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adamschwartz.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -54644,6 +55877,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://do.co/questions),",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "38ccdaf4-6ef1-400d-a60a-19ee6f538984",
+        "date": "2025-01-10T07:52:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.lblvinted.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -54954,6 +56196,15 @@
         "is_safe": null
     },
     {
+        "id": "60928a6b-3bdf-4d6f-bed3-e1ded31c9d87",
+        "date": "2025-01-09T23:05:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.coinbase-center.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c273fb80-f3bf-4acb-a0f3-0e53851bcb8e",
         "date": "2024-12-22T05:13:36",
         "source": "API",
@@ -55112,6 +56363,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.nexusmods.com/skyrimspecialedition/mods/106441?tab=files)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "51e54097-c097-424c-9027-430883e9604a",
+        "date": "2025-01-09T23:36:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "investornest-windows.site",
         "screenshot": null,
         "is_safe": null
     },
@@ -55341,6 +56601,15 @@
         "is_safe": null
     },
     {
+        "id": "8a15be9d-905c-4a87-b65e-4291341232b7",
+        "date": "2025-01-09T23:17:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "normaleon.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "0a9c4280-cd15-4597-a2d1-c8df927c725a",
         "date": "2024-12-17T06:13:46",
         "source": "API",
@@ -55413,11 +56682,29 @@
         "is_safe": null
     },
     {
+        "id": "22c0a34e-d4f4-48e1-a7a5-3bdd99a2de3d",
+        "date": "2025-01-10T03:32:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "popretardio.lol",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fe8e57cf-9a78-4769-80ab-0e59bdbdb750",
         "date": "2024-11-24T07:13:46",
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/snapchatgonewild)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "af70f084-9b5f-4313-bd26-64d5cd593f2b",
+        "date": "2025-01-09T23:11:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "aaronfincher.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -56331,6 +57618,15 @@
         "is_safe": null
     },
     {
+        "id": "b3bf26e1-cc6e-4f4d-b4d8-8f861f0e035d",
+        "date": "2025-01-10T01:24:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "10xattention.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fa12d02e-01bc-448f-9f66-efb94c5faf6e",
         "date": "2025-01-07T13:13:39",
         "source": "API",
@@ -56691,6 +57987,24 @@
         "is_safe": null
     },
     {
+        "id": "4bad7e2a-06ff-4139-9626-134f2223763f",
+        "date": "2025-01-10T02:33:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.allegrova.shop",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "bca700ab-4f8c-40f3-9e10-5083f10f2e16",
+        "date": "2025-01-10T00:44:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment.bet",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1d0e8717-b2e7-40dc-aa1f-cdc901a27f8b",
         "date": "2024-12-26T13:13:37",
         "source": "API",
@@ -56736,11 +58050,29 @@
         "is_safe": null
     },
     {
+        "id": "b6d882af-75b2-41d4-abf2-1a4cb710e218",
+        "date": "2025-01-10T01:19:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-ver.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "dc75cbcc-27f8-49d4-a320-d8ea69d501fa",
         "date": "2024-12-31T03:13:35",
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/buhaydigital/comments/nsizxz/the_mega_list_for_finding_online_work/),",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9687fc07-28c5-4ba5-aa02-16fd4586c878",
+        "date": "2025-01-10T06:52:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "applecare-case.shop",
         "screenshot": null,
         "is_safe": null
     },
@@ -56885,1077 +58217,6 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.meta.com/appreferrals/acthechamp/6565887093433499/](https://www.meta.com/appreferrals/acthechamp/6565887093433499/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "64f23434-0504-4b62-a25a-000a3ff8c16d",
-        "date": "2024-11-23T03:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://sh.reddit.com/r/Pixelary/comments/1gxq2fy)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "06639c21-62c1-4feb-b0ad-d447fd82a8c4",
-        "date": "2024-12-31T03:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://redd.it/zjnzkh))",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "868c77f7-4ad7-4fee-a0f2-b5e85de077de",
-        "date": "2024-11-27T20:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://getagraph.com/NASDAQ/stock/live-signals/NCNO/ENG",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f0f6f9f6-6008-4f6f-9f6e-f2546f2363b0",
-        "date": "2024-11-21T21:14:18",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtu.be/2Eonkm-1Xb4?si=3XcesYuUDPPmoQr4&t=26m24s)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "4e942e2f-78e3-481e-a8ec-64c214be9ea2",
-        "date": "2024-11-25T16:13:47",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://suno.com/song/8a86f3f1-a8b1-4a5c-8acc-62eb03e5f8b6",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "4d164652-a774-4800-b566-e37ff7a70232",
-        "date": "2024-12-25T07:15:13",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.mypronouns.org/neopronouns)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "55cd1b1c-2b1c-4a3b-be9b-831188f5674a",
-        "date": "2025-01-07T00:13:55",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://imgur.com/ttK5USu)||$3|$5|$7|$17|",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "464ece6c-0164-48f1-bcf2-926a96195595",
-        "date": "2025-01-02T03:17:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3398154901](https://steamcommunity.com/sharedfiles/filedetails/?id=3398154901)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9d2ad23b-2707-4708-8c9f-68bf08ec40f4",
-        "date": "2024-12-06T01:13:58",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a8f66d1a-3544-4e6d-94c2-d91fb469a5a9",
-        "date": "2025-01-09T08:14:10",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.facebook.com/UMakPH),",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e00df9da-329f-4e74-a19f-eb5105e1bdb1",
-        "date": "2024-11-22T09:11:26",
-        "source": "CRAWLER",
-        "source_name": "url_crawler",
-        "url": "https://456.fr",
-        "screenshot": null,
-        "is_safe": true
-    },
-    {
-        "id": "b9b84c4a-5e4d-44ba-b766-4a3d0108d482",
-        "date": "2024-12-04T19:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/Watchexchange/comments/1h6oe7x/wts_omega_planet_ocean_6000m_ultra_deep_455mm/)\"",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "952ff738-2109-4f78-9708-4c51db6fa6e4",
-        "date": "2024-12-09T21:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/FortniteXPMaps/comments/uozvq0/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "feaa90ad-1f60-4200-acf3-57ca4ff9b46b",
-        "date": "2024-12-27T11:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.youtube.com/watch?v=UyugbMf_Qls)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "dd931062-3560-46b9-8c57-b5cc44b0da86",
-        "date": "2024-12-10T06:13:46",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://redd.it/zkhqhe).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "12708c7d-3aa8-49f6-a9c2-388400989201",
-        "date": "2024-11-29T09:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/MakeNewFriendsHere/about/rules/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e2aee22a-b574-4106-86b1-64e3630a2033",
-        "date": "2024-12-02T16:13:46",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/PHCreditCards/comments/18dcaz4/ph_credit_cards_recommendations_whats_a_good/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "227b1d2c-60bd-4b72-87cb-6e60bdec1e7f",
-        "date": "2024-12-07T10:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/27wgKfafmP)!",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "06ca7daf-1fec-4f7c-a5eb-794cdbf1c572",
-        "date": "2024-12-09T23:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://dexscreener.com/solana/5a9lir713nir2hm2el5b8lkqyqxe56allzkhvhe9f5eb",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "b1733bdb-03a4-4e01-847f-865dc3701c72",
-        "date": "2024-12-11T13:13:42",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://trace.moe/?auto&url=https://youtu.be/xDW8Wt6Bb5I?si=EzjzHR_DGpk8VovM)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e4441a40-71b7-4bcf-afac-8ef9e5e3eb60",
-        "date": "2024-11-24T19:13:49",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/WX6jbCD",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "144a24fe-1597-4cdf-995b-9df5b4d5f2ec",
-        "date": "2024-12-07T20:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.xiaomains.com/other-guides/faruzan-guide)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "1d832b3b-f8af-4e12-8e5d-9323c15f5c83",
-        "date": "2024-11-21T09:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/Celiac)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "cf9b75a0-c64c-445c-8674-febe08883845",
-        "date": "2024-12-30T01:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/USCIS/wiki/index/vfaq)\"",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "82ad826a-f9e8-4253-807a-801a505a85d3",
-        "date": "2024-11-30T23:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/yCH2Yja3v7",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a1edbcbc-7e5c-4cb9-a663-409d8d245a0f",
-        "date": "2024-11-30T23:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/PokemonMasters/wiki/rules#wiki_rule_3.3A_use_correct_flairs._posts_must_contribute_to_discussion.2C_otherwise_it_is_low_effort_or_off-topic.)**.",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "2d968b24-865d-4ce6-8b23-52eff66bbfa7",
-        "date": "2024-12-12T10:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "http://suicide.org/.",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "c533653f-223e-43e0-9a36-a4ad2e38259c",
-        "date": "2024-12-18T19:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.polyinfo.org/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "504688ab-5b58-4d68-a2d8-5787c277a182",
-        "date": "2024-12-26T09:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/4giqxx3ys59e1.png?width=833&format=png&auto=webp&s=0dbffb754bed1a7490755f86bf579039b4c53bc4)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "2e6b06a3-5651-4364-b847-80d63ba38f44",
-        "date": "2024-12-21T22:14:01",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://drive.google.com/file/d/1DxfmYGpp\\_4KeEabBoCwYbnj-DBJZVTmU/view?usp=sharing](https://drive.google.com/file/d/1DxfmYGpp_4KeEabBoCwYbnj-DBJZVTmU/view?usp=sharing)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f7567a27-6072-4f60-b0b4-54ddf7f29f79",
-        "date": "2024-12-12T04:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/MakeNewFriendsHere/about/rules/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "4d72ca58-b3c5-4fd6-8939-6d107c0e789c",
-        "date": "2024-12-28T08:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.italiapersonalfinance.it/blog/mutui-prestiti/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "3f4ffd56-a7d8-4fa2-a046-4e02a56cdfde",
-        "date": "2024-12-06T15:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/MakeNewFriendsHere/about/rules/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "54187cfc-ed2f-4260-bcea-bde018525f6e",
-        "date": "2024-11-28T23:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/LeagueCoachingGrounds/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "ea4aedcb-74f2-4cc2-a112-568b6b9ff675",
-        "date": "2024-12-02T18:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://rcax.io/dapps/randomavatarswap)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "1cc2cd1d-f98d-47de-845c-6c7f39ed2aae",
-        "date": "2025-01-04T20:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://cwsports.link/parlayplay)**",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "0b66d426-2be1-473a-ae5a-eb6dc35e023b",
-        "date": "2024-12-24T02:16:15",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.oculus.com/appreferrals/wolfpup64/4714094898617280/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f3122a3b-fa7b-40d2-a5d2-0daaed1973d4",
-        "date": "2024-12-21T11:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/pokemongo/wiki/rules#wiki_rule_three.3A_piracy_and_cheating)**.",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a0770338-e321-4d86-b300-3b248c0bf2bd",
-        "date": "2025-01-05T16:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/S8pJtqA,",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "af5b591c-76ab-4231-8189-019ce65f3216",
-        "date": "2024-12-14T00:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/pokemongo/wiki/rules#).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9181214f-2130-4645-a062-ac5d6f7a370a",
-        "date": "2025-01-04T14:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://pinterest.com/drawing",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "8e4ed431-1260-4ef2-852d-0b598f117f96",
-        "date": "2024-12-29T12:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/zen/comments/144n016/the_long_scroll_part_27/),",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "198f5bbc-7ec9-450b-85fd-50720816193a",
-        "date": "2024-12-06T21:14:17",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/appreferrals/xiTzDaviid/5136958036416423/](https://www.meta.com/appreferrals/xiTzDaviid/5136958036416423/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "1e6cd3d5-a4df-476a-9669-7c2f07b013b4",
-        "date": "2025-01-03T19:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/pokemongo/comments/p8vupw/new_flair_system_for_posts/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "6bc05a96-d3cb-4be3-a993-387908394a46",
-        "date": "2024-12-09T05:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://braintrainingfordogs.myofferdeals.com",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "16f2a3bb-9cd1-43da-91c9-db17c8cecb36",
-        "date": "2024-12-01T16:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.com/invite/8tEqw3ZWQV)!",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "5860cfe6-f334-43ec-89f2-2dd2d4e9ed8f",
-        "date": "2024-12-18T02:13:52",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.cardboardgold.com/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f67cdf75-0874-49ce-8e9b-64d8baeabb41",
-        "date": "2024-11-26T17:14:19",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "http://iptv-iptv.se/)|27",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f205b863-b807-460b-8286-6c82c166a737",
-        "date": "2024-12-17T08:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/HeroForgeMinis/wiki/introduction/#wiki_.2013_rule_4.3A_no_conflict_over_link_sharing_.2013)!",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "d7a43a4f-0e8d-4934-8e18-dd286d35d608",
-        "date": "2025-01-04T16:13:48",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/EBchq82",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a603b6dc-e8ef-4e53-bfc2-0bcf3682f225",
-        "date": "2024-12-09T12:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://redditsave.com/info?url=https://www.reddit.com/r/SaimanSays/comments/1ha8ck7/crossbreed_hai_mera_beta/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "938fc880-3b30-4d4d-9182-8925e8d11186",
-        "date": "2025-01-05T22:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/questions/about/rules)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "7e516202-824d-4e71-a465-ee629742f4df",
-        "date": "2024-12-28T01:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.pixiv.net/en/artworks/118390784](https://www.pixiv.net/en/artworks/118390784)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "52a1bd9b-65b0-4d3b-a6ff-2b056b6d55fa",
-        "date": "2024-11-25T06:13:46",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/7s9fgsnqoz2e1.png?width=541&format=png&auto=webp&s=8ae0cebdf4e224a716e7bae5883b2a417cc14b45",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a5e66fb4-a9f7-4815-a0e0-d2119e739d47",
-        "date": "2025-01-07T00:13:55",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://imgur.com/vtKvqul)|$6|$9|$19|$35||",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "8ef070c4-26a5-4e9d-af29-f582c2b81f84",
-        "date": "2024-12-26T03:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtu.be/GZZlw9yZppY?si=p8Vo-XmdiYldwT6S](https://youtu.be/GZZlw9yZppY?si=p8Vo-XmdiYldwT6S)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "77e6e7a0-2c46-45e7-b18b-d9674d0a236e",
-        "date": "2025-01-07T08:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/i65nexqm5jbe1.png?width=779&format=png&auto=webp&s=9121d4047483af7de3efc052cd71315fd85caca3",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "7431d253-6006-448a-982e-b538e03723d2",
-        "date": "2024-12-26T20:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/VisitingHawaii/search?q=flair%3ATrip%2BReport%2B&restrict_sr=on&sort=new&t=all)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "7032f254-0e42-46b2-9ab3-60e705b9c6f1",
-        "date": "2024-12-24T02:16:15",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.oculus.com/appreferrals/wolfpup64/2366136696841248/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "34a3d548-accc-4ac9-a90a-dd422ac2a871",
-        "date": "2024-12-13T11:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/2i8m3n9lll6e1.png?width=1920&format=png&auto=webp&s=a86f3b0127a7c685e8fae4ceb9c5e8595dfd0cfd",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "96f23636-ce0d-49b0-98b1-b59e86a08c66",
-        "date": "2024-11-20T16:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/hz6Du8HERG)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "374ed357-3836-4f13-b5ab-d2096aa445f8",
-        "date": "2024-12-13T05:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.inaturalist.org/observations/upload)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "d4e0ce40-2f17-4d34-b003-b837889449fc",
-        "date": "2025-01-07T17:13:46",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://osu.ppy.sh/u/7562902",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "6ed9b8fa-9b80-44e2-8cb2-4b1c71730d0b",
-        "date": "2025-01-04T11:13:47",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.twitch.tv/yourragegaming),",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "0ace0b21-56f0-43ee-8736-47d74ea1ced6",
-        "date": "2024-11-27T16:13:48",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/looking-for-marketing-discussion-811236647760298024)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "438bb9b8-2228-45b8-a074-fb3fde17e5a0",
-        "date": "2024-12-04T13:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.msn.com/en-us/news/us/us-labor-department-finds-11-minors-working-hazardous-shifts-at-iowa-pork-processing-plant/ar-AA1vbCfU?ocid=msedgdhp&pc=HCTS&cvid=cb6b081b62e440858c9e841e314558c9&ei=36](https://www.msn.com/en-us/news/us/us-labor-department-finds-11-minors-working-hazardous-shifts-at-iowa-pork-processing-plant/ar-AA1vbCfU?ocid=msedgdhp&pc=HCTS&cvid=cb6b081b62e440858c9e841e314558c9&ei=36)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9c686f36-a8e5-4d7f-aca0-9c89fb253f24",
-        "date": "2024-12-23T06:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/legionseries)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "980cde63-6af8-4b5d-a4e5-a3ce8719b27e",
-        "date": "2024-12-15T02:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.tiktok.com/t/ZTYmDSBu4/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "bad4065f-60ff-4969-b63a-595ab572ba76",
-        "date": "2024-11-29T09:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/referrals/link/lemenestrel/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9be18041-efaf-40d4-88a3-c70567fd992f",
-        "date": "2024-12-13T02:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://x.com/i/lists/970907746307641345)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f3e2b332-c4a5-4b77-aa27-fdf9d8640cdb",
-        "date": "2024-12-11T23:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.facebook.com/NovaPhotoRestoration)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "6a101954-3bf0-4bbd-95f3-6fdb903dc436",
-        "date": "2024-12-24T18:13:55",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.gameverifying.com/wiki/debunked)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "90f55ca3-5f76-452c-aeb5-4358ed09ec7a",
-        "date": "2024-11-21T00:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtube.com/playlist?list=PLWghIVErqy0Adthf1_mLOlldlJPFY6vlV&si=9GJNzGZw2I-U4Pos)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e04ad3db-5875-475e-b1e2-2ab781777a84",
-        "date": "2024-12-26T14:13:34",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/TMps6HBuwF)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "1d247624-772f-431c-9067-afc1f7d51d24",
-        "date": "2024-12-16T01:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.com/invite/pokemon-go).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "581f07d1-aefd-4dfb-8dfa-c9765feb7675",
-        "date": "2025-01-09T01:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/poll/1hx0oys)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "4dc25a9f-4180-4fd9-b69b-be928b8f79d1",
-        "date": "2025-01-03T11:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://amzn.to/4a4V59u)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "0d29701d-1708-411f-9078-6bc825fddc73",
-        "date": "2025-01-02T09:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/kaitgsynrjae1.png?width=512&format=png&auto=webp&s=fda5d906957574b2d4bebf37eecf4ae440f4e4e4",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "0dd79a3a-32a6-4056-8d49-58b124665543",
-        "date": "2024-12-22T00:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://flightsimulator.zendesk.com/hc/en-us/categories/360001769531-Microsoft-Flight-Simulator)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "23e6849b-70b8-4bb1-a946-2b6c439df308",
-        "date": "2024-12-12T10:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://store.steampowered.com/app/2142450/ZONA\\_Project\\_X\\_VR/](https://store.steampowered.com/app/2142450/ZONA_Project_X_VR/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "36f98584-c454-4439-a705-b1febafce147",
-        "date": "2024-12-01T08:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://zepbound.lilly.com/how-to-use)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "c8076ee3-6f52-4911-8500-5db1e01fe647",
-        "date": "2024-12-18T05:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.pathofexile.com/forum/view-thread/3594260)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "76e700f7-6a11-43d8-8193-81a2ea129bee",
-        "date": "2025-01-05T15:13:42",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/exIglesiaNiCristo/wiki/index)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "483acf45-496e-4432-bab6-5c65d3b2849a",
-        "date": "2024-12-08T13:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/135bvvovjm5e1.jpg?width=996&format=pjpg&auto=webp&s=07ec9da0a299eb9ecf9eaacb3731772214a8b17b",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "763bcde7-fe05-49fe-8cbf-b073ced5d59c",
-        "date": "2024-12-08T07:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/SpyxFamily/wiki/index)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "2d1a8e95-1d8d-43d5-85ad-162410f9a4f8",
-        "date": "2024-12-01T10:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.youtube.com/watch?v=E5dKuC\\_G5zk](https://www.youtube.com/watch?v=E5dKuC_G5zk)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "d04591fc-6876-45fb-9120-0a247b767e6e",
-        "date": "2025-01-02T15:13:56",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.dlsu.edu.ph/),",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "17aa4a16-b95f-462c-a9e9-a9ea6af6c333",
-        "date": "2024-12-28T11:13:54",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://i.imgur.com/Dllo1RA.gifv)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "29fb768d-f8c6-44bf-9ac9-3606ad8bfda6",
-        "date": "2024-12-16T04:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3?si=Aw0UC4bBT5qO7hAydV1PNQ",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "a04856f4-d10d-4ae1-9cb9-aadab1ddcc55",
-        "date": "2024-12-10T12:13:44",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/UaWRVQtbEh)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9610d2d5-89b5-4195-803b-1d831e441a3e",
-        "date": "2025-01-07T16:13:42",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://drive.google.com/file/d/1hYUHw41w0eNOKH3Ax2FjbwV0aFd4FoxM/view?usp=drive_link)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "c05e8fd7-c7f5-42f2-9834-09491f959cfa",
-        "date": "2024-12-24T20:13:51",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtu.be/sK6JP22Cgcg",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f130032e-ec54-423e-a3a2-b2813fe00f69",
-        "date": "2025-01-07T08:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://9db.jp/pokego/data/2235)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "bc826787-2f42-436e-bf17-229ac0b02920",
-        "date": "2024-11-27T08:14:05",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://clashfinder.com/s/coachella2025fakesettimes/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "59eeb476-b226-47ec-88fe-7674a860cd3a",
-        "date": "2025-01-07T08:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://preview.redd.it/a4yqro3i5jbe1.png?width=2288&format=png&auto=webp&s=918fe3bb17c63817fece0ff07fc10c6b2f89c866",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "409bda43-de0d-4cb5-acb9-9c0c2ae1a40b",
-        "date": "2024-12-13T21:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://cwsports.link/boom)**",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "8dde9c74-ef9f-42c5-91fe-3b36ac6b161c",
-        "date": "2024-12-04T13:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/PERSoNA/wiki/pq)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "69658919-dfe0-4697-bc2b-b905de12aec9",
-        "date": "2024-12-02T07:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/h2J4x6j8zC)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "f6a455e2-c127-48ae-b1a5-83c182b23b61",
-        "date": "2024-11-24T13:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/AskIndia/comments/1gx5qiw/mod_we_are_looking_for_new_moderators_for/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "36690e70-dfc7-463a-a317-bdcc8905de59",
-        "date": "2025-01-07T04:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/PatchesEmporium/wiki/scammerlist)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "25a4bb24-985b-4dfc-a4d2-8ce958c7911b",
-        "date": "2024-12-31T20:14:53",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://store.steampowered.com/app/695100/Smoke_and_Sacrifice/)\\*",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "5b8619e3-dda3-42fb-9719-f1b4e417c73d",
-        "date": "2024-11-22T03:13:53",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/StLouis/wiki/visitorguide/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "befdbd71-1d09-4e04-aba5-eda1f739995d",
-        "date": "2024-12-18T09:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://talesofrio.com/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e8c2a56c-ef95-480b-9789-641a9b413224",
-        "date": "2024-12-29T21:14:03",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://maps.app.goo.gl/jLgNAhrfaNibsPwe7](https://maps.app.goo.gl/jLgNAhrfaNibsPwe7)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9c40e9d4-cdc7-4b7c-a922-6cea11fdf2da",
-        "date": "2024-12-20T21:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/ExEgypt/wiki/index/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "fb1f8083-ab0b-4033-88ca-4e3d409976b4",
-        "date": "2024-12-08T02:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/funnycats/about/rules/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "74ceb217-37ed-4b0b-875c-0e8009988429",
-        "date": "2024-12-21T14:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://jobboardsearch.com/redirect?utm_source=reddit&utm_medium=bot&utm_id=jobboarsearch&utm_term=echojobs.io&rurl=aHR0cHM6Ly9lY2hvam9icy5pby9qb2IvYm9zdG9uLXNjaWVudGlmaWMtc2VuaW9yLW1hbmFnZXItYnVzaW5lc3MtcHJvY2Vzcy1ib29udw==",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "3dc65720-d5d4-4927-be35-a0b553a23d1f",
-        "date": "2024-11-21T11:14:23",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://idownloadcoupon.com/udemy/25798/)300",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "df0127f1-8586-48cd-9d0c-62a56a4c4119",
-        "date": "2024-12-05T07:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://t.me/Kafka\\_mems](https://t.me/Kafka_mems)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "69a3f1b3-2e1c-4368-ac8e-76d6140b68f5",
-        "date": "2024-12-09T01:13:38",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/DannyGonzalez/wiki/flairs)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "e4436b01-aee2-4145-8504-38f0cba5d263",
-        "date": "2024-11-21T19:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://youtube.com/shorts/X1dmVgN6O6A?si=FTeYs1foG4BhXCaw",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "baad8485-536c-4c3f-b4eb-734d62a07a80",
-        "date": "2024-12-05T01:13:48",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://form.jotform.com/231084876377366?b24form_user=1.19076-1734488306-e9869b78619ddf5f417ece88fae5b15352cc950fdb4cef86bb3cc6b25bad737f",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "d3ec6432-4164-4006-b50e-20847904012c",
-        "date": "2024-12-10T02:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/gArXkYz)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "6edd4589-6b2c-4d6a-9e7d-cee32a3bbe36",
-        "date": "2024-11-29T18:13:37",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://support.snapchat.com/a/locked](https://support.snapchat.com/a/locked).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "ecb3b2f0-9f04-4c3a-af5a-e300cb10ec6c",
-        "date": "2025-01-01T19:13:49",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/dpdr/comments/zdydex/quick_tips_if_youre_experiencing_an_episode_or/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "52156bcc-dd3a-443f-b56f-69fa371db6eb",
-        "date": "2024-12-24T07:13:43",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.meta.com/referrals/link/tserof/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "7b89ac5e-ef54-45ba-9395-92eb49e062bd",
-        "date": "2024-12-01T15:14:07",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.fanatical.com/en/pick-and-mix/build-your-own-infinity-vr-collection",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "3d84adf3-b39a-4961-8760-c62e83c5f0f9",
-        "date": "2024-12-24T02:16:15",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.oculus.com/appreferrals/wolfpup64/5566073043488552/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "d2e76683-50ef-4d22-9de7-11ad1626462c",
-        "date": "2025-01-09T16:13:40",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://notlesenglish.carrd.co](https://notlesenglish.carrd.co/)",
         "screenshot": null,
         "is_safe": null
     }
