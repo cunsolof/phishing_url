@@ -312,7 +312,7 @@
         "source_name": "URL_Crawler",
         "url": "icloud-my.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": false
     },
     {
         "id": "cc049b77-fe15-4acb-ae05-6fd812711c86",
@@ -681,7 +681,7 @@
         "source_name": "URL_Crawler",
         "url": "instagramgrowthandsales.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": false
     },
     {
         "id": "73413452-24f4-449f-b65e-67dba1bb5939",
@@ -2682,6 +2682,15 @@
         "is_safe": null
     },
     {
+        "id": "dba9adce-d441-4a47-8ec5-123b71222d72",
+        "date": "2025-01-10T08:12:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parcelstatushub.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "978fc999-f302-44d2-ad85-ab31f8208852",
         "date": "2024-11-21T07:13:55",
         "source": "API",
@@ -3326,6 +3335,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.oculus.com/appreferrals/wolfpup64/4395292760584049/)~~",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7ee3df9e-ffc1-4e72-80e6-dda695b784f4",
+        "date": "2025-01-10T08:14:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allegrolokalnie-oferty-76879.shop",
         "screenshot": null,
         "is_safe": null
     },
@@ -6836,6 +6854,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://newsramp.com/curated-news/black-radiance-and-cross-colours-collaborate-for-retro-beauty-collection/877344205c9cdc19310583d7d65cbe5b",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5088d927-7bbd-4d29-8b31-4b9bb8b6907f",
+        "date": "2025-01-10T08:24:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.carolamendezcoach.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -12074,6 +12101,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.gg/DzPuRQM).",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6bb25a01-8e3b-4769-bf9e-b741a4a6ef42",
+        "date": "2025-01-10T08:19:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "auth.tam-cic-bootcamp-aferrier.identityready.io",
         "screenshot": null,
         "is_safe": null
     },
@@ -21348,6 +21384,15 @@
         "is_safe": null
     },
     {
+        "id": "0e51e023-1efc-4d78-940a-42e3356ca2c8",
+        "date": "2025-01-10T08:23:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mgmailer-binance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "86d99015-d189-4f20-a1a9-9ed5e6a6a579",
         "date": "2024-11-22T05:13:38",
         "source": "API",
@@ -22460,6 +22505,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/Disneycollegeprogram/wiki/faq)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f8d3af02-33ef-4201-bf2f-87d86c1babc5",
+        "date": "2025-01-10T08:01:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adidas-old.mlcloud.net",
         "screenshot": null,
         "is_safe": null
     },
@@ -24602,6 +24656,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://support.reddithelp.com/hc/en-us/articles/360058752951-How-do-I-report-a-private-message)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "df193b1d-7ffd-4d2a-8634-f4271ce45329",
+        "date": "2025-01-10T08:20:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.www.wwwwww.portal.wwwwww.facebook-make-hex-32332e39352e3231352e313735-rr.make-hex-32332e39302e3231332e313232-rr.1u.ms",
         "screenshot": null,
         "is_safe": null
     },
@@ -29457,6 +29520,15 @@
         "is_safe": null
     },
     {
+        "id": "4fd6dff3-8feb-44c8-be33-f8da38df329f",
+        "date": "2025-01-10T08:24:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "sanfranciscolistings.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3b66816a-3458-4125-9e98-0d04b77a122b",
         "date": "2024-12-25T01:13:35",
         "source": "API",
@@ -31181,6 +31253,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://danbooru.donmai.us/posts?tags=enmo_takeshita&z=1",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ab9af3aa-57d0-407e-a8e2-258d2fcf3857",
+        "date": "2025-01-10T08:22:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "careers.advurgent.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -33791,6 +33872,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://preview.redd.it/tj22vrxb4q4e1.png?width=573&format=png&auto=webp&s=36a1a5bc2eba96a3358f659ece569d9b10a2e427",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1160ea4f-c5e1-4dfa-84f3-4684cbdf5662",
+        "date": "2025-01-10T08:00:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parcelup.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -49743,6 +49833,15 @@
         "is_safe": null
     },
     {
+        "id": "555c2ded-0d32-4307-b502-47f547b63209",
+        "date": "2025-01-10T07:59:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "achats-sante-alsace.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d0268f5a-31e8-4044-9cb8-fd9952e5755b",
         "date": "2025-01-08T00:13:38",
         "source": "API",
@@ -51512,6 +51611,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://imgur.com/a/xGwFT6f](https://imgur.com/a/xGwFT6f)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "4264117b-2b2a-4ddd-b86d-e1249a835451",
+        "date": "2025-01-10T08:26:37",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allocations-morpho.xyz",
         "screenshot": null,
         "is_safe": null
     },
@@ -56178,6 +56286,15 @@
         "is_safe": null
     },
     {
+        "id": "b7314f30-e5c4-4487-995d-2780434dc219",
+        "date": "2025-01-10T08:19:33",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.mdmartinez.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a763b50e-c2f1-4f02-9e4f-311627082e14",
         "date": "2024-11-21T06:14:39",
         "source": "API",
@@ -58109,114 +58226,6 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://bit.ly/3aaiuft).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9761df0a-6d96-45ab-9bb8-68cd4a2cf897",
-        "date": "2024-11-24T11:13:53",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://modailjepota.com/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "dd40c1fd-2d98-480c-8b8f-a6f7bc5635b1",
-        "date": "2024-12-27T22:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/iems/comments/1hd2hd1/top_5_iems_in_every_price_range_chosen_by_you/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "fe8c041d-b2a8-49fe-97eb-7a3f916fe6f0",
-        "date": "2025-01-08T05:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://discord.gg/ShW\\](https://discord.gg/ShW)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "46591d6e-84f4-48f8-aa01-06d3a5722b9f",
-        "date": "2024-12-29T03:13:34",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.twitch.tv/FanumTV),",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "41dc7df5-a7d8-442f-8b54-1177f2e06241",
-        "date": "2024-12-23T14:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/MakeNewFriendsHere/about/rules/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "002f067c-976a-4657-8833-b61577e4d0c1",
-        "date": "2024-12-12T18:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLScMeejVQvo138K2kKqW24bYwfN_ElrEeRU-I-LH7b0OKpo-3g/viewform?usp=header",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "94e474e8-8f03-47da-bbb6-432aa9cb47e7",
-        "date": "2024-12-17T07:13:53",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://x.com/ravenovae/status/1868916681319575711?s=19",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "ddf846fb-a966-44ea-8f0c-90c9290ceb73",
-        "date": "2024-12-14T10:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/ukraine/wiki/sunriseposts/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "35981e07-4602-44b7-8710-a6e99403c292",
-        "date": "2024-11-21T03:13:41",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/Pixelary/comments/1f578ps/hello_pixelary_community/).",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "b2ab8a01-50c8-4f59-af13-9bc17fdf5377",
-        "date": "2025-01-01T01:13:35",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.reddit.com/r/gaybrosgonemild/wiki/verification/)",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "9ea89c7b-8930-4892-9c76-8f33a1ca7dde",
-        "date": "2024-12-26T03:13:36",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://www.tiktok.com/t/ZTYsfTC8v/",
-        "screenshot": null,
-        "is_safe": null
-    },
-    {
-        "id": "efab551a-55ed-4d26-bf02-2aca6ea4645c",
-        "date": "2024-12-12T07:13:39",
-        "source": "API",
-        "source_name": "reddit",
-        "url": "https://collegedunia.com/write-review/temp?referral_code=84587B5",
         "screenshot": null,
         "is_safe": null
     }
