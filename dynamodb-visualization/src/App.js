@@ -21,18 +21,27 @@ function App() {
           throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const jsonData = await response.json();
+  
+        // Obtenir la date minimale de la base de données
+        const minDate = jsonData.reduce((min, item) => {
+          const currentDate = new Date(item.date);
+          return currentDate < min ? currentDate : min;
+        }, new Date(jsonData[0].date));
+  
         setData(jsonData);
+        setStartDate(minDate.toISOString().split('T')[0]);
+        setEndDate(new Date().toISOString().split('T')[0]);
         setError(null);
-        setLoading(false); // Données chargées, on désactive le loader
+        setLoading(false);
       } catch (e) {
         setError("Erreur lors du chargement du fichier.");
-        setLoading(false); // Si erreur, on désactive aussi le loader
+        setLoading(false);
         console.error(e);
       }
     };
-
+  
     loadData();
-  }, []);
+  }, []);  
 
   useEffect(() => {
     const today = new Date();
@@ -80,9 +89,9 @@ function App() {
   }, {});
 
   const pieData = {
-    labels: Object.keys(getSourceCount(filteredData)),
+    labels: Object.keys(getSourceCount(data)), // Utilise les données globales pour le camembert
     datasets: [{
-      data: Object.values(getSourceCount(filteredData)),
+      data: Object.values(getSourceCount(data)), // Utilise les données globales pour le camembert
       backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0'],
     }],
   };
@@ -102,7 +111,7 @@ function App() {
   };
 
   const barData = {
-    labels: Object.keys(groupedBySource),
+    labels: Object.keys(groupedBySource), // Basé sur les données filtrées par date
     datasets: [{
       label: 'Nombre total de liens par source',
       data: Object.values(groupedBySource),
