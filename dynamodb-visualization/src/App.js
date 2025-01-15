@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Pie, Bar } from 'react-chartjs-2';
 import { Chart as ChartJS, Title, Tooltip, Legend, ArcElement, CategoryScale, LinearScale, BarElement } from 'chart.js';
 import './App.css';
+import { useMemo } from 'react';
 
 ChartJS.register(Title, Tooltip, Legend, ArcElement, CategoryScale, LinearScale, BarElement);
 
@@ -22,44 +23,28 @@ function App() {
         }
         const jsonData = await response.json();
   
-        // Obtenir la date minimale de la base de données
-        const minDate = jsonData.reduce((min, item) => {
-          const currentDate = new Date(item.date);
-          return currentDate < min ? currentDate : min;
-        }, new Date(jsonData[0].date));
+        // Trier une fois pour obtenir la première date
+        const sortedData = jsonData.sort((a, b) => new Date(a.date) - new Date(b.date));
+        const minDate = new Date(sortedData[0].date);
+        const maxDate = new Date(); // Aujourd'hui
   
-        setData(jsonData);
+        setData(sortedData);
         setStartDate(minDate.toISOString().split('T')[0]);
-        setEndDate(new Date().toISOString().split('T')[0]);
+        setEndDate(maxDate.toISOString().split('T')[0]);
         setError(null);
-        setLoading(false);
       } catch (e) {
         setError("Erreur lors du chargement du fichier.");
-        setLoading(false);
         console.error(e);
+      } finally {
+        setLoading(false);
       }
     };
   
     loadData();
   }, []);  
 
-  useEffect(() => {
-    const today = new Date();
-    const formattedDate = today.toISOString().split('T')[0];
-    setStartDate(formattedDate);
-    setEndDate(formattedDate);
-  }, []);
-
   const filterData = () => {
     return showMaliciousOnly ? data.filter(item => item.is_safe === false) : data;
-  };
-
-  const getSourceCount = (filteredData) => {
-    const counts = filteredData.reduce((acc, item) => {
-      acc[item.source] = (acc[item.source] || 0) + 1;
-      return acc;
-    }, {});
-    return counts;
   };
 
   const filterDataByDate = (filteredData) => {
@@ -77,21 +62,27 @@ function App() {
     setEndDate(event.target.value);
   };
 
-  const filteredData = filterData();
-  const dataForCharts = filterDataByDate(filteredData);
+  const filteredData = filterData(); // Filtré uniquement par le bouton "Malicieux uniquement"
+  const filteredDataByDate = filterDataByDate(filteredData); // Ajout du filtre de date pour l'histogramme
 
-  const groupedBySource = dataForCharts.reduce((acc, item) => {
-    if (!acc[item.source]) {
-      acc[item.source] = 0;
-    }
-    acc[item.source] += 1;
-    return acc;
-  }, {});
+  const groupedBySourceForBar = useMemo(() => {
+    return filteredDataByDate.reduce((acc, item) => {
+      acc[item.source] = (acc[item.source] || 0) + 1;
+      return acc;
+    }, {});
+  }, [filteredDataByDate]);
+  
+  const groupedBySourceForPie = useMemo(() => {
+    return filteredData.reduce((acc, item) => {
+      acc[item.source] = (acc[item.source] || 0) + 1;
+      return acc;
+    }, {});
+  }, [filteredData]);
 
   const pieData = {
-    labels: Object.keys(getSourceCount(data)), // Utilise les données globales pour le camembert
+    labels: Object.keys(groupedBySourceForPie),
     datasets: [{
-      data: Object.values(getSourceCount(data)), // Utilise les données globales pour le camembert
+      data: Object.values(groupedBySourceForPie),
       backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0'],
     }],
   };
@@ -111,10 +102,10 @@ function App() {
   };
 
   const barData = {
-    labels: Object.keys(groupedBySource), // Basé sur les données filtrées par date
+    labels: Object.keys(groupedBySourceForBar),
     datasets: [{
       label: 'Nombre total de liens par source',
-      data: Object.values(groupedBySource),
+      data: Object.values(groupedBySourceForBar),
       backgroundColor: '#36A2EB',
     }],
   };
