@@ -59,8 +59,8 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "cocainenewzealand.co.nz",
-        "screenshot": null,
-        "is_safe": null
+        "screenshot": "https://phishing-browser-screenshots.s3.eu-west-3.amazonaws.com/screenshots/cocainenewzealand_co_nz.png",
+        "is_safe": false
     },
     {
         "id": "07f0e699-6ea5-4469-94c2-955efe27be56",
@@ -90,6 +90,15 @@
         "is_safe": true
     },
     {
+        "id": "453aa6b0-7ff1-45bc-9108-f9e5636d5718",
+        "date": "2025-01-17T04:24:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.barclaysproperties.com",
+        "screenshot": null,
+        "is_safe": true
+    },
+    {
         "id": "d6c83087-9168-4615-8eab-cb973c48cc05",
         "date": "2025-01-13T10:36:35",
         "source": "CRAWLER",
@@ -99,13 +108,22 @@
         "is_safe": false
     },
     {
+        "id": "d02579f7-5d3a-4779-8954-02105f5d4dec",
+        "date": "2025-01-17T07:05:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "coinbase-payment.cd-network.org",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ba28b882-245e-4890-a354-9ee0e51618a0",
         "date": "2025-01-16T09:37:25",
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "espace-sante.lamedicale.fr",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "e74e5915-c57f-42f4-aea2-592f746f3183",
@@ -177,7 +195,7 @@
         "source_name": "URL_Crawler",
         "url": "microsoft-checker.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "88a237e5-268b-40c9-95c1-7fef393effd0",
@@ -645,7 +663,7 @@
         "source_name": "URL_Crawler",
         "url": "pr-10634-preview.urgentcomm.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "9cfc2df1-c81b-44e3-b6ba-fbc323fb8e6d",
@@ -717,7 +735,7 @@
         "source_name": "URL_Crawler",
         "url": "boutique-santebeaute.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "9467e8c8-be13-4660-b483-e09f589dd618",
@@ -891,6 +909,15 @@
         "is_safe": true
     },
     {
+        "id": "51cab93a-f84d-4e4a-96ee-9c3d73d16a85",
+        "date": "2025-01-17T01:58:43",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fr-banquet-halls-for-rent-19n.today",
+        "screenshot": null,
+        "is_safe": true
+    },
+    {
         "id": "561830ec-016f-4174-8ab6-849ebc77d222",
         "date": "2025-01-09T11:13:40",
         "source": "API",
@@ -1023,7 +1050,7 @@
         "source_name": "URL_Crawler",
         "url": "www.gasfitero-urgente.org.pe",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "4158f3aa-2b8b-421f-a91c-19afbdaac74a",
@@ -1158,7 +1185,7 @@
         "source_name": "URL_Crawler",
         "url": "icloud-fmi.za.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "15082020-cabe-4a99-923c-23b975b78e53",
@@ -1212,7 +1239,7 @@
         "source_name": "URL_Crawler",
         "url": "gasfitero-urgente.org.pe",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "64a88140-81bc-44f9-92cc-62dd6f7d39bb",
@@ -1302,7 +1329,7 @@
         "source_name": "URL_Crawler",
         "url": "securitycoinbase.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "7ee3df9e-ffc1-4e72-80e6-dda695b784f4",
@@ -1518,7 +1545,7 @@
         "source_name": "URL_Crawler",
         "url": "graph.instagram.com.pohon.amanahstore.top",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "fa56b780-a690-4e05-a4f9-54620f3d6311",
@@ -1779,7 +1806,7 @@
         "source_name": "URL_Crawler",
         "url": "ie-solarwindows-2024.today",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "2d49b9eb-948d-4301-9797-ef1685a0e3ec",
@@ -1986,7 +2013,7 @@
         "source_name": "URL_Crawler",
         "url": "stage-tex-rest.ecarrefour.ro",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "3801922a-8bc2-4032-92a2-9d7598f949d0",
@@ -2043,13 +2070,22 @@
         "is_safe": false
     },
     {
+        "id": "ccc08b62-cb11-4439-9787-dd9a70d14b0b",
+        "date": "2025-01-17T05:41:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jobs-zahnarzt-ubstadt-weiher.de",
+        "screenshot": null,
+        "is_safe": true
+    },
+    {
         "id": "ff94fb3b-af2b-424b-8bd1-0a47dad85c43",
         "date": "2025-01-16T15:32:59",
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.rbcgulfport.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b0951cc2-b85e-406c-95ff-1aa08d562a32",
@@ -2067,7 +2103,7 @@
         "source_name": "URL_Crawler",
         "url": "research.milanuncios.com",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "a183b8f2-ccdf-4f89-8324-9a81854f4ced",
@@ -2138,8 +2174,8 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "livraison-interrompu.com",
-        "screenshot": null,
-        "is_safe": null
+        "screenshot": "https://phishing-browser-screenshots.s3.eu-west-3.amazonaws.com/screenshots/livraison-interrompu_com.png",
+        "is_safe": false
     },
     {
         "id": "3f9a56ea-9ef7-4ebd-a0ad-de843b7fc9a8",
@@ -2148,7 +2184,7 @@
         "source_name": "URL_Crawler",
         "url": "amazon-youtube.pages.dev",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b2506380-a223-440b-a4ab-7b9b9e4dbbfd",
@@ -2391,7 +2427,7 @@
         "source_name": "URL_Crawler",
         "url": "stage.burger-king.by",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "1a1046ef-976c-4ba5-bc54-0af12429efb2",
@@ -2547,6 +2583,15 @@
         "is_safe": true
     },
     {
+        "id": "0f12dc5b-54f8-47ec-bf6d-cb6d2fd80bc5",
+        "date": "2025-01-17T02:11:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "c2cmarktplaats.nl",
+        "screenshot": null,
+        "is_safe": true
+    },
+    {
         "id": "3234eeac-d84b-4231-868d-f428b9c2d9c0",
         "date": "2025-01-12T05:23:50",
         "source": "CRAWLER",
@@ -2634,7 +2679,7 @@
         "source_name": "URL_Crawler",
         "url": "sam.carrefour.ro",
         "screenshot": null,
-        "is_safe": null
+        "is_safe": true
     },
     {
         "id": "b5802ab2-b129-4bb1-abb7-aed548f7d4b2",
@@ -2743,6 +2788,15 @@
         "url": "www.royalcastlebanquet.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "26afb65d-0969-4a7c-ac29-0dae0a7d1d73",
+        "date": "2025-01-17T01:34:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "comptechits.co.uk",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "78299872-1e54-415f-8f70-1cc59c81d6f1",
@@ -3267,6 +3321,15 @@
         "is_safe": null
     },
     {
+        "id": "bed1fcef-e3d5-40ca-944f-bd5251c3d785",
+        "date": "2025-01-17T06:11:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-mail.ru",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6b9b17b3-a174-43cf-b7cd-9ce986b7cefc",
         "date": "2025-01-16T06:58:51",
         "source": "CRAWLER",
@@ -3600,6 +3663,15 @@
         "is_safe": true
     },
     {
+        "id": "24c9918b-6cb7-4b10-9b83-bec7dfe8b13e",
+        "date": "2025-01-17T03:00:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.account.samsung-tf.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "45e0f19f-1481-4744-aa77-341bcf907e85",
         "date": "2025-01-15T20:00:17",
         "source": "CRAWLER",
@@ -3670,6 +3742,15 @@
         "url": "alphacapitalone.com",
         "screenshot": "https://phishing-browser-screenshots.s3.eu-west-3.amazonaws.com/screenshots/alphacapitalone_com.png",
         "is_safe": false
+    },
+    {
+        "id": "c7afe722-4a82-4670-842f-7f6adc6c38c3",
+        "date": "2025-01-17T05:02:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www-secure-bank-of-america.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "8aeabbe0-5e7f-4908-81aa-e101fec0a970",
@@ -3769,6 +3850,15 @@
         "url": "pr-10655-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "09add6f5-ed96-43fb-b4e7-476c95bf7dcb",
+        "date": "2025-01-17T01:40:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.concordebanquets.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "8f2ca75c-9e40-4eae-9135-c8766bd7e727",
@@ -4527,6 +4617,15 @@
         "is_safe": true
     },
     {
+        "id": "5e125a89-3985-4d66-a925-06e91238c87e",
+        "date": "2025-01-17T02:51:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "chronopost-aide.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d0ab3996-d07f-4abc-a607-ce019b413379",
         "date": "2025-01-14T01:48:30",
         "source": "CRAWLER",
@@ -4887,6 +4986,15 @@
         "is_safe": true
     },
     {
+        "id": "f06ab1d7-3134-4f8b-afa6-9878d1c1019f",
+        "date": "2025-01-17T03:22:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "iag-sante.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "996ff87c-8540-4671-bda3-7abe92e332f6",
         "date": "2025-01-10T16:08:01",
         "source": "CRAWLER",
@@ -4975,6 +5083,15 @@
         "url": "compte.bulldog-cbd.shop",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "22dddc2a-b95c-4bb2-b891-dce51e57f23b",
+        "date": "2025-01-17T04:38:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.samsung-care.in",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "3204f8b2-f9a2-4b3c-afc2-f6880c50cddc",
@@ -5146,6 +5263,15 @@
         "url": "discord-web-yxsifdev.pages.dev",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "fa46e89d-18ec-4246-84d4-07f80c93ff28",
+        "date": "2025-01-17T01:40:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10210-preview.urgentcomm.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "21a5e650-472c-4096-89ce-bb88b916b2ae",
@@ -5904,6 +6030,15 @@
         "is_safe": true
     },
     {
+        "id": "3a04bf63-b640-4157-93ea-7dba315f726f",
+        "date": "2025-01-17T05:33:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bell-caf-frontend.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "de9e7278-1b98-48fb-95b2-d24afb49490d",
         "date": "2025-01-12T22:27:36",
         "source": "CRAWLER",
@@ -6516,6 +6651,15 @@
         "is_safe": true
     },
     {
+        "id": "824ba645-7f9d-48e2-b64a-a2d1d8d4928c",
+        "date": "2025-01-17T01:51:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nl-banquet-halls-for-rent-19n.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8c2a711a-7d21-446d-99d8-dfea17578401",
         "date": "2025-01-12T16:59:29",
         "source": "CRAWLER",
@@ -6559,6 +6703,15 @@
         "url": "allocations-avail.xyz",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "1559cd70-3c97-4350-ada8-3ef17294e139",
+        "date": "2025-01-17T05:13:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt1234.pages.dev",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "de3e1df0-8f3b-4e7c-868c-0c224fafe33c",
@@ -6939,6 +7092,15 @@
         "is_safe": true
     },
     {
+        "id": "59f1f7b5-844a-4b17-94d2-b343e777230a",
+        "date": "2025-01-17T01:58:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bionime-fb.santediagno.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4fb5b069-b7e7-48bd-a769-af231d31e7d9",
         "date": "2025-01-12T08:05:51",
         "source": "CRAWLER",
@@ -7045,6 +7207,15 @@
         "url": "googlepay2.pages.dev",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "f77d2b15-9b55-4d73-b6d1-a340fb32dfa6",
+        "date": "2025-01-17T04:41:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "c80ede66-e66b-4b2a-908f-16b3300dbe91",
@@ -7236,6 +7407,15 @@
         "is_safe": false
     },
     {
+        "id": "fd2b7549-63c6-4f69-8fe1-517fe6c5d1b9",
+        "date": "2025-01-17T05:13:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "https-facebook-instagram-bussinesmeta2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "94fc5a2e-c876-4024-8c8a-cfd74fd06588",
         "date": "2025-01-15T13:48:11",
         "source": "CRAWLER",
@@ -7389,6 +7569,15 @@
         "is_safe": true
     },
     {
+        "id": "92f7351e-3481-44a8-aaec-e25769c05468",
+        "date": "2025-01-17T06:30:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "endedcocainedvdarw.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ac01158f-5432-43f1-ba27-b7485764ded7",
         "date": "2025-01-13T11:17:03",
         "source": "CRAWLER",
@@ -7405,6 +7594,15 @@
         "url": "google-knee.xyz",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "2de147ca-bf74-4c22-967f-fa1061fa8340",
+        "date": "2025-01-17T05:11:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashorder.icu",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "6960821a-2419-43eb-94b2-452b7326d07d",
@@ -7965,6 +8163,15 @@
         "is_safe": true
     },
     {
+        "id": "6ebbe5c1-2f69-4480-9d19-9377045a7aed",
+        "date": "2025-01-17T02:28:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ilzaam-windows-activation-scripts-mas.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "262ab885-27d1-45fe-a5c5-9a71de838357",
         "date": "2025-01-14T04:52:27",
         "source": "CRAWLER",
@@ -8352,6 +8559,15 @@
         "is_safe": true
     },
     {
+        "id": "3d16d58e-cc02-4f07-8787-ecdd3866aec6",
+        "date": "2025-01-17T03:22:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dossier-he25367.eu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "717bbec2-6130-4dae-9727-4eff5a15d833",
         "date": "2025-01-15T14:41:32",
         "source": "CRAWLER",
@@ -8442,6 +8658,15 @@
         "is_safe": true
     },
     {
+        "id": "3f5e471a-d6e4-4602-b918-22a5d6818d34",
+        "date": "2025-01-17T03:16:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "reliablecomptech.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a570eeb1-85d8-4955-9b5b-87e7c3823aa3",
         "date": "2025-01-12T21:55:40",
         "source": "CRAWLER",
@@ -8521,6 +8746,15 @@
         "url": "www.informationsecurityofficers.eu",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "6a2136f2-3f8e-4eba-9e0d-338d41261d1c",
+        "date": "2025-01-17T05:13:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-styled-text.miaow.io",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "16c26e6c-64d8-4799-8b76-e229382e81e0",
@@ -9045,6 +9279,15 @@
         "is_safe": true
     },
     {
+        "id": "6f6a3ecc-7490-44ff-9ded-3cccc6732566",
+        "date": "2025-01-17T02:06:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "binance-api.gobob.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a70fc84e-bc8a-4f15-8ea7-c27586235d6b",
         "date": "2025-01-15T18:09:49",
         "source": "CRAWLER",
@@ -9279,6 +9522,15 @@
         "is_safe": true
     },
     {
+        "id": "ddb76460-c6ca-45fc-81cf-0682825a177c",
+        "date": "2025-01-17T05:56:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allocation-uxlink.io",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "02571f2d-031b-4b1e-8af5-1ce8910470a3",
         "date": "2025-01-11T16:43:39",
         "source": "CRAWLER",
@@ -9502,6 +9754,15 @@
         "url": "goparcellane.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "9a545a04-3a71-43db-ac8a-d88dcf6ade6d",
+        "date": "2025-01-17T01:25:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.skylineshipments.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "7b9119ba-bbc1-4cc9-85a4-4e23b5fc6793",
@@ -9914,6 +10175,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "mz-discord-meeting.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f4a74de1-19cd-4b70-997b-94fb11469953",
+        "date": "2025-01-17T06:05:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.facebook-advertising.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -10782,6 +11052,15 @@
         "is_safe": true
     },
     {
+        "id": "e708fae0-82d7-4a7e-b82b-3b7055fd6d11",
+        "date": "2025-01-17T07:19:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "arret-maladie.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e2210146-ff9b-4e96-9280-5ed93e8f110c",
         "date": "2025-01-14T02:28:07",
         "source": "CRAWLER",
@@ -10978,6 +11257,15 @@
         "url": "play-google-41.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "1aa9fdda-3bbf-4d03-b6a4-3c9581519176",
+        "date": "2025-01-17T05:31:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "borgoficorelais.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "9231ac88-c368-4347-9a5c-d3e501fcac8b",
@@ -11565,6 +11853,15 @@
         "is_safe": null
     },
     {
+        "id": "439b7e24-15d1-4013-9498-8a4e73f144d9",
+        "date": "2025-01-17T07:07:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "tonyaportis.agent-verifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "de463059-d3ee-4a49-90f0-fa362b8d49b2",
         "date": "2025-01-13T21:42:40",
         "source": "CRAWLER",
@@ -11691,6 +11988,15 @@
         "is_safe": true
     },
     {
+        "id": "87cfdb11-3fd9-4fbe-88bb-70cff33f4d68",
+        "date": "2025-01-17T02:26:49",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "learn-microsoft.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "be924bf7-a551-47fb-a450-165833e17022",
         "date": "2025-01-15T14:43:36",
         "source": "CRAWLER",
@@ -11698,6 +12004,15 @@
         "url": "www.banquet.clarionchennai.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "fcf9b8c2-43f2-4192-85ee-a7273150cd18",
+        "date": "2025-01-17T01:44:48",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "institutions-bankofamerica-secured.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "ec80113a-75f4-435d-895e-8cbaf846d19e",
@@ -12159,6 +12474,15 @@
         "is_safe": true
     },
     {
+        "id": "5d9598f1-7c15-4588-9085-fcae3d91dd44",
+        "date": "2025-01-17T06:49:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.vitaleva.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "65ef93e3-ff69-4962-ba59-cedffb5695a8",
         "date": "2025-01-16T17:29:42",
         "source": "CRAWLER",
@@ -12265,6 +12589,15 @@
         "url": "nlvinted.live",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "70f4fd61-c4e6-430d-bfa6-beba5039089e",
+        "date": "2025-01-17T06:42:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jobs-zahnarzt-ubstadt-weiher.de",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "92799105-cd5d-4adc-becf-ed799cb128d0",
@@ -12528,6 +12861,15 @@
         "is_safe": true
     },
     {
+        "id": "0a57b6c0-60c8-491f-8f05-f9ca861221a5",
+        "date": "2025-01-17T05:13:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliabailey.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1a4d40ec-fbf3-46a6-b88b-d32419a8c2d3",
         "date": "2025-01-13T22:57:28",
         "source": "CRAWLER",
@@ -12535,6 +12877,15 @@
         "url": "ssparcellogistics.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "5d3b6fb3-b7ad-4507-8976-920876bd6911",
+        "date": "2025-01-17T04:00:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "log-icloud.me",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "529e0f93-4766-42be-b7e3-b91c01bd7efa",
@@ -13500,6 +13851,15 @@
         "is_safe": false
     },
     {
+        "id": "dcba7438-9010-4845-909b-70ff6e1aeb75",
+        "date": "2025-01-17T03:12:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "187459-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "57931b9e-7f0c-4dcf-9467-69d178ec86ef",
         "date": "2025-01-12T00:20:03",
         "source": "CRAWLER",
@@ -13642,6 +14002,15 @@
         "url": "mysnapchat-id-ypxkkv.pages.dev",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "da3c7c4c-3000-4bde-bb12-07927c9c67c7",
+        "date": "2025-01-17T05:56:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "sashwindows-trafford.co.uk",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "6db1aad2-34d6-41f0-8bb7-e7686650c020",
@@ -15417,6 +15786,15 @@
         "is_safe": false
     },
     {
+        "id": "1363b834-4b52-4ea8-80df-d8c3009954f3",
+        "date": "2025-01-17T06:24:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "server.prurgent.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1ff37b75-b576-4e33-b7d1-ac5902edd7cd",
         "date": "2025-01-11T23:28:45",
         "source": "CRAWLER",
@@ -15813,6 +16191,15 @@
         "is_safe": true
     },
     {
+        "id": "610cf5b2-4210-48b2-ad99-21baeb3acb6d",
+        "date": "2025-01-17T05:02:11",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "unevoixauxmaladiesvalvulaires.ca",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7beaf206-909b-44dd-a274-1bcf4b941675",
         "date": "2025-01-11T02:31:40",
         "source": "CRAWLER",
@@ -15838,6 +16225,15 @@
         "url": "instagramcopyrights.info",
         "screenshot": null,
         "is_safe": false
+    },
+    {
+        "id": "857bab7e-2ddf-44ee-ac75-2e9e1a59a355",
+        "date": "2025-01-17T06:44:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "solidaires-ups.org",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "2ccc3ec7-1482-4d3a-9cb1-9f5b6a5a4476",
@@ -17244,6 +17640,15 @@
         "is_safe": true
     },
     {
+        "id": "e1f3d6e3-2857-4a21-9a94-dd8ebf248c65",
+        "date": "2025-01-17T03:19:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c37eaffd-878f-4f7a-baa5-494490682e01",
         "date": "2025-01-10T21:00:42",
         "source": "CRAWLER",
@@ -17260,6 +17665,24 @@
         "url": "sapinlivraison.fr",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "eaaea02a-b626-40f2-adbc-ba7345390a30",
+        "date": "2025-01-17T03:52:43",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-linux.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "00b3e284-7403-4e7c-9ccd-75f40ec40adc",
+        "date": "2025-01-17T04:50:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "my-snapchat-group.pages.dev",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "4b4c82de-0a30-4307-8cd8-f8718b41f271",
@@ -17357,6 +17780,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "forumdespaiements.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "abad1ce1-8f01-4f0f-8f68-ede64e5b7cf8",
+        "date": "2025-01-17T07:10:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "commissaire-aux-comptes-france.net",
         "screenshot": null,
         "is_safe": null
     },
@@ -17521,6 +17953,15 @@
         "url": "pr-10621-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "9b6bc952-6c62-4791-9512-6cb5ec2e67a1",
+        "date": "2025-01-17T03:35:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "snapchat-vvip-xxx18.pages.dev",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "d28fcbb9-4dd7-430f-b5f2-c5a166baf388",
@@ -17766,6 +18207,15 @@
         "is_safe": null
     },
     {
+        "id": "c697bae0-c703-4152-aa8c-5fcfb5658edf",
+        "date": "2025-01-17T05:46:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-care.in",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ede6617d-cc0e-4cf1-bfb7-b1c8a24c9e85",
         "date": "2025-01-12T03:38:45",
         "source": "CRAWLER",
@@ -17798,6 +18248,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "moncompte.lumood.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "dc8539af-c99d-4675-8822-915fd8095156",
+        "date": "2025-01-17T04:20:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "peepasso.assurance.carrefour.fr",
         "screenshot": null,
         "is_safe": null
     },
@@ -18558,6 +19017,15 @@
         "is_safe": null
     },
     {
+        "id": "b6525871-7c54-4792-a5f6-5247e3dcecf3",
+        "date": "2025-01-17T06:58:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "corporate1.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9b0b994c-42f6-44b4-ac02-1d3f86805f83",
         "date": "2025-01-12T20:12:13",
         "source": "CRAWLER",
@@ -18693,6 +19161,15 @@
         "is_safe": null
     },
     {
+        "id": "91a82360-ac40-4767-ae14-c1be47bd1bde",
+        "date": "2025-01-17T03:31:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jira-formation.agilefabric.fr.carrefour.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6122c1f7-367a-4950-a816-944a33fff55f",
         "date": "2025-01-16T11:08:24",
         "source": "CRAWLER",
@@ -18815,6 +19292,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "pop.telex-barclaysbank.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "fcdacd60-0a4d-4db4-9e51-073fa17de827",
+        "date": "2025-01-17T06:05:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "hoysegundamano.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -19116,11 +19602,29 @@
         "is_safe": null
     },
     {
+        "id": "a3457f9c-b17f-4be5-9e7c-f12fa47798c6",
+        "date": "2025-01-17T05:19:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.vitalefernandesapplausi.com.br",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "2ee7f516-ca2b-4b99-b91a-c6f1e97d612b",
         "date": "2025-01-15T23:33:51",
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compte.centrefrance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8f3fcf99-3b86-436c-beb5-78c730e533c3",
+        "date": "2025-01-17T06:52:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "reception-mobile-uat.carrefour.ro",
         "screenshot": null,
         "is_safe": null
     },
@@ -19418,6 +19922,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "discord-web-yxsifdev.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "241d3ef7-d486-4d9b-8e6f-bb150f8250ce",
+        "date": "2025-01-17T05:41:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jobs-zahnarzt-ubstadt-weiher.de",
         "screenshot": null,
         "is_safe": null
     },
@@ -19737,6 +20250,15 @@
         "is_safe": true
     },
     {
+        "id": "bbb9dd30-c901-4e45-afe9-ef341eb76dd3",
+        "date": "2025-01-17T04:42:57",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "payroll.bicolisarog.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "b827d101-7bf1-470f-b650-c60767193d5a",
         "date": "2025-01-11T15:41:57",
         "source": "CRAWLER",
@@ -20016,6 +20538,15 @@
         "is_safe": null
     },
     {
+        "id": "f6e35eeb-4524-47bb-b665-9911841e22b5",
+        "date": "2025-01-17T02:01:06",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "yumparcele.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "23777d6b-3116-4a43-8803-9c6ba6166e67",
         "date": "2025-01-11T00:51:18",
         "source": "CRAWLER",
@@ -20232,6 +20763,15 @@
         "is_safe": null
     },
     {
+        "id": "10943677-b9d8-49a1-82f2-4f265f195abd",
+        "date": "2025-01-17T06:24:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "relaisdorsa.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "93c97b59-2a1c-44fd-9554-a6ce032acca4",
         "date": "2025-01-12T10:48:28",
         "source": "CRAWLER",
@@ -20435,6 +20975,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.appbinance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "2904376c-9182-4b03-9489-5eae7fd2fd50",
+        "date": "2025-01-17T04:11:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "prabhatishipment.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -21155,6 +21704,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "comptechsolution.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9b7c47f1-d6dd-4fe9-9019-35ab8c3d3f08",
+        "date": "2025-01-17T01:53:13",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.dion-nike.viding.co",
         "screenshot": null,
         "is_safe": null
     },
@@ -22365,6 +22923,15 @@
         "is_safe": null
     },
     {
+        "id": "5e6aec25-5ba6-4cf4-a44f-5ad925ee402e",
+        "date": "2025-01-17T06:50:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.com.nautica.foolvpn.me",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a751fba4-0119-4e33-b511-40e8b50ea897",
         "date": "2025-01-09T23:56:38",
         "source": "CRAWLER",
@@ -22372,6 +22939,15 @@
         "url": "moncompte.newdesiign.store",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "c3169472-0358-4b4b-99f2-5caf6b447d5b",
+        "date": "2025-01-17T05:28:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.uw.to",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "58594c56-160f-4d1f-8107-750d63f2359d",
@@ -22874,6 +23450,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "parcelaspaillaco.cl",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8f4f6fbb-b464-4ca5-8ac5-bf89ec55d318",
+        "date": "2025-01-17T03:18:43",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "iag-sante.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -24192,6 +24777,15 @@
         "is_safe": true
     },
     {
+        "id": "8b59145f-d957-4035-b1a2-36a4fb9c7fd0",
+        "date": "2025-01-17T05:05:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "smartphones-en-paiements-mensuels-et-sans-acompte.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e0cc005d-0fb0-4be5-bf63-ac8f5ce82803",
         "date": "2025-01-13T05:40:08",
         "source": "CRAWLER",
@@ -24957,6 +25551,15 @@
         "is_safe": null
     },
     {
+        "id": "a386e808-9f66-4991-9869-7bcfd1caaf4e",
+        "date": "2025-01-17T07:08:30",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allocation-uxlink.io",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3ff1d9b5-f8aa-4b45-b750-6cd3807f4fa4",
         "date": "2025-01-14T01:09:17",
         "source": "CRAWLER",
@@ -25263,6 +25866,15 @@
         "is_safe": null
     },
     {
+        "id": "f48114f9-1539-4dd6-a76f-530aa451e4e7",
+        "date": "2025-01-17T03:45:11",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "antal-simulation-infraction-enligne-fr-id.app-linch-web-io.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "801b2e73-e8fa-44e7-8dd5-5b6451ed5620",
         "date": "2025-01-14T02:13:44",
         "source": "CRAWLER",
@@ -25493,6 +26105,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "binanceappsupport.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b927442f-574d-4c1d-a9b5-a4e322915b9f",
+        "date": "2025-01-17T02:32:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "logistik.bnpb.go.id",
         "screenshot": null,
         "is_safe": null
     },
@@ -26253,6 +26874,15 @@
         "is_safe": false
     },
     {
+        "id": "e57c2387-b990-4c82-8fdf-270573b87695",
+        "date": "2025-01-17T03:03:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "r0001.amelioration.blog",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ebb4cd73-1a59-4e33-8bf8-ea8d7469178e",
         "date": "2025-01-11T17:52:44",
         "source": "CRAWLER",
@@ -26285,6 +26915,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.airbnb.almavillemedia.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c99d4eb9-c50a-4932-822c-7d18c6c47fdf",
+        "date": "2025-01-17T02:54:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "apigee-ppe.carrefour.ro",
         "screenshot": null,
         "is_safe": null
     },
@@ -27225,6 +27864,15 @@
         "is_safe": null
     },
     {
+        "id": "0833702b-5af0-473b-9fb0-d7127e19f916",
+        "date": "2025-01-17T03:38:05",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-google.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "9afc74f6-6c63-409d-84c0-8683b543dc78",
         "date": "2025-01-11T23:23:17",
         "source": "CRAWLER",
@@ -27639,6 +28287,15 @@
         "is_safe": null
     },
     {
+        "id": "06a92bd4-cd76-44c7-bda5-7febdba7e41c",
+        "date": "2025-01-17T05:43:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "retardiov2.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "60cd75f4-4d40-4bbb-852a-081c97bae65b",
         "date": "2025-01-15T12:31:04",
         "source": "CRAWLER",
@@ -27779,6 +28436,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "allocation-kate-dev.iaproducts.ai",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e5abcad0-79ff-4a90-af64-f78d3f6bf3b1",
+        "date": "2025-01-17T01:27:30",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.skylineshipments.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -28004,6 +28670,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://x.com/NOELreports/status/1876920416456896936](https://x.com/NOELreports/status/1876920416456896936)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "592c0ee3-84f8-45fc-b71e-4047e246458c",
+        "date": "2025-01-17T03:32:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jira-formation.agilefabric.fr.carrefour.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -28395,6 +29070,15 @@
         "is_safe": null
     },
     {
+        "id": "98d02b2c-fdf9-42ae-823b-4d215afae322",
+        "date": "2025-01-17T04:38:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adidas-originals.com.tw",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "482f9640-2b58-42c0-9824-2e8c9268f779",
         "date": "2025-01-11T18:46:30",
         "source": "CRAWLER",
@@ -28454,6 +29138,24 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.instagram.krd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "34c46a6c-eb16-4f18-a066-439a7588c3c3",
+        "date": "2025-01-17T06:24:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "server.prurgent.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3fae9687-c1d0-4644-9136-eaaa735224bf",
+        "date": "2025-01-17T03:44:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10624-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -28571,6 +29273,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.reddit.com/r/JEENEETards/comments/1d9ac4i/comment/l7c1q08/)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3646b920-c703-4861-9c37-d34258a38b5b",
+        "date": "2025-01-17T06:19:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.parceltracking.xyz",
         "screenshot": null,
         "is_safe": null
     },
@@ -29295,6 +30006,15 @@
         "is_safe": true
     },
     {
+        "id": "9b4cf9e0-e5ba-4ab4-8cb7-2ae8f1cbaa59",
+        "date": "2025-01-17T02:57:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "api.shipment-management-dev.appsc.icldig.icl-group.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "bcd75ef1-6417-4aae-8a84-a603232c9d21",
         "date": "2025-01-11T23:37:30",
         "source": "CRAWLER",
@@ -29556,6 +30276,15 @@
         "is_safe": false
     },
     {
+        "id": "fc1e13b3-2313-4fd9-adf1-41f4c336f12a",
+        "date": "2025-01-17T05:41:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "retardiov2.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "517ad010-d931-4176-be09-4e983346605e",
         "date": "2025-01-13T23:04:52",
         "source": "CRAWLER",
@@ -29646,6 +30375,15 @@
         "is_safe": null
     },
     {
+        "id": "e124c71f-7d16-47cd-9bce-3dff02e140e9",
+        "date": "2025-01-17T05:41:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "admin-developer.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "202cd690-e3e1-4676-b592-79cea517e2eb",
         "date": "2025-01-16T03:42:15",
         "source": "CRAWLER",
@@ -29723,6 +30461,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "trackparcelhub.info",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "dec3e62f-a096-46e4-a8bb-b552da22e3cf",
+        "date": "2025-01-17T02:57:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment-management-dev.appsc.icldig.icl-group.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -29930,6 +30677,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "assistance-sante.info",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "aff75141-90ab-4b8d-a822-417393279022",
+        "date": "2025-01-17T02:24:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parcels.packer.lt",
         "screenshot": null,
         "is_safe": null
     },
@@ -30632,6 +31388,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "nike-hrvatska.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b6b75727-44b9-4046-b0f6-15e3726c8476",
+        "date": "2025-01-17T04:42:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
         "screenshot": null,
         "is_safe": null
     },
@@ -31446,6 +32211,15 @@
         "is_safe": null
     },
     {
+        "id": "415ae234-a3ae-472a-87de-54b104c1bdca",
+        "date": "2025-01-17T01:29:09",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "alexcardascia.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "81b53686-9980-413a-9f81-ca0a732a38f7",
         "date": "2025-01-10T08:35:52",
         "source": "CRAWLER",
@@ -31559,6 +32333,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "microsoft-copilot-porxy1.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d41ab1e2-213b-4a36-9729-ae1674c6cdc7",
+        "date": "2025-01-17T07:10:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fastexpressparcel.org",
         "screenshot": null,
         "is_safe": null
     },
@@ -32364,6 +33147,15 @@
         "is_safe": null
     },
     {
+        "id": "7c283b8e-8e8a-45f6-a315-08a4f284a9e9",
+        "date": "2025-01-17T06:28:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "meta-community-standard-facebook.cfd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4e6766ac-d656-4eff-bcff-63501097ad14",
         "date": "2025-01-12T11:17:26",
         "source": "CRAWLER",
@@ -33093,6 +33885,15 @@
         "is_safe": null
     },
     {
+        "id": "1a5f4f50-4d1e-41a7-8fd2-d6d55bcfc0fc",
+        "date": "2025-01-17T05:45:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "en.pk-paiement.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6f152c21-0c6c-403d-adde-e31f92533f76",
         "date": "2025-01-09T17:13:45",
         "source": "API",
@@ -33116,6 +33917,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.intermarche-gaillard.le-cse.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b6bcaae7-daad-43ea-9afe-bbff5e69b400",
+        "date": "2025-01-17T02:01:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10634-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -34020,6 +34830,15 @@
         "is_safe": null
     },
     {
+        "id": "bcb577b6-678d-4fc8-a684-da696c8d86f8",
+        "date": "2025-01-17T06:33:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gamex-build.hlongvu.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a0f8ef41-8233-4480-9a62-7dbbac1b791f",
         "date": "2025-01-13T08:19:34",
         "source": "CRAWLER",
@@ -34070,6 +34889,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "banquet-halls-city.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "21780d8c-7d67-4c54-9e5c-110e458db686",
+        "date": "2025-01-17T03:08:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "plavalaguna.cic.hr",
         "screenshot": null,
         "is_safe": null
     },
@@ -35721,6 +36549,15 @@
         "is_safe": null
     },
     {
+        "id": "cbf81a84-e59f-43be-ac45-78e670f3dc06",
+        "date": "2025-01-17T02:53:53",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.gumtreehomestupelo.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fb7ef214-f21a-4c6e-a592-2d709123b230",
         "date": "2025-01-12T20:51:24",
         "source": "CRAWLER",
@@ -36540,6 +37377,15 @@
         "is_safe": null
     },
     {
+        "id": "dd22b83d-f0fd-499a-a8b5-341179e34d8e",
+        "date": "2025-01-17T05:39:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "admin-developer.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "2cbd89c1-37bb-4b49-8b16-e16398e8d6ce",
         "date": "2025-01-10T19:16:55",
         "source": "CRAWLER",
@@ -36675,6 +37521,15 @@
         "is_safe": true
     },
     {
+        "id": "aa586c57-ba26-4a58-b4bf-f184ca3627b6",
+        "date": "2025-01-17T05:30:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "amazon-tudo-pra-voce.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "66673b7b-a390-4b61-87e2-3828ddedc94d",
         "date": "2025-01-14T10:09:21",
         "source": "CRAWLER",
@@ -36797,6 +37652,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "s.ma.axa-direct.co.jp",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f11afd10-d160-4cbc-b38a-85291d9399e0",
+        "date": "2025-01-17T02:41:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-security.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -37539,6 +38403,15 @@
         "is_safe": null
     },
     {
+        "id": "1a67bf61-fb56-46b1-a593-d812e76343e3",
+        "date": "2025-01-17T01:57:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "chronopost-aide.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ef92be39-2c0e-4367-a44d-cd1827539a38",
         "date": "2025-01-11T18:20:28",
         "source": "CRAWLER",
@@ -37571,6 +38444,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.www.www.www.wwwwwwfacebook-make-hex-32332e39352e3231352e313735-rr.make-hex-32332e39302e3231332e313232-rr.1u.ms",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3898999f-8920-4aba-89a1-ad5a3a2ed20c",
+        "date": "2025-01-17T06:27:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ma-rbc.org",
         "screenshot": null,
         "is_safe": null
     },
@@ -38138,6 +39020,24 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "new-replacement-windows.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f9c05b46-3ef9-4b8d-81c9-4bfe495f91c4",
+        "date": "2025-01-17T06:49:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "votre-indemnitecarburant.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a6a30dc9-38c8-42be-9090-55770776871a",
+        "date": "2025-01-17T05:05:57",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashgett.cfd",
         "screenshot": null,
         "is_safe": null
     },
@@ -38889,6 +39789,15 @@
         "is_safe": null
     },
     {
+        "id": "3f782df0-bab9-411e-b0cc-f959bdc65a9a",
+        "date": "2025-01-17T02:29:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ilzaam-windows-activation-scripts-mas.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "58c4f6d5-a505-4441-bde8-8ac0bc546ed7",
         "date": "2025-01-15T02:25:43",
         "source": "CRAWLER",
@@ -38930,6 +39839,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "beta-compte.centrefrance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a44a587b-c081-4567-b33e-ffa960e48024",
+        "date": "2025-01-17T01:16:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "carrefourarabiank17.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -39128,6 +40046,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "votrecompte.lestresorsdebebe.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "bb31d281-5a13-4a30-abd4-4b35aa84593b",
+        "date": "2025-01-17T01:58:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bionime-gl.santediagno.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -39560,6 +40487,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "binance-7nu.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b27e8c7d-0ed7-4f27-8218-530027f6ead3",
+        "date": "2025-01-17T05:52:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "second-google.yn.to",
         "screenshot": null,
         "is_safe": null
     },
@@ -40824,6 +41760,15 @@
         "is_safe": null
     },
     {
+        "id": "a4d19dfb-3065-4b41-a604-2ac748f85615",
+        "date": "2025-01-17T02:03:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.gumtree-cashorder.icu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "71b9670a-6214-4712-84b3-ebca6d4e7b63",
         "date": "2025-01-10T08:58:07",
         "source": "CRAWLER",
@@ -40991,6 +41936,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.xn--ferienwohnung-am-plven-cic.at",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "4c007362-588b-43be-9287-04137b7025f0",
+        "date": "2025-01-17T04:41:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "briandelaat.agentverifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -41571,6 +42525,15 @@
         "is_safe": null
     },
     {
+        "id": "19852ccf-f045-4b50-96b3-652371a4d53a",
+        "date": "2025-01-17T01:58:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bionime-tk.santediagno.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f3b4001f-67c9-462b-a27d-1a2e28e6d6ba",
         "date": "2025-01-11T09:54:18",
         "source": "CRAWLER",
@@ -41801,6 +42764,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compte.kichcool.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "31198b38-1308-40db-b5ec-08dbf739a540",
+        "date": "2025-01-17T05:35:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compte.mundesi.fr",
         "screenshot": null,
         "is_safe": null
     },
@@ -42298,6 +43270,15 @@
         "url": "myinstagramx.pages.dev",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "f5ee672d-6dab-4663-932b-d1a714ded252",
+        "date": "2025-01-17T07:03:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ifacebookk-instagram2025.top",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "c61d5cd2-ebb0-417e-87a2-49f793e84862",
@@ -43434,6 +44415,15 @@
         "is_safe": null
     },
     {
+        "id": "4dd15872-eef7-4756-9252-5324780f13dc",
+        "date": "2025-01-17T05:04:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "hotelblueberrybanquetandspa.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d4cfd7aa-f70c-42f3-85fb-9133d7c35322",
         "date": "2025-01-14T04:46:14",
         "source": "CRAWLER",
@@ -43587,6 +44577,15 @@
         "is_safe": null
     },
     {
+        "id": "77d9d1dc-6da3-411e-bb90-6e01e48e1a9e",
+        "date": "2025-01-17T02:43:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-landing-page.thedynamicdeveloper.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1c2dbd17-bb2f-425f-82ea-c279ea6253ae",
         "date": "2025-01-10T00:22:35",
         "source": "CRAWLER",
@@ -43619,6 +44618,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "mahajangrandbanquet.adglobali.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ad6ac242-0560-414f-871f-c14fa251ea0e",
+        "date": "2025-01-17T07:01:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "trackmyshipment.co",
         "screenshot": null,
         "is_safe": null
     },
@@ -43781,6 +44789,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "palmas.viamobilitepeugeot.com.br",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6352ea5c-ad03-45bc-ac86-47734368da77",
+        "date": "2025-01-17T03:07:48",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ashisretarded.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -44163,6 +45180,15 @@
         "is_safe": null
     },
     {
+        "id": "2edab8bf-e00b-4d02-a841-d40f74f57fd9",
+        "date": "2025-01-17T04:52:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "morganstanley.cloudflaresso.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "17929e8d-3a83-4c29-b3bf-7e68775a5f9a",
         "date": "2025-01-13T10:54:03",
         "source": "CRAWLER",
@@ -44361,6 +45387,15 @@
         "is_safe": null
     },
     {
+        "id": "9b9cbb36-da58-41e2-9c53-407243c06bca",
+        "date": "2025-01-17T04:15:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "reliablecomptech.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6dcb0229-12be-4ca2-88ab-38e10ebdde67",
         "date": "2025-01-11T22:14:56",
         "source": "CRAWLER",
@@ -44386,6 +45421,15 @@
         "url": "macarte-assurancevie.help",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "40d87d52-316b-46c7-bd48-03adf650f066",
+        "date": "2025-01-17T07:10:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.fastexpressparcel.org",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "89a45d1b-30ee-49f4-a979-67991e561f6b",
@@ -44735,6 +45779,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "snapchatme69.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "868ba9bb-db65-485b-87dc-97dbb248dd83",
+        "date": "2025-01-17T02:49:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.dion-nike.viding.co",
         "screenshot": null,
         "is_safe": null
     },
@@ -45810,6 +46863,15 @@
         "is_safe": null
     },
     {
+        "id": "f8457e56-22d0-447a-be94-5090e77e1155",
+        "date": "2025-01-17T06:46:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.santehappybrands.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "65fd8777-e32e-4e06-bada-09b9c9653747",
         "date": "2025-01-12T09:00:13",
         "source": "CRAWLER",
@@ -46440,6 +47502,24 @@
         "is_safe": null
     },
     {
+        "id": "9f875230-4b27-467c-a156-ef72d055b78d",
+        "date": "2025-01-17T05:58:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adult-snapchat-groups-18xxx.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "87035e83-5447-4656-8c6b-bdbfb235fa37",
+        "date": "2025-01-17T04:59:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compreparcelado.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "80ec9639-dedd-4899-b698-18a3cb49da4c",
         "date": "2025-01-11T01:55:35",
         "source": "CRAWLER",
@@ -46724,6 +47804,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "needsattention.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "89946fba-2093-4211-8dcd-8859727aeb4f",
+        "date": "2025-01-17T02:05:37",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "informations.chilenooneww.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -47165,6 +48254,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "securitycoinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1b253fcc-578b-463e-9c29-c6ee5f15e8a6",
+        "date": "2025-01-17T06:12:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "moncolis-suivi-livraison.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -47768,6 +48866,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "binancedogcto.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "03e47a1d-2839-4fe0-861e-ae1e61c33fd0",
+        "date": "2025-01-17T03:47:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "my-snapchat-group.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -50139,6 +51246,15 @@
         "is_safe": null
     },
     {
+        "id": "23d7c191-5b9c-45d0-afb3-2efa8f4f76e4",
+        "date": "2025-01-17T06:21:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "shipment-fw.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ed2683f6-3608-4532-a832-65a3ec7ac777",
         "date": "2025-01-16T23:00:28",
         "source": "CRAWLER",
@@ -50702,6 +51818,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "mowipaiement.sunwifi.net",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "915b2178-7d80-44dc-a2ed-b94b689a1080",
+        "date": "2025-01-17T04:59:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "yumparcele.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -52461,6 +53586,15 @@
         "is_safe": null
     },
     {
+        "id": "6b433bae-a6c9-425b-a266-c26a0ca1b4bc",
+        "date": "2025-01-17T04:22:49",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compte.ploumya.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fe8a2af8-693b-4053-acb7-8573401aaf0f",
         "date": "2025-01-12T04:20:22",
         "source": "CRAWLER",
@@ -52565,6 +53699,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "debug.carrefourdesstagiaires.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "bf4fb4ca-365f-45d3-bd6d-1db37c01df31",
+        "date": "2025-01-17T03:56:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "morganstanley.cloudflaresso.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -52812,6 +53955,15 @@
         "is_safe": null
     },
     {
+        "id": "b8fa070a-1a95-4030-a4db-9769837bba75",
+        "date": "2025-01-17T05:19:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fundallocationstrategies.us",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5bab84f0-2d21-4ccc-ac5d-571556398c52",
         "date": "2025-01-15T07:24:27",
         "source": "CRAWLER",
@@ -52853,6 +54005,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "zoomitnowparcel.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "366ec9bf-b918-41a3-9c07-cb448d09ba3a",
+        "date": "2025-01-17T03:41:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mondialrelay-suivre-mes-colis.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -53402,6 +54563,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "devel-client-cassis-mfa.atih.sante.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5dd26dd3-3923-435f-bcc6-65a4d71a6908",
+        "date": "2025-01-17T03:44:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-map-job-rom.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -54117,6 +55287,15 @@
         "is_safe": null
     },
     {
+        "id": "fa3f96e9-689f-43af-ab41-5d978760aabe",
+        "date": "2025-01-17T05:31:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "binanceinvestvip.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "643473ef-ecf5-4a5a-84a8-6b76a06ddfc7",
         "date": "2025-01-14T13:24:39",
         "source": "CRAWLER",
@@ -54788,6 +55967,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "situsbank77.sbs",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e8d96c5c-853c-45b4-8e78-67747f9e9498",
+        "date": "2025-01-17T03:34:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "jira-formation.agilefabric.fr.carrefour.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -55584,6 +56772,15 @@
         "is_safe": null
     },
     {
+        "id": "e7a9810a-cfe3-4372-9d67-eb6d4a9bee20",
+        "date": "2025-01-17T01:17:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "uoa-discords.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8e6347ab-80aa-44ed-a662-be3ecfbfede5",
         "date": "2025-01-11T22:46:54",
         "source": "CRAWLER",
@@ -56057,6 +57254,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "empresa-bbva-es-net-cash.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f0a5c0d4-b930-4a51-9140-0e95c26ccaa3",
+        "date": "2025-01-17T03:21:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
         "screenshot": null,
         "is_safe": null
     },
@@ -56606,6 +57812,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "dummy-googlesignin.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ccd205ca-9df3-43e3-b979-0553308e8417",
+        "date": "2025-01-17T06:52:11",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "eic-axagroup-preprod.saviyntcloud.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -58266,6 +59481,15 @@
         "is_safe": null
     },
     {
+        "id": "5bd7c525-5390-451f-ada6-f3fc5c5e33e2",
+        "date": "2025-01-17T06:27:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ma-rbc.org",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1eaa5b04-1e1e-437e-baba-8e99c8c2d545",
         "date": "2025-01-14T00:50:51",
         "source": "CRAWLER",
@@ -58716,6 +59940,15 @@
         "is_safe": null
     },
     {
+        "id": "f92e6f61-f49c-45ef-a1c9-81be1a2e0725",
+        "date": "2025-01-17T07:05:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "coinbase-payment.cd-network.org",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a183c6b0-9055-4ec6-ba79-eb1123973b6f",
         "date": "2025-01-13T08:22:51",
         "source": "CRAWLER",
@@ -58995,6 +60228,15 @@
         "is_safe": null
     },
     {
+        "id": "cc9efa20-5b9c-4c3b-9dd3-efa4cd441aa6",
+        "date": "2025-01-17T05:27:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-edr.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3537408e-db90-4da6-9f71-6125418c754b",
         "date": "2025-01-09T23:11:58",
         "source": "CRAWLER",
@@ -59036,6 +60278,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "verificatucuentainstagram.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "82dd0930-ffb4-4467-bbe3-033d1a694a48",
+        "date": "2025-01-17T01:43:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-checker.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -59328,6 +60579,15 @@
         "is_safe": null
     },
     {
+        "id": "91508263-48b9-4078-9e39-0e2be855de75",
+        "date": "2025-01-17T05:57:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mercadolibre-uy.life",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "598ef3ad-1b18-4269-a492-6f1835610b2c",
         "date": "2025-01-13T04:01:35",
         "source": "CRAWLER",
@@ -59477,6 +60737,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "update-myinformations.info",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f505b8e1-a51e-4de2-a722-253b5dd08839",
+        "date": "2025-01-17T03:17:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "imcompter.com.mx",
         "screenshot": null,
         "is_safe": null
     },
@@ -60129,6 +61398,15 @@
         "is_safe": true
     },
     {
+        "id": "8f2169ff-face-4394-aa1e-4da518945b32",
+        "date": "2025-01-17T02:03:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashorder.icu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "64c44c7a-20d1-498d-ad77-fa0898784cd9",
         "date": "2025-01-11T22:11:40",
         "source": "CRAWLER",
@@ -60525,6 +61803,15 @@
         "is_safe": null
     },
     {
+        "id": "bfe5c00f-4aff-4422-bc2f-1fdbbb8a8938",
+        "date": "2025-01-17T02:50:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt321.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "eecdbb8b-b40e-4053-8cba-cce258402b71",
         "date": "2025-01-13T20:01:20",
         "source": "CRAWLER",
@@ -60804,6 +62091,15 @@
         "is_safe": null
     },
     {
+        "id": "e35cbe7b-1db1-446e-8a4e-40bc64f940bf",
+        "date": "2025-01-17T02:11:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "c2cmarktplaats.nl",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3818eac5-3325-4d22-b260-a314e1349797",
         "date": "2025-01-13T11:21:26",
         "source": "CRAWLER",
@@ -60827,6 +62123,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "moncompteunique.carrefour.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6d7708ca-ee30-44a0-b104-3a9208ba08c3",
+        "date": "2025-01-17T06:11:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "icloud-mail.ru",
         "screenshot": null,
         "is_safe": null
     },
@@ -61497,6 +62802,15 @@
         "is_safe": null
     },
     {
+        "id": "78edbcc6-d8cd-4ba1-aa34-d25e3c9988d3",
+        "date": "2025-01-17T01:16:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10612-preview.urgentcomm.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e8b8ae5e-b2fc-45e7-b817-c0aa13006921",
         "date": "2025-01-15T19:51:40",
         "source": "CRAWLER",
@@ -61992,6 +63306,15 @@
         "is_safe": null
     },
     {
+        "id": "9e5b637b-93ec-4bd2-93a3-d1eb7a2ebaa9",
+        "date": "2025-01-17T05:01:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt321.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "5a4ff99a-5705-400b-8ed5-9308194601e6",
         "date": "2025-01-12T23:13:01",
         "source": "CRAWLER",
@@ -62006,6 +63329,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "graph.instagram.com.sub.vltr.us.kg",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "da36f3c4-ba6b-426b-95cd-2ebaf89d545e",
+        "date": "2025-01-17T04:11:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.prabhatishipment.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -62132,6 +63464,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "comprar-carro-no-plano-de-parcelas.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8120a821-f5f2-443e-84c7-aea652324b65",
+        "date": "2025-01-17T05:26:09",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-ajq.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -62420,6 +63761,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "pricing-tool-dr.urgent.ly",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7bf0ea11-6a57-4317-a488-be77281e762b",
+        "date": "2025-01-17T05:27:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-ajq.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -63180,6 +64530,15 @@
         "is_safe": null
     },
     {
+        "id": "ea74de9f-c142-4c8a-a93e-bcf552d2516e",
+        "date": "2025-01-17T05:26:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-edr.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c39675ed-0912-497c-9efd-42955f4da3ef",
         "date": "2025-01-13T22:43:51",
         "source": "CRAWLER",
@@ -63257,6 +64616,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "mexmercadolibre683.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "72effb46-657c-4c86-8902-8e6f8c5c1631",
+        "date": "2025-01-17T06:43:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "iag-sante.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -64269,6 +65637,15 @@
         "is_safe": null
     },
     {
+        "id": "f95bd611-ef2e-4ca7-bc63-83ed9b648ba3",
+        "date": "2025-01-17T03:16:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.eternalconnexions.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "29964684-552f-4326-ad03-039fa0396cc5",
         "date": "2025-01-17T00:56:17",
         "source": "CRAWLER",
@@ -64373,6 +65750,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "situsbank77.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "9855d870-12cc-4b5d-8c2c-be525698a683",
+        "date": "2025-01-17T06:51:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.santehappybrands.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -65376,6 +66762,15 @@
         "is_safe": null
     },
     {
+        "id": "36ac4284-30f8-45f5-bbe7-7d2e7172b043",
+        "date": "2025-01-17T02:32:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-map-job-rom.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "79ec6963-4dec-457e-bd67-7289c332c5ce",
         "date": "2025-01-15T08:37:29",
         "source": "CRAWLER",
@@ -65588,6 +66983,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.ecarrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ecfe59e6-f368-40f9-bb57-91935a6e3297",
+        "date": "2025-01-17T05:57:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "allocation-uxlink.io",
         "screenshot": null,
         "is_safe": null
     },
@@ -66879,6 +68283,15 @@
         "is_safe": null
     },
     {
+        "id": "0a914b83-9d34-4ea7-be74-b04cff949d9a",
+        "date": "2025-01-17T04:42:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "48b33bb7-f58d-4e9c-aa0f-f3ac6da696eb",
         "date": "2025-01-15T15:02:17",
         "source": "CRAWLER",
@@ -67275,6 +68688,15 @@
         "is_safe": true
     },
     {
+        "id": "8a07370b-2573-443f-be1f-764bd9f533b5",
+        "date": "2025-01-17T04:40:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-care.in",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "416c7ef3-4a71-45a4-b90d-61c8e306dacc",
         "date": "2025-01-16T20:09:15",
         "source": "CRAWLER",
@@ -67667,6 +69089,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.jkeconnexion.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5d9687a7-b3ed-4c2f-80ad-7d1cbe95d759",
+        "date": "2025-01-17T07:04:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "tonyaportis.agent-verifier.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -68112,6 +69543,15 @@
         "is_safe": null
     },
     {
+        "id": "fca9284a-a849-4cfc-8baa-077810289d18",
+        "date": "2025-01-17T06:41:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ups-and-downs-of-old-age.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c0d5cdaa-17bd-4131-8c13-6c74e58b5373",
         "date": "2025-01-11T19:55:26",
         "source": "CRAWLER",
@@ -68526,6 +69966,15 @@
         "is_safe": null
     },
     {
+        "id": "0b8f8f6b-4910-4f4a-a321-c0afd25ec6b6",
+        "date": "2025-01-17T07:09:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.taxa-de-seguranca.shop",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3c8d2701-43bb-40b9-bca1-7765c3e54396",
         "date": "2025-01-09T15:13:42",
         "source": "API",
@@ -68810,6 +70259,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.bnpindo.com.elnissi.co.id",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "aec6c9ac-4012-49b0-bb70-f0cdccce7c96",
+        "date": "2025-01-17T01:46:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "motoresdesegundamano.eu",
         "screenshot": null,
         "is_safe": null
     },
@@ -69377,6 +70835,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "designdevostransports.iledefrance-mobilites.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e59c3b5f-962f-430e-a5c6-a0ac278b72fc",
+        "date": "2025-01-17T04:34:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "en.pk-paiement.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -70776,6 +72243,15 @@
         "is_safe": null
     },
     {
+        "id": "74a31dd7-b7a4-4331-a0df-6adecc651c10",
+        "date": "2025-01-17T03:03:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.amelioration.blog",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fbbdd66d-b18e-4b64-892d-76f84537c2b5",
         "date": "2025-01-14T02:15:46",
         "source": "CRAWLER",
@@ -70853,6 +72329,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "ww-discord.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ea8d1533-21f5-4a21-b028-19863742aecb",
+        "date": "2025-01-17T01:44:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "institutions-bankofamerica-secured.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -71505,6 +72990,15 @@
         "is_safe": null
     },
     {
+        "id": "802b6d0f-31a2-41b3-973d-42a32c7d2418",
+        "date": "2025-01-17T03:07:48",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ashisretarded.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "248a891b-0117-4f12-b743-aaa7940d2733",
         "date": "2025-01-14T16:51:13",
         "source": "CRAWLER",
@@ -71636,6 +73130,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compte.posters-voyages.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c472d49f-acf1-4d4e-913f-e53684869871",
+        "date": "2025-01-17T07:01:13",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "1370-add-in-channels-page-column-to-show-budget-in-facebook-and.win4.tempurl.info",
         "screenshot": null,
         "is_safe": null
     },
@@ -72144,6 +73647,15 @@
         "is_safe": null
     },
     {
+        "id": "6b51fd0d-6b64-4ac1-86a8-428d3d83c01c",
+        "date": "2025-01-17T07:06:06",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ifacebookk-instagram2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "eb19af79-afde-4000-9cea-7f0c23d5a946",
         "date": "2025-01-16T19:44:08",
         "source": "CRAWLER",
@@ -72261,6 +73773,15 @@
         "is_safe": null
     },
     {
+        "id": "4c09a783-715b-4c00-bde2-c4b58e8f01e6",
+        "date": "2025-01-17T02:58:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "vitalurgent.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "56cdddbe-2b3f-4d44-8a91-ce7636e1b2b3",
         "date": "2025-01-11T13:17:44",
         "source": "CRAWLER",
@@ -72311,6 +73832,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "gumtree-verification.sbs",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a32be871-ca93-45ae-a848-85ed68802ddc",
+        "date": "2025-01-17T06:32:30",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "borgoficorelais.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -72986,6 +74516,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "media.brocolis-staging.clavaplatforms.work",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "35c0c609-82f5-403d-8b02-665f01cbed8e",
+        "date": "2025-01-17T04:38:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-care.in",
         "screenshot": null,
         "is_safe": null
     },
@@ -73746,6 +75285,15 @@
         "is_safe": null
     },
     {
+        "id": "ddeaba68-e0e4-492f-a4e2-eb05b180adb6",
+        "date": "2025-01-17T06:10:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt321.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "d48350f6-5348-4ecd-9ea9-64b234ea5808",
         "date": "2025-01-12T10:36:56",
         "source": "CRAWLER",
@@ -73935,6 +75483,15 @@
         "is_safe": null
     },
     {
+        "id": "471aea72-09d7-4d28-b53b-8c8d667ba829",
+        "date": "2025-01-17T05:20:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "relais-chronopost.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "0ddf115c-2b42-4443-a4c6-bdf80676d8ab",
         "date": "2025-01-11T02:24:12",
         "source": "CRAWLER",
@@ -73980,6 +75537,15 @@
         "is_safe": true
     },
     {
+        "id": "d35b71f4-6804-4c36-99b8-adb25fdc6778",
+        "date": "2025-01-17T05:06:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashgett.cfd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4c106e0f-a2b5-4587-a52d-873a1cc70c7f",
         "date": "2025-01-10T10:08:32",
         "source": "CRAWLER",
@@ -73987,6 +75553,15 @@
         "url": "allocation-avail.net",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "a6d914ee-a6ed-4e65-8b94-b5e567d68efd",
+        "date": "2025-01-17T06:51:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "eic-axagroup-preprod.saviyntcloud.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "b063fcb0-afc8-4ff0-88ac-0be5ab412ee9",
@@ -74203,6 +75778,15 @@
         "url": "acheter-colis-perdu.boutique",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "3619866d-319b-4b7a-a1c6-cd171eb52758",
+        "date": "2025-01-17T05:30:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fritadeira-parcelada.today",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "0e66be97-ee27-4e8c-aee6-be5423dda099",
@@ -74813,6 +76397,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.wsj.com/articles/\u4e2d\u56fd\u7ecf\u6d4e\u5b66\u5bb6\u9ad8\u5584\u6587\u906d\u7981\u8a00-\u8d28\u7591gdp\u6570\u636e\u60f9\u6012\u4e60\u8fd1\u5e73-ecac0ca2",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f82692d4-7d2d-41c5-a3b9-fa0b49b1d958",
+        "date": "2025-01-17T04:34:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "en.pk-paiement.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -75609,6 +77202,15 @@
         "is_safe": true
     },
     {
+        "id": "dc1b3952-6326-4bb6-a54d-3932defcaab8",
+        "date": "2025-01-17T05:24:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-oauth-page.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fd9bad3f-3e94-46fe-94c2-f3a79b8f9889",
         "date": "2025-01-13T23:44:19",
         "source": "CRAWLER",
@@ -75668,6 +77270,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "894833-coinbase.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "04c05591-8cd7-43f8-8131-a502387c97bb",
+        "date": "2025-01-17T03:34:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.www.w.instagram.yikj.work",
         "screenshot": null,
         "is_safe": null
     },
@@ -75996,6 +77607,15 @@
         "is_safe": null
     },
     {
+        "id": "4d83fb5c-25a4-4406-b194-70c07d7d7ebb",
+        "date": "2025-01-17T05:45:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-qkf1.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "aaa835ff-5929-486f-b2d9-d1e9c6dd2238",
         "date": "2025-01-13T11:02:26",
         "source": "CRAWLER",
@@ -76158,6 +77778,15 @@
         "is_safe": true
     },
     {
+        "id": "f798dfe0-99aa-4505-8013-5ed1d45d806e",
+        "date": "2025-01-17T03:38:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "docs-discord.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "aa4a7641-f09d-49b3-90d3-e9efc5a41e6a",
         "date": "2025-01-11T15:45:49",
         "source": "CRAWLER",
@@ -76235,6 +77864,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "parceltrackxpress.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ce70b93a-0633-45c7-b353-06da81593769",
+        "date": "2025-01-17T06:21:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.shipment-fw.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -76433,6 +78071,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.situsbank77indo.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "8ca01b45-2106-4064-bda1-890b2207a31d",
+        "date": "2025-01-17T06:53:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dk-banquet-halls-for-rent-19n.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -76838,6 +78485,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://discord.com/invite/6jT2Se6gUM)**",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "14c22a2f-3bba-489a-b3d8-7a711aa7e7ab",
+        "date": "2025-01-17T02:04:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.the20.vn",
         "screenshot": null,
         "is_safe": null
     },
@@ -77288,6 +78944,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.www.www.wwwwww.wwwwww.instagram.yikj.work",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "97f663e1-c11a-4b74-98e3-a0b10baf1ac9",
+        "date": "2025-01-17T02:32:10",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "notexistsallegro.werlang.site",
         "screenshot": null,
         "is_safe": null
     },
@@ -77810,6 +79475,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "jonathanmbosunga.agentverifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "793bffd7-b309-4c85-9397-39802f161bd6",
+        "date": "2025-01-17T05:33:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bell-caf-frontend.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -78395,6 +80069,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "parcelhandlingxao.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "18cc2327-acec-4099-9cef-b1825b72a9e9",
+        "date": "2025-01-17T01:40:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "concordebanquets.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -79326,6 +81009,15 @@
         "is_safe": true
     },
     {
+        "id": "a869829f-4534-48e6-a846-9e00b21fd12f",
+        "date": "2025-01-17T07:06:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instantparcelupdate.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "de1902a1-b77f-4672-9a0f-487b080b359d",
         "date": "2025-01-14",
         "source": "HONEY_POT",
@@ -79551,11 +81243,29 @@
         "is_safe": null
     },
     {
+        "id": "f614e9d4-2680-402c-a7ee-3e2740b64c7c",
+        "date": "2025-01-17T03:39:13",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compte.piuma-bianca.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ecff3733-ff6d-470d-af77-3dab0029dceb",
         "date": "2025-01-14T11:38:08",
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compte.laylatulqamar.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e2537b7e-f1f0-41d5-bb71-55880aa7c6ab",
+        "date": "2025-01-17T06:49:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.votre-indemnitecarburant.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -79812,6 +81522,15 @@
         "is_safe": null
     },
     {
+        "id": "1dda16ac-80a9-4ca5-b5de-f6e003ad1ffa",
+        "date": "2025-01-17T04:07:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "snapchatacks.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "6a79770b-a486-4e77-b104-196554e9064f",
         "date": "2025-01-12T16:38:57",
         "source": "CRAWLER",
@@ -79961,6 +81680,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "fs.intranet.atih.sante.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "24547cc8-2fc3-438d-83a6-3a9a97efc3be",
+        "date": "2025-01-17T07:00:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ifacebookk-instagram2025.top",
         "screenshot": null,
         "is_safe": null
     },
@@ -81549,6 +83277,15 @@
         "is_safe": null
     },
     {
+        "id": "8412205e-6939-4ccb-8f78-3a85b97ad3b7",
+        "date": "2025-01-17T01:44:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ww-discord.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "b673c565-2f79-479f-ac37-2f17e20e8dc7",
         "date": "2025-01-13T07:45:23",
         "source": "CRAWLER",
@@ -81900,6 +83637,15 @@
         "is_safe": null
     },
     {
+        "id": "dec0d117-690e-4329-aa22-d39e89022704",
+        "date": "2025-01-17T07:09:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "taxa-de-seguranca.shop",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c16b1dcc-94f7-491b-b701-05380921a2a7",
         "date": "2025-01-13T08:50:25",
         "source": "CRAWLER",
@@ -82202,6 +83948,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "coinbase-restore-support.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f4e86768-3246-4a7f-a86c-3ebc1340c7fe",
+        "date": "2025-01-17T01:23:59",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "comptechits.co.uk",
         "screenshot": null,
         "is_safe": null
     },
@@ -83259,6 +85014,15 @@
         "is_safe": null
     },
     {
+        "id": "34e3fec5-855f-4d95-b57e-b753c6614009",
+        "date": "2025-01-17T06:23:30",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "https-facebook-instagram-2025.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ea8a6fbe-f8a1-4124-81fb-23c575e53ff1",
         "date": "2025-01-14T20:34:29",
         "source": "CRAWLER",
@@ -83336,6 +85100,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.theonlybali.bnpprinting.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "db1d8436-0cd6-4750-9166-9fdc81f6bbdf",
+        "date": "2025-01-17T05:28:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.uw.to",
         "screenshot": null,
         "is_safe": null
     },
@@ -83480,6 +85253,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "global-parcels-trace.ru",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6aa8d0ed-9d21-4227-8ac2-810b04a040d2",
+        "date": "2025-01-17T01:33:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.directeurdecomptesshell.ca",
         "screenshot": null,
         "is_safe": null
     },
@@ -84906,6 +86688,15 @@
         "is_safe": null
     },
     {
+        "id": "7ae65ac3-37a3-43ad-ab11-2e900d757b5f",
+        "date": "2025-01-17T03:51:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ofertas-mercadolibre.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "13032ec9-b1d9-436d-a41c-f4983610bbb1",
         "date": "2025-01-11T02:31:40",
         "source": "CRAWLER",
@@ -85347,6 +87138,15 @@
         "is_safe": null
     },
     {
+        "id": "1690aced-2d1f-485d-a072-4a004ce45000",
+        "date": "2025-01-17T06:19:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "parceltracking.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f74cc828-09a0-4a2f-a438-92b29b8e3515",
         "date": "2025-01-09T15:13:42",
         "source": "API",
@@ -85433,6 +87233,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "parcelhandlingxay.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "813b553e-1931-48ed-92b2-ad950845636e",
+        "date": "2025-01-17T06:30:05",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "endedcocainedvdarw.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -86108,6 +87917,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.yantechno.bnpprinting.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "bf55b6b5-4be3-4858-b8ec-7643e17b0301",
+        "date": "2025-01-17T07:00:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "private-secure-gallery-photos-hidden-icloud.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -87264,6 +89082,15 @@
         "is_safe": null
     },
     {
+        "id": "da1d4491-ff67-44b0-ae13-0f275ff045c1",
+        "date": "2025-01-17T05:23:54",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-edr.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "638d5c98-9d7a-463f-8784-bfad5f8d875f",
         "date": "2025-01-16T00:24:01",
         "source": "CRAWLER",
@@ -87539,6 +89366,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.universalscammerlist.com?username=Rare-Oddity)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5f831ed7-66d4-4055-8c8b-6c2aa7009fca",
+        "date": "2025-01-17T07:16:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adult-snapchat-groups-18xxx.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -88056,6 +89892,15 @@
         "is_safe": null
     },
     {
+        "id": "ea3678f3-be7b-4114-8a15-47aa8c362837",
+        "date": "2025-01-17T05:50:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "payroll.bicolisarog.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "12f334b8-1de2-4926-836e-dbebedec9734",
         "date": "2025-01-15T07:50:23",
         "source": "CRAWLER",
@@ -88214,6 +90059,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "icloud-findmy-alerts.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "101784b1-f83f-4d5b-8e28-26bd029bdf02",
+        "date": "2025-01-17T05:09:13",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "account.santeora.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -88601,6 +90455,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.7erassa.sante-dz.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "17939651-0ca4-4a41-9185-7c615345bca8",
+        "date": "2025-01-17T05:53:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dxl-rvm-tomra-dev.carrefour.ro",
         "screenshot": null,
         "is_safe": null
     },
@@ -89172,6 +91035,15 @@
         "is_safe": null
     },
     {
+        "id": "588cb514-aabd-4d82-8f15-4fce31604749",
+        "date": "2025-01-17T05:52:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliasmiths.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "099f7d44-ca9e-4684-8a3b-cf0711fb8c11",
         "date": "2025-01-13T16:17:44",
         "source": "CRAWLER",
@@ -89658,6 +91530,15 @@
         "is_safe": null
     },
     {
+        "id": "bbeedc62-6249-4267-9ad0-80ecdc28e68e",
+        "date": "2025-01-17T06:15:42",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt101.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8d9b384e-5bf2-461c-8c74-e310458fbf79",
         "date": "2025-01-12T19:50:42",
         "source": "CRAWLER",
@@ -90068,6 +91949,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.ministeredestransportsvc-gouv.cd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "0300bab2-be28-412d-be5f-bdd8833381d2",
+        "date": "2025-01-17T01:15:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "account.raceworthyparcels.ca",
         "screenshot": null,
         "is_safe": null
     },
@@ -90954,6 +92844,15 @@
         "is_safe": null
     },
     {
+        "id": "ae4666c3-71d3-4c4f-9765-379fbe0ac635",
+        "date": "2025-01-17T05:01:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.compte-demo.ch",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "237ee341-d2e7-4d3e-b92b-a7ca8d53a820",
         "date": "2025-01-16T12:49:26",
         "source": "CRAWLER",
@@ -91040,6 +92939,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "devel-sel.atih.sante.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "efa7d4a6-0abd-4d83-a7b3-5967c8495bdd",
+        "date": "2025-01-17T01:49:49",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "isolation-exterieur-gouv.org",
         "screenshot": null,
         "is_safe": null
     },
@@ -91328,6 +93236,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "tram-t10-prolongement.iledefrance-mobilites.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "fb01f58c-7949-4c2c-b60d-4ebd58fcc0bd",
+        "date": "2025-01-17T05:05:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "smartphones-en-paiements-mensuels-et-sans-acompte.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -92646,6 +94563,15 @@
         "is_safe": null
     },
     {
+        "id": "19aca9f9-3b5a-4b5c-8995-e0ee85e0d357",
+        "date": "2025-01-17T07:15:57",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "share-google.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e7fde3e9-f926-4c0a-a5f8-f86b10364525",
         "date": "2025-01-09T00:13:36",
         "source": "API",
@@ -93510,6 +95436,15 @@
         "is_safe": null
     },
     {
+        "id": "9879ce2d-6e98-4c88-bd75-bbad4839ec66",
+        "date": "2025-01-17T02:33:28",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "notexistsallegro.werlang.site",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "444bd175-d059-4501-bab1-39aa5dca82b3",
         "date": "2025-01-11T22:41:31",
         "source": "CRAWLER",
@@ -93524,6 +95459,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.meusbank.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "b3df0dfc-c16c-46b9-8422-160fa2c34eea",
+        "date": "2025-01-17T02:03:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10634-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -94068,6 +96012,15 @@
         "is_safe": null
     },
     {
+        "id": "5bf88300-f4a6-4b10-ba96-bc66d321a24a",
+        "date": "2025-01-17T01:59:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.yumparcele.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3d96c6ea-a68f-4191-aef6-42638889051f",
         "date": "2025-01-15T21:01:27",
         "source": "CRAWLER",
@@ -94316,6 +96269,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "fastcolis.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c41eb2e4-4877-4f7f-817b-94b0cbbba436",
+        "date": "2025-01-17T01:26:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.skylineshipments.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -95139,6 +97101,15 @@
         "is_safe": false
     },
     {
+        "id": "b26f2af1-1c1f-47bb-a2f8-d5431edb0eed",
+        "date": "2025-01-17T05:02:22",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "unevoixauxmaladiesvalvulaires.ca",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "7878950f-24bc-4d27-ae6e-97d1ab16596c",
         "date": "2025-01-15T07:27:23",
         "source": "CRAWLER",
@@ -95542,6 +97513,15 @@
         "url": "cherideblasis.agentverifier.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "da2b8355-5749-46b7-9a72-b2a277c2cd61",
+        "date": "2025-01-17T02:26:33",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "learn-microsoft.net",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "64994121-b161-49db-8b2b-e8fbe0aaaf70",
@@ -96066,6 +98046,15 @@
         "is_safe": null
     },
     {
+        "id": "50cac9d4-76b8-434b-980a-a4645a6120dd",
+        "date": "2025-01-17T02:58:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.vitalurgent.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1266515b-9bed-4ddd-9002-09167d613c00",
         "date": "2025-01-14T16:27:13",
         "source": "CRAWLER",
@@ -96278,6 +98267,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "xn--googletumacz-jcc.pl",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "815bc454-03f5-419f-bb22-701e558c61f8",
+        "date": "2025-01-17T01:49:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "isolation-exterieur-gouv.org",
         "screenshot": null,
         "is_safe": null
     },
@@ -96696,6 +98694,15 @@
         "is_safe": null
     },
     {
+        "id": "275ca27d-549a-4fea-9ab9-c5fac211dc58",
+        "date": "2025-01-17T03:51:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ofertas-mercadolibre.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4e7d7052-b5e4-4866-b089-905ac3ad91d6",
         "date": "2025-01-13T19:07:41",
         "source": "CRAWLER",
@@ -97108,6 +99115,15 @@
         "url": "icloud-my.com",
         "screenshot": "https://phishing-browser-screenshots.s3.eu-west-3.amazonaws.com/screenshots/icloud-my_com.png",
         "is_safe": false
+    },
+    {
+        "id": "2caa492e-149b-4e7f-ad77-695d3113200e",
+        "date": "2025-01-17T01:21:32",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fotobearbeitungsprogramm-windows-10.de",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "91ef8515-2ae8-4b9a-86e0-3c79ebfd23e7",
@@ -97637,6 +99653,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "messaging.iot.natwest.suite.maximo.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "3d20dd7a-ea70-4b26-a07a-49e0eba2b2a1",
+        "date": "2025-01-17T05:09:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashorder.icu",
         "screenshot": null,
         "is_safe": null
     },
@@ -98307,6 +100332,15 @@
         "is_safe": null
     },
     {
+        "id": "f380b4f0-7b6b-4ff3-acea-c68b3b45c67a",
+        "date": "2025-01-17T01:33:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "directeurdecomptesshell.ca",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ec23c202-3f80-4113-9d7f-5d8edaa62524",
         "date": "2025-01-13T17:07:25",
         "source": "CRAWLER",
@@ -98366,6 +100400,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "lecolis.info",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e851d633-9659-40e2-a5ad-c0285fa63623",
+        "date": "2025-01-17T05:57:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "mercadolibre-uy.life",
         "screenshot": null,
         "is_safe": null
     },
@@ -98730,6 +100773,15 @@
         "is_safe": null
     },
     {
+        "id": "c23280ff-276d-42ca-bee4-0c569c8c53e5",
+        "date": "2025-01-17T01:22:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fotobearbeitungsprogramm-windows-10.de",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "dbc10768-3eec-4166-9b03-99757eef1ce2",
         "date": "2025-01-14T01:35:33",
         "source": "CRAWLER",
@@ -99041,6 +101093,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.shanti-niketan.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "fb4f6f1d-b1ab-4e37-8487-c9a7ee7b5377",
+        "date": "2025-01-17T06:32:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "binanceinvestvip.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -99801,6 +101862,15 @@
         "is_safe": null
     },
     {
+        "id": "0bd8ceb5-fe1e-4130-8d8b-00bacc963a82",
+        "date": "2025-01-17T05:19:31",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fundallocationstrategies.us",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f5355e1e-9b6e-43cd-aba9-e52a458db0e9",
         "date": "2025-01-15T18:35:59",
         "source": "CRAWLER",
@@ -99833,6 +101903,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "reussirsoutienscolaire.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5def90a4-7187-4e8c-a0c8-40cb63bb8771",
+        "date": "2025-01-17T05:46:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-care.in",
         "screenshot": null,
         "is_safe": null
     },
@@ -100314,6 +102393,15 @@
         "is_safe": null
     },
     {
+        "id": "5940234e-7c99-4cef-9ec6-c47ff039cc69",
+        "date": "2025-01-17T05:41:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "admin-developer.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4b00e25a-33de-4bb9-8b7c-cedb510663f0",
         "date": "2025-01-10T04:38:57",
         "source": "CRAWLER",
@@ -100634,6 +102722,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "priparcel.eu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "0a76cb3f-5196-4c04-a8da-2f1bffc4221b",
+        "date": "2025-01-17T05:57:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt1234.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -101448,6 +103545,24 @@
         "is_safe": null
     },
     {
+        "id": "9eca0564-8dce-4f9c-9e71-c7820b15e422",
+        "date": "2025-01-17T02:09:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "paiement.centrefrance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "272a0dec-1fff-443b-b110-d173e423a367",
+        "date": "2025-01-17T05:46:05",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-qkf1.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "a912f0ce-e213-4be3-8e6f-6a02c3e299e8",
         "date": "2025-01-11T14:24:57",
         "source": "CRAWLER",
@@ -101669,6 +103784,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "play-google-slot.top",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1ab62571-beec-436c-9c71-db0b8618bdf2",
+        "date": "2025-01-17T05:51:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliasmiths.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -102137,6 +104261,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "mmmmmmmmmm-cic.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "135d3d59-3b34-4529-a7b5-dd1fd5e93fcf",
+        "date": "2025-01-17T04:20:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "assurance.carrefour.fr",
         "screenshot": null,
         "is_safe": null
     },
@@ -103167,6 +105300,15 @@
         "is_safe": null
     },
     {
+        "id": "ed616367-40aa-419f-a4f3-2eb9f5c4df5b",
+        "date": "2025-01-17T06:45:18",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fritadeira-parcelada.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "cb52f268-1430-4527-8c34-8bcb3ef16793",
         "date": "2025-01-15T19:04:09",
         "source": "CRAWLER",
@@ -104040,6 +106182,15 @@
         "is_safe": null
     },
     {
+        "id": "d4e83cf0-b9a3-415d-a590-f8b711226dc6",
+        "date": "2025-01-17T05:53:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "dxl-rvm-rvmsystems-dev.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fd664c13-d0b3-4fc6-9f20-1b7c9e8fe500",
         "date": "2025-01-14",
         "source": "HONEY_POT",
@@ -104198,6 +106349,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "flash-sante.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f49a281a-a059-46c2-8b83-0b09dba4fb71",
+        "date": "2025-01-17T04:38:58",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adidas-originals.com.tw",
         "screenshot": null,
         "is_safe": null
     },
@@ -105255,6 +107415,15 @@
         "is_safe": null
     },
     {
+        "id": "1d9a810a-a759-4c22-92d2-e7c91f462c5f",
+        "date": "2025-01-17T05:46:25",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.samsung-care.in",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "b5a1f6c8-77c9-44e8-8210-136ebddac6b4",
         "date": "2025-01-10T09:47:26",
         "source": "CRAWLER",
@@ -105615,6 +107784,15 @@
         "is_safe": null
     },
     {
+        "id": "e826ce51-96c1-4182-a50e-c5c8dc3dcea3",
+        "date": "2025-01-17T02:01:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compreparcelado.store",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e1efa86a-a3fb-4156-9443-060815999b7c",
         "date": "2025-01-15T07:23:07",
         "source": "CRAWLER",
@@ -105773,6 +107951,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.compterenduversailles.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c9f6aa84-b72f-403e-910b-23ec1a8a29d8",
+        "date": "2025-01-17T04:22:07",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "nike-used-cars-7216059.world",
         "screenshot": null,
         "is_safe": null
     },
@@ -107577,6 +109764,15 @@
         "is_safe": null
     },
     {
+        "id": "bc1b2deb-b589-4854-a941-ced47ddc837b",
+        "date": "2025-01-17T05:04:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashgett.cfd",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "15b9d864-0a9c-4ba4-b985-7d0ef04c88f6",
         "date": "2025-01-15T09:40:25",
         "source": "CRAWLER",
@@ -107631,6 +109827,15 @@
         "is_safe": null
     },
     {
+        "id": "be52b5d5-e126-4f69-b295-929eabde7289",
+        "date": "2025-01-17T06:01:42",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "corporatedev1.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1d916755-c638-4ed6-9f18-2aaf7879a961",
         "date": "2025-01-16T00:23:01",
         "source": "CRAWLER",
@@ -107663,6 +109868,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "tamarindbanquet.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6101d217-a9d7-4997-aae5-166a83767ed3",
+        "date": "2025-01-17T02:53:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-gift.shop",
         "screenshot": null,
         "is_safe": null
     },
@@ -107865,6 +110079,15 @@
         "is_safe": null
     },
     {
+        "id": "cf363b9e-f278-49d6-ab82-154e6885163f",
+        "date": "2025-01-17T03:00:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.samsung-tf.com.mag-cell-1.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8f8bff35-5f69-4f0e-abfd-c3be6fc709f8",
         "date": "2025-01-13T19:47:01",
         "source": "CRAWLER",
@@ -107924,6 +110147,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "adidas-nmdshoes.us.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7fc9afd7-1ad5-460a-98ac-2590555c9673",
+        "date": "2025-01-17T02:06:36",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "binance-api.gobob.xyz",
         "screenshot": null,
         "is_safe": null
     },
@@ -108288,6 +110520,15 @@
         "is_safe": null
     },
     {
+        "id": "f3f0bc13-bac1-43b5-9d4e-ad0361082492",
+        "date": "2025-01-17T04:40:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.samsung-care.in",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "35c13948-d73d-4dcd-b073-d538d77ecda5",
         "date": "2025-01-11T15:45:47",
         "source": "CRAWLER",
@@ -108576,6 +110817,15 @@
         "is_safe": null
     },
     {
+        "id": "55bf81fc-dc60-408d-9448-f9f72e8c1e16",
+        "date": "2025-01-17T04:52:50",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.urgentpestremoval.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "237184ce-8e29-4bf5-b6cf-db061652fb19",
         "date": "2025-01-13T14:01:04",
         "source": "CRAWLER",
@@ -108725,6 +110975,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "from-google.ehrig.io",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "cd96e082-2abe-400b-ab2b-762dfa6be127",
+        "date": "2025-01-17T05:52:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "second-google.yn.to",
         "screenshot": null,
         "is_safe": null
     },
@@ -108936,6 +111195,15 @@
         "is_safe": null
     },
     {
+        "id": "6fd31ccd-738f-467d-8f3b-b719c78bcbc1",
+        "date": "2025-01-17T05:30:04",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram.uw.to",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "451a7d85-7cce-4c53-92da-24aa5aaa2f79",
         "date": "2025-01-12T10:58:33",
         "source": "CRAWLER",
@@ -108997,6 +111265,15 @@
         "url": "canamex-static.pages.dev",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "91993927-36e6-4642-be28-fcbf686b43fb",
+        "date": "2025-01-17T03:00:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-tf.com",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "b413bdcd-d851-4b01-a491-d69cdc398936",
@@ -109076,6 +111353,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "binancebsc.xyz",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "f6dd35af-6f19-4070-a837-c5b17e9d5895",
+        "date": "2025-01-17T02:53:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "samsung-restore.ru",
         "screenshot": null,
         "is_safe": null
     },
@@ -110790,6 +113076,15 @@
         "is_safe": null
     },
     {
+        "id": "1abd1f96-583c-453e-9879-d399e437af41",
+        "date": "2025-01-17T01:41:46",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "ww-discord.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fad9f61b-253f-4d5f-aa1b-aef23e7bff5b",
         "date": "2025-01-15T05:03:56",
         "source": "CRAWLER",
@@ -110867,6 +113162,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "account.raceworthyparcels.ca",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1ca99a35-4d95-4e24-8af2-c4dc5ba5ac36",
+        "date": "2025-01-17T07:04:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "morganstanley.cloudflaresso.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -111371,6 +113675,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "sw-allocation-dev.iaproducts.ai",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5fab75c4-2dcc-42f9-8e96-d8370cf9bd44",
+        "date": "2025-01-17T05:30:17",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fritadeira-parcelada.today",
         "screenshot": null,
         "is_safe": null
     },
@@ -112275,6 +114588,15 @@
         "is_safe": null
     },
     {
+        "id": "c53b9d43-db79-4ddf-ae7c-0a23d76b9f49",
+        "date": "2025-01-17T07:07:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "tonyaportis.agent-verifier.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "51d28f26-2e7e-42a9-82ca-5d179a5f924e",
         "date": "2025-01-11T06:53:30",
         "source": "CRAWLER",
@@ -112318,6 +114640,15 @@
         "url": "parcelsynclogistics.com",
         "screenshot": null,
         "is_safe": true
+    },
+    {
+        "id": "1a88f48e-4d0d-41ce-893f-57aff336802e",
+        "date": "2025-01-17T07:02:40",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-privacy.eu.org",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "772ddb1b-0edd-4541-8ccf-e29d5feaf9d5",
@@ -112442,6 +114773,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compteclients.eclatparis.store",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "24092b94-83aa-49c4-8da8-3b43e73ddce0",
+        "date": "2025-01-17T05:08:24",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "hkbinance.top",
         "screenshot": null,
         "is_safe": null
     },
@@ -113175,6 +115515,15 @@
         "is_safe": null
     },
     {
+        "id": "e24c1171-6fcb-4b7c-b3aa-39b9e6aea9db",
+        "date": "2025-01-17T06:23:39",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.santexelectric.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "4e01fe14-0e92-468a-885b-c06cac16c3ca",
         "date": "2025-01-15T09:26:50",
         "source": "CRAWLER",
@@ -113540,6 +115889,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "lantern-crest-senior-living-santee.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "e3bb1b6a-4f19-4a46-9652-c0162f5a1ea0",
+        "date": "2025-01-17T05:20:45",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliamalins.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -114156,6 +116514,15 @@
         "is_safe": null
     },
     {
+        "id": "2c7228fd-1430-4169-9790-f47b58e9b525",
+        "date": "2025-01-17T04:35:29",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "en.pk-paiement.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ddcf22ff-f42d-4000-8df7-a6f64ca186d5",
         "date": "2025-01-11T04:52:28",
         "source": "CRAWLER",
@@ -114359,6 +116726,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "estrelaimportados.shop",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ba89b9b1-0c84-4d77-946c-2d0dc21b1970",
+        "date": "2025-01-17T03:26:09",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "amazon-8ll.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -114728,6 +117104,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "play-google-26.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "403d4400-45fe-490f-b771-f36e00c2243a",
+        "date": "2025-01-17T01:51:19",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "casinoswithgooglepay.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -115794,6 +118179,15 @@
         "is_safe": null
     },
     {
+        "id": "9a6112f2-316a-406a-b748-fa32a0c478ed",
+        "date": "2025-01-17T05:42:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "votre-indemnitecarburant.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "0964ea3b-f397-4a45-8dd4-2c7c20ae3975",
         "date": "2025-01-09T09:13:35",
         "source": "API",
@@ -115873,6 +118267,15 @@
         "url": "dods.portal-microsofts-cloud-authns.click",
         "screenshot": "https://phishing-browser-screenshots.s3.eu-west-3.amazonaws.com/screenshots/dods_portal-microsofts-cloud-authns_click.png",
         "is_safe": false
+    },
+    {
+        "id": "3415af38-686b-4205-aaaf-471c3ddf408d",
+        "date": "2025-01-17T03:27:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "instagram-cam799.pages.dev",
+        "screenshot": null,
+        "is_safe": null
     },
     {
         "id": "a303905e-a25f-4146-81c7-50ed8a778339",
@@ -116006,6 +118409,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "afiliados.labelacaixabank.eus",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "7c01793f-b680-4e8b-b956-a0c523658fa9",
+        "date": "2025-01-17T04:06:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.ameliawatersports.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -117320,6 +119732,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "ashley-allocation.iaproducts.ai",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "c7196203-f56b-4729-8573-08d9aeafa8c5",
+        "date": "2025-01-17T05:46:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.samsung-care.in",
         "screenshot": null,
         "is_safe": null
     },
@@ -118647,6 +121068,15 @@
         "is_safe": null
     },
     {
+        "id": "ce3d82d3-42da-4634-92ff-9e69ba471c13",
+        "date": "2025-01-17T04:14:13",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "relay-fr-acheminement.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "eb826ac2-9ab3-458d-b97b-4c640a363a4a",
         "date": "2025-01-14T20:52:38",
         "source": "CRAWLER",
@@ -119412,6 +121842,15 @@
         "is_safe": null
     },
     {
+        "id": "c2fdf08e-50ef-48a3-84c2-b99071795fe6",
+        "date": "2025-01-17T06:41:38",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "fundallocationstrategies.us",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "3b71a879-48f0-404a-a8b7-438100b0d130",
         "date": "2025-01-10T13:59:31",
         "source": "CRAWLER",
@@ -119777,6 +122216,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "admin.urgentbuysellrent.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a2d5898e-073c-46b4-8803-514740bc2b50",
+        "date": "2025-01-17T04:34:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "en.pk-paiement.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -120501,6 +122949,15 @@
         "is_safe": null
     },
     {
+        "id": "a0c7f92c-cffb-4a39-862e-41b9fff9d025",
+        "date": "2025-01-17T05:57:11",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "discord-styled-text.miaow.io",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c29524ef-a386-4cc5-999f-e208fe791b0c",
         "date": "2025-01-14T08:58:14",
         "source": "CRAWLER",
@@ -120776,6 +123233,24 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "airbnbtakeoff.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "ede5a86b-2902-470f-920a-9bfd4bb76cba",
+        "date": "2025-01-17T05:33:34",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bell-caf-frontend.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "118be19c-6f57-418a-9a57-e4beab8824ea",
+        "date": "2025-01-17T06:59:51",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "manualmercadolibre.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -121680,6 +124155,15 @@
         "is_safe": null
     },
     {
+        "id": "f4dc79cf-6f33-41db-ba98-235a1ade4a35",
+        "date": "2025-01-17T05:02:41",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "compreparcelado.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "c31da2f7-b69c-4f69-8726-4913c2b56f50",
         "date": "2025-01-14T10:39:31",
         "source": "CRAWLER",
@@ -122013,6 +124497,15 @@
         "is_safe": null
     },
     {
+        "id": "6755f8e3-7296-41fd-b761-bbffc930f458",
+        "date": "2025-01-17T07:18:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "arret-maladie.online",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "2db1034c-77fa-4b69-9a37-05b1a737859c",
         "date": "2025-01-13T00:54:24",
         "source": "CRAWLER",
@@ -122063,6 +124556,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "microsoft-windows-c-microsoft-corporation.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "22d7bea0-33af-49d6-af1d-f44b0eb5feaf",
+        "date": "2025-01-17T03:45:37",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "antal-simulation-infraction-enligne-fr-id.app-linch-web-io.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -122828,6 +125330,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "tool.urgentiq.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "70622e46-927a-40ce-96a9-a812499a1c40",
+        "date": "2025-01-17T04:44:23",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "payroll.bicolisarog.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -123822,6 +126333,15 @@
         "is_safe": null
     },
     {
+        "id": "b4d4addf-ec6c-4690-ad5c-850dab85def4",
+        "date": "2025-01-17T03:35:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "google-google.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f3cef01d-42bb-4b14-9692-e1583324b6d2",
         "date": "2025-01-12T19:42:28",
         "source": "CRAWLER",
@@ -124430,6 +126950,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.faith-connexion.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "da6c12c7-1666-4804-a7f2-f31b41d99211",
+        "date": "2025-01-17T05:58:47",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adult-snapchat-groups-18xxx.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -125064,6 +127593,15 @@
         "is_safe": true
     },
     {
+        "id": "8080e762-15a7-45de-aa29-1076d3105ab2",
+        "date": "2025-01-17T05:46:26",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "adidas-originals.com.tw",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1d910916-589b-41d7-a410-9ffdaacabb5b",
         "date": "2025-01-14T11:23:16",
         "source": "CRAWLER",
@@ -125244,6 +127782,15 @@
         "is_safe": null
     },
     {
+        "id": "16d4abe2-e8b3-4859-94c9-b0ea395fed26",
+        "date": "2025-01-17T06:35:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.anamendesartist.pt",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "ccc36624-3efc-4117-ab86-1e8c06760137",
         "date": "2025-01-16T19:38:45",
         "source": "CRAWLER",
@@ -125321,6 +127868,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "compre-uma-smart-tvparcelada.today",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "1569ed16-f1b5-422a-b5bf-21d0a8715a69",
+        "date": "2025-01-17T04:43:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "eternalconnexions.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -125501,6 +128057,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "yorkairbnb.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "a5be5b70-f8d6-4c89-b4e1-db9d65befbf0",
+        "date": "2025-01-17T06:51:15",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.santehappybrands.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -126783,6 +129348,24 @@
         "is_safe": null
     },
     {
+        "id": "b66dd082-fd9d-40f8-84f9-270026b9c8cb",
+        "date": "2025-01-17T03:06:42",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "tsm.carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "246b41c4-dc3f-4ac3-864f-30fad8cd27d9",
+        "date": "2025-01-17T01:58:02",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "bionime-fb.santediagno.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "08e574d7-0f74-4985-abdd-22ea884ce076",
         "date": "2025-01-13T00:50:28",
         "source": "CRAWLER",
@@ -127121,6 +129704,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "enquetes.atih.sante.fr",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6c3d00d2-3b54-404b-9bec-6fa102a6b475",
+        "date": "2025-01-17T03:41:55",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.mondialrelay-suivre-mes-colis.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -128187,6 +130779,15 @@
         "is_safe": null
     },
     {
+        "id": "5ed52b95-7037-4d76-b8f0-dfa7653dce1b",
+        "date": "2025-01-17T01:37:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "www.concordebanquets.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "e35c1bf5-27d0-44da-8a59-63e5188d17c8",
         "date": "2025-01-14T19:37:04",
         "source": "CRAWLER",
@@ -128592,6 +131193,15 @@
         "is_safe": null
     },
     {
+        "id": "f972e385-6c8b-459b-9f65-6711d95b0abf",
+        "date": "2025-01-17T04:23:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "digitalattentionspan.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "889182c3-1181-4ea1-af47-937e152c7755",
         "date": "2025-01-10T16:00:02",
         "source": "CRAWLER",
@@ -128615,6 +131225,15 @@
         "source": "API",
         "source_name": "reddit",
         "url": "https://www.binance.com/en/square/post/18665553034594](https://www.binance.com/en/square/post/18665553034594)",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d9b1860f-b9b7-47eb-8de9-3ead0cb48cff",
+        "date": "2025-01-17T04:24:16",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "barclaysproperties.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -129105,6 +131724,15 @@
         "is_safe": null
     },
     {
+        "id": "345e02a7-51ac-4452-99c7-13b108da8bf9",
+        "date": "2025-01-17T02:09:00",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "paiement.centrefrance.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "8e6fa2f5-e9c3-4420-af7f-28d7b019a2f0",
         "date": "2025-01-12T14:43:55",
         "source": "CRAWLER",
@@ -129546,6 +132174,15 @@
         "is_safe": null
     },
     {
+        "id": "f2b85ed1-17a9-4c9c-b413-5a52fa7db6b3",
+        "date": "2025-01-17T05:04:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "carrefour.ro",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "1c1be2cc-acdf-47b0-970d-a098689f1da6",
         "date": "2025-01-14T11:58:29",
         "source": "CRAWLER",
@@ -129704,6 +132341,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "moncompte.diamanttamara.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "6aaf1513-7aa3-400b-b545-366c4752585d",
+        "date": "2025-01-17T01:59:44",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "yumparcele.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -130167,6 +132813,15 @@
         "is_safe": null
     },
     {
+        "id": "bbbb2e35-fdc7-4778-af0b-94b9652bff7f",
+        "date": "2025-01-17T04:21:20",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "digitalattentionspan.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "899c48db-7348-4740-a91f-f762ff47a255",
         "date": "2025-01-14T20:52:48",
         "source": "CRAWLER",
@@ -130388,6 +133043,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "sportsconnexion.uk",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "4a0e900d-538f-4d38-b102-2a9d37b6c94f",
+        "date": "2025-01-17T02:34:01",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "logistik.bnpb.go.id",
         "screenshot": null,
         "is_safe": null
     },
@@ -131193,6 +133857,15 @@
         "is_safe": null
     },
     {
+        "id": "7a204304-82c5-4ed5-a505-20c0882a57ce",
+        "date": "2025-01-17T04:14:12",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "snapchat-available-for-sex-6iz.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "f5ee4050-4354-4057-97f9-066363be8e8d",
         "date": "2025-01-13T11:13:18",
         "source": "CRAWLER",
@@ -131364,6 +134037,15 @@
         "is_safe": null
     },
     {
+        "id": "147c03a3-da6e-4c4e-b816-603e295dd8d6",
+        "date": "2025-01-17T05:06:14",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "hotelblueberrybanquetandspa.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "57899e82-969e-4e50-a319-987f0106fa30",
         "date": "2025-01-12T00:57:59",
         "source": "CRAWLER",
@@ -131387,6 +134069,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "nylamendez7kj0c3j6y.pages.dev",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "5eb53607-e590-4afa-b59a-98b7d3505e34",
+        "date": "2025-01-17T06:30:03",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "endedcocainedvdarw.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -132858,6 +135549,15 @@
         "is_safe": null
     },
     {
+        "id": "f062149a-9610-4cfd-84cc-326bb5e158dc",
+        "date": "2025-01-17T02:26:21",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "gumtree-cashorder.icu",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "84480cc6-1cc3-434e-b7c5-c608c824a7c9",
         "date": "2025-01-13T11:31:03",
         "source": "CRAWLER",
@@ -133092,6 +135792,15 @@
         "is_safe": null
     },
     {
+        "id": "a49b7476-d811-4a66-a4fe-06bb1713ed1b",
+        "date": "2025-01-17T06:46:27",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "borgoficorelais.com",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
         "id": "fb4597a5-e3f3-45f8-b356-47396e5ebc04",
         "date": "2025-01-13T00:10:31",
         "source": "CRAWLER",
@@ -133196,6 +135905,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "comercial.santecsaneamento.com.br",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "68298f5d-a81a-43c8-b091-ae7b7a3ee123",
+        "date": "2025-01-17T02:37:52",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "microsoft-spprt-alt321.pages.dev",
         "screenshot": null,
         "is_safe": null
     },
@@ -133430,6 +136148,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "digital-rsa-app.urgent.ly",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "402acd9a-6619-427b-9002-8295baecff01",
+        "date": "2025-01-17T01:37:56",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "concordebanquets.com",
         "screenshot": null,
         "is_safe": null
     },
@@ -133709,6 +136436,15 @@
         "source": "CRAWLER",
         "source_name": "URL_Crawler",
         "url": "www.burgerkingfranchise.org",
+        "screenshot": null,
+        "is_safe": null
+    },
+    {
+        "id": "d82218e1-7ecb-4e21-82f5-3b6342784930",
+        "date": "2025-01-17T01:40:08",
+        "source": "CRAWLER",
+        "source_name": "URL_Crawler",
+        "url": "pr-10210-preview.urgentcomm.com",
         "screenshot": null,
         "is_safe": null
     },
